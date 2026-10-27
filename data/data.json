@@ -39,7 +39,8 @@
      "date": "2026-09-30",
      "rating": "Solid R"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "S-AK",
@@ -76,7 +77,8 @@
      "date": "2026-09-30",
      "rating": "Toss-up"
     }
-   ]
+   ],
+   "note_fr": "Le ministère de la Justice conteste la candidature d'un second Dan Sullivan et veut bloquer la certification si le sortant perd."
   },
   {
    "id": "S-AR",
@@ -276,7 +278,8 @@
      "date": "2026-09-30",
      "rating": "Solid D"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "S-IA",
@@ -337,7 +340,8 @@
      "date": "2026-09-30",
      "rating": "Toss-up"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert après le départ de Joni Ernst. Marist donne Turek en tête de 3 points."
   },
   {
    "id": "S-KS",
@@ -378,7 +382,8 @@
      "date": "2026-10-06",
      "rating": "Toss-up"
     }
-   ]
+   ],
+   "note_fr": "Le Kansas n'a plus élu de sénateur démocrate depuis 1932."
   },
   {
    "id": "S-KY",
@@ -402,7 +407,8 @@
      "date": "2026-09-30",
      "rating": "Solid R"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "S-LA",
@@ -475,7 +481,8 @@
      "date": "2026-09-30",
      "rating": "Toss-up"
     }
-   ]
+   ],
+   "note_fr": "Un sondage Fox News du 23 octobre montre aussi une égalité à 49-49."
   },
   {
    "id": "S-MA",
@@ -548,7 +555,8 @@
      "date": "2026-09-30",
      "rating": "Toss-up"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert après le départ de Gary Peters. Trump et Obama y ont fait campagne le 25 octobre."
   },
   {
    "id": "S-MN",
@@ -595,7 +603,8 @@
      "date": "2026-10-20",
      "rating": "Lean D"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "S-MS",
@@ -623,7 +632,8 @@
      "date": "2026-10-20",
      "rating": "Likely R"
     }
-   ]
+   ],
+   "note_fr": "Trump a tenu un meeting à Corinth pour Hyde-Smith le 26 octobre."
   },
   {
    "id": "S-MT",
@@ -647,7 +657,8 @@
      "date": "2026-09-30",
      "rating": "Solid R"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "S-NE",
@@ -678,7 +689,8 @@
      "date": "2026-09-30",
      "rating": "Likely R"
     }
-   ]
+   ],
+   "note_fr": "Un sondage NPA (R) du 12 octobre place Ricketts en tête."
   },
   {
    "id": "S-NH",
@@ -719,7 +731,8 @@
      "date": "2026-10-06",
      "rating": "Lean D"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "S-NJ",
@@ -826,7 +839,8 @@
      "date": "2026-10-06",
      "rating": "Likely D"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert après le départ de Thom Tillis."
   },
   {
    "id": "S-OH",
@@ -911,7 +925,8 @@
      "date": "2026-09-30",
      "rating": "Solid R"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "S-OR",
@@ -1000,7 +1015,8 @@
      "date": "2026-10-20",
      "rating": "Lean R"
     }
-   ]
+   ],
+   "note_fr": "Les anciens gouverneurs David Beasley (R) et Jim Hodges (D) ont soutenu Andrews le 26 octobre."
   },
   {
    "id": "S-SD",
@@ -1152,7 +1168,8 @@
      "date": "2026-09-30",
      "rating": "Toss-up"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert et course la plus chère du cycle. Sur Kalshi, Talarico est donné gagnant à 65 %."
   },
   {
    "id": "S-VA",
@@ -1224,7 +1241,8 @@
      "date": "2026-09-30",
      "rating": "Solid R"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "G-AL",
@@ -1248,7 +1266,8 @@
      "date": "2026-09-30",
      "rating": "Solid R"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "G-AK",
@@ -1276,7 +1295,8 @@
      "date": "2026-10-13",
      "rating": "Lean D"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert. Vote préférentiel."
   },
   {
    "id": "G-AZ",
@@ -1348,7 +1368,8 @@
      "date": "2026-09-30",
      "rating": "Solid D"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "G-CO",
@@ -1372,7 +1393,8 @@
      "date": "2026-09-30",
      "rating": "Solid D"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "G-CT",
@@ -1424,7 +1446,8 @@
      "date": "2026-10-01",
      "rating": "Lean R"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "G-GA",
@@ -1448,7 +1471,8 @@
      "date": "2026-09-30",
      "rating": "Toss-up"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert. Brian Kemp ne peut pas se représenter."
   },
   {
    "id": "G-HI",
@@ -1544,7 +1568,8 @@
      "date": "2026-09-30",
      "rating": "Lean D"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "G-KS",
@@ -1568,7 +1593,8 @@
      "date": "2026-09-30",
      "rating": "Lean R"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert. Laura Kelly ne peut pas se représenter."
   },
   {
    "id": "G-ME",
@@ -1599,7 +1625,8 @@
      "date": "2026-09-30",
      "rating": "Solid D"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "G-MD",
@@ -1678,7 +1705,8 @@
      "date": "2026-09-30",
      "rating": "Lean D"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert. Gretchen Whitmer ne peut pas se représenter."
   },
   {
    "id": "G-MN",
@@ -1785,7 +1813,8 @@
      "date": "2026-09-30",
      "rating": "Likely/Solid R"
     }
-   ]
+   ],
+   "note_fr": "Notation Cook exacte (probable ou acquis R) non confirmée."
   },
   {
    "id": "G-NM",
@@ -1809,7 +1838,8 @@
      "date": "2026-09-30",
      "rating": "Solid D"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "G-NY",
@@ -1861,7 +1891,8 @@
      "date": "2026-10-23",
      "rating": "Lean D"
     }
-   ]
+   ],
+   "note_fr": "Changement après la polémique sur une publicité de Ramaswamy mettant en scène la mère d'Acton, avec qui elle est brouillée."
   },
   {
    "id": "G-OK",
@@ -1889,7 +1920,8 @@
      "date": "2026-10-13",
      "rating": "Likely R"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "G-OR",
@@ -1999,7 +2031,8 @@
      "date": "2026-09-30",
      "rating": "Likely/Solid R"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert. Notation Cook exacte non confirmée."
   },
   {
    "id": "G-SD",
@@ -2047,7 +2080,8 @@
      "date": "2026-09-30",
      "rating": "Solid R"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   },
   {
    "id": "G-TX",
@@ -2134,7 +2168,8 @@
      "date": "2026-09-30",
      "rating": "Toss-up"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert. Tony Evers prend sa retraite."
   },
   {
    "id": "G-WY",
@@ -2158,7 +2193,8 @@
      "date": "2026-09-30",
      "rating": "Solid R"
     }
-   ]
+   ],
+   "note_fr": "Siège ouvert"
   }
  ],
  "news": [
@@ -2169,7 +2205,8 @@
    "chamber": "Senate",
    "text": "Trump rallied in Corinth for Sen. Cindy Hyde-Smith. Democrat Scott Colom is pressing her in a deep-red state.",
    "source": "Fox News",
-   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-el-sayed-california-alaska-october-26"
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-el-sayed-california-alaska-october-26",
+   "text_fr": "Trump a tenu un meeting à Corinth pour la sénatrice Cindy Hyde-Smith. Le démocrate Scott Colom la met sous pression dans un État très républicain."
   },
   {
    "id": "n20261027-2",
@@ -2178,7 +2215,8 @@
    "chamber": "Senate",
    "text": "A Targoz poll for the SC Policy Council puts Graham at 47 and Andrews at 46. Two former governors endorsed Andrews.",
    "source": "Fox Carolina",
-   "url": "https://www.foxcarolina.com/2026/10/26/new-poll-shows-neck-and-neck-senate-race-double-digit-lead-governor-sc-midterms/"
+   "url": "https://www.foxcarolina.com/2026/10/26/new-poll-shows-neck-and-neck-senate-race-double-digit-lead-governor-sc-midterms/",
+   "text_fr": "Un sondage Targoz pour le SC Policy Council donne Graham à 47 et Andrews à 46. Deux anciens gouverneurs soutiennent Andrews."
   },
   {
    "id": "n20261027-3",
@@ -2187,7 +2225,8 @@
    "chamber": "Senate",
    "text": "A Michigan State/YouGov poll shows El-Sayed up 2 on Rogers. Benson leads James by 12 for governor.",
    "source": "RealClearPolling",
-   "url": "https://www.realclearpolling.com/latest-polls"
+   "url": "https://www.realclearpolling.com/latest-polls",
+   "text_fr": "Un sondage Michigan State/YouGov donne El-Sayed devant Rogers de 2 points. Pour le poste de gouverneur, Benson devance James de 12 points."
   },
   {
    "id": "n20261027-4",
@@ -2196,7 +2235,8 @@
    "chamber": "Senate",
    "text": "Quantus Insights finds Cooper ahead of Whatley by 8 points.",
    "source": "RealClearPolling",
-   "url": "https://www.realclearpolling.com/latest-polls"
+   "url": "https://www.realclearpolling.com/latest-polls",
+   "text_fr": "Quantus Insights place Cooper devant Whatley de 8 points."
   },
   {
    "id": "n20261027-5",
@@ -2205,7 +2245,8 @@
    "chamber": "Senate",
    "text": "John Legend rallied in Dayton for Sherrod Brown and Amy Acton. Ramaswamy kept up his attacks on Acton.",
    "source": "Fox News",
-   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-el-sayed-california-alaska-october-26"
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-el-sayed-california-alaska-october-26",
+   "text_fr": "John Legend a fait campagne à Dayton pour Sherrod Brown et Amy Acton. Ramaswamy a poursuivi ses attaques contre Acton."
   },
   {
    "id": "n20261027-6",
@@ -2214,7 +2255,8 @@
    "chamber": "House",
    "text": "More than 27 million Americans had voted early by Monday morning. Texas led with over 4.3 million ballots.",
    "source": "Fox News",
-   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-el-sayed-california-alaska-october-26"
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-el-sayed-california-alaska-october-26",
+   "text_fr": "Plus de 27 millions d'Américains avaient voté par anticipation lundi matin. Le Texas arrive en tête avec plus de 4,3 millions de bulletins."
   },
   {
    "id": "n01",
@@ -2223,7 +2265,8 @@
    "chamber": "Senate",
    "text": "Trump rallied in Port Huron for Mike Rogers. Obama campaigned in the state for Democrats.",
    "source": "Fox News",
-   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-obama-michigan-alaska-october-25"
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-obama-michigan-alaska-october-25",
+   "text_fr": "Trump a tenu un meeting à Port Huron pour Mike Rogers. Obama a fait campagne dans l'État pour les démocrates."
   },
   {
    "id": "n02",
@@ -2232,7 +2275,8 @@
    "chamber": "Senate",
    "text": "Trump attacked El-Sayed over his faith and name. El-Sayed hit back.",
    "source": "CNN",
-   "url": "https://www.cnn.com/2026/10/25/politics/live-news/midterm-election-congress"
+   "url": "https://www.cnn.com/2026/10/25/politics/live-news/midterm-election-congress",
+   "text_fr": "Trump a attaqué El-Sayed sur sa religion et son nom. El-Sayed a répliqué."
   },
   {
    "id": "n03",
@@ -2241,7 +2285,8 @@
    "chamber": "Senate",
    "text": "The Justice Department went to court over the two candidates named Dan Sullivan and wants certification blocked if the incumbent loses.",
    "source": "NBC Meet the Press",
-   "url": "https://www.nbcnews.com/meet-the-press/transcripts/meet-press-october-25-2026-rcna605531"
+   "url": "https://www.nbcnews.com/meet-the-press/transcripts/meet-press-october-25-2026-rcna605531",
+   "text_fr": "Le ministère de la Justice a saisi la justice au sujet des deux candidats nommés Dan Sullivan et veut bloquer la certification si le sortant perd."
   },
   {
    "id": "n04",
@@ -2250,7 +2295,8 @@
    "chamber": "Senate",
    "text": "Trafalgar poll: Jackson 47, Collins 47. Fox News had it 49-49 on Oct. 23.",
    "source": "RealClearPolling",
-   "url": "https://www.realclearpolling.com/latest-polls/senate"
+   "url": "https://www.realclearpolling.com/latest-polls/senate",
+   "text_fr": "Sondage Trafalgar : Jackson 47, Collins 47. Fox News donnait 49-49 le 23 octobre."
   },
   {
    "id": "n05",
@@ -2259,7 +2305,8 @@
    "chamber": "Senate",
    "text": "Turek says tariffs and the Iran war hit Iowa hardest. Hinson distanced herself from Trump on Russia and Iran.",
    "source": "CNN",
-   "url": "https://www.cnn.com/2026/10/25/politics/live-news/midterm-election-congress"
+   "url": "https://www.cnn.com/2026/10/25/politics/live-news/midterm-election-congress",
+   "text_fr": "Turek affirme que les droits de douane et la guerre en Iran frappent l'Iowa plus que tout autre État. Hinson a pris ses distances avec Trump sur la Russie et l'Iran."
   },
   {
    "id": "n06",
@@ -2268,7 +2315,8 @@
    "chamber": "Senate",
    "text": "Another member of the Bush family endorsed Talarico over Paxton.",
    "source": "Fox News",
-   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-obama-michigan-alaska-october-25"
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-obama-michigan-alaska-october-25",
+   "text_fr": "Un autre membre de la famille Bush a soutenu Talarico contre Paxton."
   },
   {
    "id": "n07",
@@ -2277,7 +2325,8 @@
    "chamber": "Senate",
    "text": "Rasmussen poll: Talarico 45, Paxton 45.",
    "source": "RealClearPolling",
-   "url": "https://www.realclearpolling.com/latest-polls/senate"
+   "url": "https://www.realclearpolling.com/latest-polls/senate",
+   "text_fr": "Sondage Rasmussen : Talarico 45, Paxton 45."
   },
   {
    "id": "n08",
@@ -2286,7 +2335,8 @@
    "chamber": "Governor",
    "text": "Cook moved the race from Toss-up to Lean D after Ramaswamy's ad featuring Acton's mother.",
    "source": "The Hill",
-   "url": "https://thehill.com/homenews/campaign/6169489-cook-political-report-shifts-ohio/"
+   "url": "https://thehill.com/homenews/campaign/6169489-cook-political-report-shifts-ohio/",
+   "text_fr": "Cook a fait passer la course d'Indécis à Penche D après la publicité de Ramaswamy sur la mère d'Acton."
   },
   {
    "id": "n09",
@@ -2295,7 +2345,8 @@
    "chamber": "Senate",
    "text": "Inside Elections moved Texas to Toss-up.",
    "source": "270toWin",
-   "url": "https://www.270towin.com/2026-senate-election/inside-elections-2026-senate-ratings"
+   "url": "https://www.270towin.com/2026-senate-election/inside-elections-2026-senate-ratings",
+   "text_fr": "Inside Elections a classé le Texas Indécis."
   },
   {
    "id": "n10",
@@ -2304,7 +2355,8 @@
    "chamber": "House",
    "text": "Cook shifted 19 House seats toward Democrats, who are now favored in the 218 seats needed for a majority.",
    "source": "Mediaite",
-   "url": "https://www.mediaite.com/politics/ohio-gov-race-moves-from-toss-up-to-lean-d-after-ramaswamy-ad-backlash-cook-political-report/"
+   "url": "https://www.mediaite.com/politics/ohio-gov-race-moves-from-toss-up-to-lean-d-after-ramaswamy-ad-backlash-cook-political-report/",
+   "text_fr": "Cook a déplacé 19 sièges de la Chambre vers les démocrates, désormais favoris dans les 218 sièges nécessaires à la majorité."
   },
   {
    "id": "n11",
@@ -2313,7 +2365,8 @@
    "chamber": "Senate",
    "text": "A Cook poll shows Democratic Senate candidates leading in Iowa, Ohio and Texas.",
    "source": "Cook Political Report",
-   "url": "https://www.cookpolitical.com/analysis/senate/senate-overview/senate-majority-squarely-democrats-sights-kansas-moves-toss-two"
+   "url": "https://www.cookpolitical.com/analysis/senate/senate-overview/senate-majority-squarely-democrats-sights-kansas-moves-toss-two",
+   "text_fr": "Un sondage Cook montre les candidats démocrates au Sénat en tête dans l'Iowa, l'Ohio et le Texas."
   },
   {
    "id": "n12",
@@ -2322,7 +2375,8 @@
    "chamber": "Senate",
    "text": "InsiderAdvantage poll: Hinson 47, Turek 45.",
    "source": "NBC News",
-   "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls"
+   "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls",
+   "text_fr": "Sondage InsiderAdvantage : Hinson 47, Turek 45."
   },
   {
    "id": "n13",
@@ -2331,7 +2385,8 @@
    "chamber": "Senate",
    "text": "InsiderAdvantage poll: El-Sayed 47, Rogers 46.",
    "source": "NBC News",
-   "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls"
+   "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls",
+   "text_fr": "Sondage InsiderAdvantage : El-Sayed 47, Rogers 46."
   },
   {
    "id": "n14",
@@ -2340,7 +2395,8 @@
    "chamber": "Senate",
    "text": "Marshall and Hamilton met for their debate. Trump attacked Hamilton on Truth Social.",
    "source": "Axios",
-   "url": "https://www.axios.com/local/kansas-city/2026/10/15/kansas-senate-voter-guide-axios"
+   "url": "https://www.axios.com/local/kansas-city/2026/10/15/kansas-senate-voter-guide-axios",
+   "text_fr": "Marshall et Hamilton ont débattu. Trump a attaqué Hamilton sur Truth Social."
   },
   {
    "id": "n15",
@@ -2349,7 +2405,8 @@
    "chamber": "Senate",
    "text": "Cook moved Minnesota from Likely D to Lean D.",
    "source": "The Hill",
-   "url": "https://thehill.com/homenews/campaign/6160752-cook-political-report-moves-races/"
+   "url": "https://thehill.com/homenews/campaign/6160752-cook-political-report-moves-races/",
+   "text_fr": "Cook a fait passer le Minnesota de Probable D à Penche D."
   },
   {
    "id": "n16",
@@ -2358,7 +2415,8 @@
    "chamber": "Senate",
    "text": "Cook moved South Carolina from Likely R to Lean R in the Graham-Andrews race.",
    "source": "The Hill",
-   "url": "https://thehill.com/homenews/campaign/6160752-cook-political-report-moves-races/"
+   "url": "https://thehill.com/homenews/campaign/6160752-cook-political-report-moves-races/",
+   "text_fr": "Cook a fait passer la Caroline du Sud de Probable R à Penche R dans la course Graham-Andrews."
   },
   {
    "id": "n17",
@@ -2367,7 +2425,8 @@
    "chamber": "Senate",
    "text": "Cook moved Mississippi from Solid R to Likely R.",
    "source": "CNN",
-   "url": "https://www.cnn.com/2026/10/20/politics/live-news/midterm-election-congress"
+   "url": "https://www.cnn.com/2026/10/20/politics/live-news/midterm-election-congress",
+   "text_fr": "Cook a fait passer le Mississippi d'Acquis R à Probable R."
   },
   {
    "id": "n18",
@@ -2376,7 +2435,8 @@
    "chamber": "Governor",
    "text": "AJC poll: Jackson 46, Bottoms 45. Ossoff holds a wide lead in the Senate race.",
    "source": "AJC",
-   "url": "https://www.ajc.com/politics/2026/10/rick-jackson-has-outspent-keisha-lance-bottoms-but-democratic-enthusiasm-has-the-race-knotted/"
+   "url": "https://www.ajc.com/politics/2026/10/rick-jackson-has-outspent-keisha-lance-bottoms-but-democratic-enthusiasm-has-the-race-knotted/",
+   "text_fr": "Sondage AJC : Jackson 46, Bottoms 45. Ossoff garde une large avance dans la course au Sénat."
   },
   {
    "id": "n19",
@@ -2385,7 +2445,8 @@
    "chamber": "Governor",
    "text": "Cook moved Alaska from Toss-up to Lean D. Nebraska, Vermont and Oklahoma moved from Solid R to Likely R.",
    "source": "The Hill",
-   "url": "https://thehill.com/homenews/campaign/6145770-cook-political-report-shifts-four-democrats/"
+   "url": "https://thehill.com/homenews/campaign/6145770-cook-political-report-shifts-four-democrats/",
+   "text_fr": "Cook a fait passer l'Alaska d'Indécis à Penche D. Le Nebraska, le Vermont et l'Oklahoma passent d'Acquis R à Probable R."
   },
   {
    "id": "n20",
@@ -2394,7 +2455,8 @@
    "chamber": "Senate",
    "text": "Cook moved Kansas to Toss-up, New Hampshire to Lean D and North Carolina to Likely D.",
    "source": "Cook Political Report",
-   "url": "https://www.cookpolitical.com/analysis/senate/senate-overview/senate-majority-squarely-democrats-sights-kansas-moves-toss-two"
+   "url": "https://www.cookpolitical.com/analysis/senate/senate-overview/senate-majority-squarely-democrats-sights-kansas-moves-toss-two",
+   "text_fr": "Cook a classé le Kansas Indécis, le New Hampshire Penche D et la Caroline du Nord Probable D."
   }
  ],
  "forecasts": [
@@ -2451,68 +2513,6 @@
    "dem_seats": 51,
    "date": "2026-10-26",
    "url": "https://www.poliwave.com/us/fed/projection"
-  }
- ],
- "house": [
-  {
-   "district": "Ohio 7",
-   "rating": "Toss-up",
-   "source": "Decision Desk HQ",
-   "date": "2026-10-25"
-  },
-  {
-   "district": "Texas 15",
-   "rating": "Toss-up",
-   "source": "Decision Desk HQ",
-   "date": "2026-10-25"
-  },
-  {
-   "district": "Iowa 2",
-   "rating": "Toss-up",
-   "source": "Decision Desk HQ",
-   "date": "2026-10-25"
-  },
-  {
-   "district": "Maine 2",
-   "rating": "Toss-up",
-   "source": "Decision Desk HQ",
-   "date": "2026-10-25"
-  },
-  {
-   "district": "Pennsylvania 1",
-   "rating": "Toss-up",
-   "source": "Decision Desk HQ",
-   "date": "2026-10-25"
-  },
-  {
-   "district": "North Carolina 11",
-   "rating": "Toss-up",
-   "source": "Decision Desk HQ",
-   "date": "2026-10-25"
-  },
-  {
-   "district": "Texas 35",
-   "rating": "Toss-up",
-   "source": "Decision Desk HQ",
-   "date": "2026-10-25"
-  },
-  {
-   "district": "Pennsylvania 8",
-   "rating": "Toss-up",
-   "source": "Decision Desk HQ",
-   "date": "2026-10-25"
-  },
-  {
-   "district": "Florida 22",
-   "rating": "Toss-up",
-   "source": "Decision Desk HQ",
-   "date": "2026-10-25"
-  },
-  {
-   "district": "New York 17",
-   "rating": "Toss-up",
-   "source": "Decision Desk HQ",
-   "date": "2026-10-25"
   }
  ],
  "sources": [
@@ -2842,6 +2842,849 @@
     "url": "https://www.ubs.com/us/en/wealth-management/insights/article.3745319.html"
    }
   ],
-  "scenario_note": "Combined-outcome odds from Decision Desk HQ and Poliwave, Oct. 25. Poliwave also gives about 10% to a Senate decided by independents."
- }
+  "scenario_note": "Combined-outcome odds from Decision Desk HQ and Poliwave, Oct. 25. Poliwave also gives about 10% to a Senate decided by independents.",
+  "fr": {
+   "intro": "Les élections de mi-mandat décident qui contrôle le Congrès pendant les deux dernières années du mandat de Donald Trump. Le Congrès ne dirige pas la politique étrangère, mais il vote le budget, confirme les nominations, ratifie les traités et enquête sur l'exécutif. Les analystes divergent sur l'effet d'un changement de majorité sur la politique envers l'Europe.",
+   "levers": [
+    {
+     "title": "Commerce et droits de douane",
+     "text": "Un accord UE-États-Unis de juillet 2026 plafonne à 15 % les droits de douane américains sur la plupart des importations européennes. Après la limitation par la Cour suprême des pouvoirs tarifaires d'urgence en février 2026, une loi de sanctions visant les acheteurs de pétrole et de gaz russes a donné au président une nouvelle marge pour imposer des droits jusqu'à 100 %. Le Congrès pourrait restreindre ce pouvoir, mais il faudrait la signature du président ou une majorité des deux tiers pour passer outre son veto."
+    },
+    {
+     "title": "Ukraine",
+     "text": "Le Congrès décide du financement de l'aide à l'Ukraine. Une Chambre démocrate pourrait pousser pour davantage de fonds, mais la Maison Blanche contrôle le rythme des dépenses et peut chercher à les annuler."
+    },
+    {
+     "title": "OTAN et défense",
+     "text": "Les objectifs de dépenses de défense européens se fixent en Europe et bougeront peu avec le résultat. Le rôle du Sénat dans la confirmation des ambassadeurs et des responsables militaires pèse davantage en cas de changement de majorité."
+    },
+    {
+     "title": "Contrôle de l'exécutif",
+     "text": "Une nouvelle majorité à la Chambre peut ouvrir des enquêtes et convoquer des responsables. Les experts notent que ce contrôle produit surtout de l'information et de la pression, plus que des limites directes à la politique menée."
+    }
+   ],
+   "scenarios": [
+    {
+     "name": "Les démocrates gagnent les deux chambres",
+     "label": "Environ 55 % selon DDHQ et Poliwave",
+     "text": "Les démocrates peuvent bloquer nominations et traités et poser des conditions aux lois de dépenses, y compris sur les droits de douane et l'Ukraine. Les lois exigent toujours la signature du président."
+    },
+    {
+     "name": "Chambre démocrate, Sénat républicain",
+     "label": "Environ 23 à 24 %",
+     "text": "Congrès divisé. Les grandes lois nouvelles bloquent. Les bras de fer budgétaires et les enquêtes s'intensifient. Les nominations passent toujours au Sénat. La politique commerciale reste surtout entre les mains de la Maison Blanche."
+    },
+    {
+     "name": "Les républicains gardent les deux chambres",
+     "label": "Environ 11 à 19 %",
+     "text": "Le gouvernement unifié continue. L'administration garde la voie libre pour ses nominations et son programme législatif jusqu'en 2028."
+    }
+   ],
+   "scenario_note": "Probabilités combinées de Decision Desk HQ et Poliwave au 25 octobre. Poliwave donne aussi environ 10 % à un Sénat arbitré par des indépendants."
+  }
+ },
+ "house_summary": {
+  "source": "Cook Political Report",
+  "date": "2026-10-23",
+  "url": "https://www.cookpolitical.com/ratings/house-race-ratings",
+  "counts": {
+   "Solid D": 186,
+   "Likely D": 18,
+   "Lean D": 16,
+   "Toss-up": 17,
+   "Lean R": 17,
+   "Likely R": 13,
+   "Solid R": 168
+  }
+ },
+ "house_districts": [
+  {
+   "id": "FL-14",
+   "state": "FL",
+   "name": "Florida 14",
+   "rating": "Toss-up",
+   "party": "D",
+   "holder": "Kathy Castor",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "FL-22",
+   "state": "FL",
+   "name": "Florida 22",
+   "rating": "Toss-up",
+   "party": "D",
+   "holder": "Lois Frankel",
+   "open": true,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "NC-01",
+   "state": "NC",
+   "name": "North Carolina 1",
+   "rating": "Toss-up",
+   "party": "D",
+   "holder": "Don Davis",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "OH-09",
+   "state": "OH",
+   "name": "Ohio 9",
+   "rating": "Toss-up",
+   "party": "D",
+   "holder": "Marcy Kaptur",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "TX-35",
+   "state": "TX",
+   "name": "Texas 35",
+   "rating": "Toss-up",
+   "party": "D",
+   "holder": "Greg Casar",
+   "open": true,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "CA-22",
+   "state": "CA",
+   "name": "California 22",
+   "rating": "Toss-up",
+   "party": "R",
+   "holder": "David Valadao",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "IA-02",
+   "state": "IA",
+   "name": "Iowa 2",
+   "rating": "Toss-up",
+   "party": "R",
+   "holder": "Ashley Hinson",
+   "open": true,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "KY-06",
+   "state": "KY",
+   "name": "Kentucky 6",
+   "rating": "Toss-up",
+   "party": "R",
+   "holder": "Andy Barr",
+   "open": true,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "MI-04",
+   "state": "MI",
+   "name": "Michigan 4",
+   "rating": "Toss-up",
+   "party": "R",
+   "holder": "Bill Huizenga",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "MI-07",
+   "state": "MI",
+   "name": "Michigan 7",
+   "rating": "Toss-up",
+   "party": "R",
+   "holder": "Tom Barrett",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "MI-10",
+   "state": "MI",
+   "name": "Michigan 10",
+   "rating": "Toss-up",
+   "party": "R",
+   "holder": "John James",
+   "open": true,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "MT-01",
+   "state": "MT",
+   "name": "Montana 1",
+   "rating": "Toss-up",
+   "party": "R",
+   "holder": "Ryan Zinke",
+   "open": true,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "NY-17",
+   "state": "NY",
+   "name": "New York 17",
+   "rating": "Toss-up",
+   "party": "R",
+   "holder": "Mike Lawler",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "OH-07",
+   "state": "OH",
+   "name": "Ohio 7",
+   "rating": "Toss-up",
+   "party": "R",
+   "holder": "Max Miller",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "PA-08",
+   "state": "PA",
+   "name": "Pennsylvania 8",
+   "rating": "Toss-up",
+   "party": "R",
+   "holder": "Rob Bresnahan",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "TX-15",
+   "state": "TX",
+   "name": "Texas 15",
+   "rating": "Toss-up",
+   "party": "R",
+   "holder": "Monica De La Cruz",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "VA-01",
+   "state": "VA",
+   "name": "Virginia 1",
+   "rating": "Toss-up",
+   "party": "R",
+   "holder": "Rob Wittman",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "AZ-01",
+   "state": "AZ",
+   "name": "Arizona 1",
+   "rating": "Lean D",
+   "party": "R",
+   "holder": "David Schweikert",
+   "open": true,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "AZ-06",
+   "state": "AZ",
+   "name": "Arizona 6",
+   "rating": "Lean D",
+   "party": "R",
+   "holder": "Juan Ciscomani",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "CA-48",
+   "state": "CA",
+   "name": "California 48",
+   "rating": "Lean D",
+   "party": "R",
+   "holder": "Darrell Issa",
+   "open": true,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "CO-08",
+   "state": "CO",
+   "name": "Colorado 8",
+   "rating": "Lean D",
+   "party": "R",
+   "holder": "Gabe Evans",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "FL-25",
+   "state": "FL",
+   "name": "Florida 25",
+   "rating": "Lean D",
+   "party": "D",
+   "holder": "Jared Moskowitz",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "IA-01",
+   "state": "IA",
+   "name": "Iowa 1",
+   "rating": "Lean D",
+   "party": "R",
+   "holder": "Mariannette Miller-Meeks",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "IA-03",
+   "state": "IA",
+   "name": "Iowa 3",
+   "rating": "Lean D",
+   "party": "R",
+   "holder": "Zach Nunn",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "NC-11",
+   "state": "NC",
+   "name": "North Carolina 11",
+   "rating": "Lean D",
+   "party": "R",
+   "holder": "Chuck Edwards",
+   "open": true,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "NJ-07",
+   "state": "NJ",
+   "name": "New Jersey 7",
+   "rating": "Lean D",
+   "party": "R",
+   "holder": "Tom Kean Jr.",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "NM-02",
+   "state": "NM",
+   "name": "New Mexico 2",
+   "rating": "Lean D",
+   "party": "D",
+   "holder": "Gabe Vasquez",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "PA-07",
+   "state": "PA",
+   "name": "Pennsylvania 7",
+   "rating": "Lean D",
+   "party": "R",
+   "holder": "Ryan Mackenzie",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "PA-10",
+   "state": "PA",
+   "name": "Pennsylvania 10",
+   "rating": "Lean D",
+   "party": "R",
+   "holder": "Scott Perry",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "TX-34",
+   "state": "TX",
+   "name": "Texas 34",
+   "rating": "Lean D",
+   "party": "D",
+   "holder": "Vicente Gonzalez",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "VA-02",
+   "state": "VA",
+   "name": "Virginia 2",
+   "rating": "Lean D",
+   "party": "R",
+   "holder": "Jen Kiggans",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "WA-03",
+   "state": "WA",
+   "name": "Washington 3",
+   "rating": "Lean D",
+   "party": "D",
+   "holder": "Marie Gluesenkamp Perez",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "WI-03",
+   "state": "WI",
+   "name": "Wisconsin 3",
+   "rating": "Lean D",
+   "party": "R",
+   "holder": "Derrick Van Orden",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "AK-AL",
+   "state": "AK",
+   "name": "Alaska at-large",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "Nick Begich",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "AL-02",
+   "state": "AL",
+   "name": "Alabama 2",
+   "rating": "Lean R",
+   "party": "D",
+   "holder": "Shomari Figures",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "AZ-02",
+   "state": "AZ",
+   "name": "Arizona 2",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "Eli Crane",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "CO-04",
+   "state": "CO",
+   "name": "Colorado 4",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "Lauren Boebert",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "CO-05",
+   "state": "CO",
+   "name": "Colorado 5",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "Jeff Crank",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "FL-13",
+   "state": "FL",
+   "name": "Florida 13",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "Anna Paulina Luna",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "FL-27",
+   "state": "FL",
+   "name": "Florida 27",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "María Elvira Salazar",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "ME-02",
+   "state": "ME",
+   "name": "Maine 2",
+   "rating": "Lean R",
+   "party": "D",
+   "holder": "Jared Golden",
+   "open": true,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "MN-01",
+   "state": "MN",
+   "name": "Minnesota 1",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "Brad Finstad",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "NV-02",
+   "state": "NV",
+   "name": "Nevada 2",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "Mark Amodei",
+   "open": true,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "NY-21",
+   "state": "NY",
+   "name": "New York 21",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "Elise Stefanik",
+   "open": true,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "OH-10",
+   "state": "OH",
+   "name": "Ohio 10",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "Mike Turner",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "OH-15",
+   "state": "OH",
+   "name": "Ohio 15",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "Mike Carey",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "PA-01",
+   "state": "PA",
+   "name": "Pennsylvania 1",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "Brian Fitzpatrick",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "SC-01",
+   "state": "SC",
+   "name": "South Carolina 1",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "Nancy Mace",
+   "open": true,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "TX-23",
+   "state": "TX",
+   "name": "Texas 23",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "",
+   "open": true,
+   "vacant": true,
+   "result": null
+  },
+  {
+   "id": "WI-01",
+   "state": "WI",
+   "name": "Wisconsin 1",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "Bryan Steil",
+   "open": false,
+   "vacant": false,
+   "result": null
+  }
+ ],
+ "committees": {
+  "intro": "Committee chairs decide which bills move, call hearings and issue subpoenas. These six panels matter most for trade, health and Europe. Names follow seniority and reporting. Nothing is final until the new Congress organizes in January.",
+  "intro_fr": "Les présidents de commission décident des textes examinés, convoquent les auditions et émettent les assignations. Ces six commissions comptent le plus pour le commerce, la santé et l'Europe. Les noms suivent l'ancienneté et la presse. Rien n'est définitif avant l'installation du nouveau Congrès en janvier.",
+  "items": [
+   {
+    "chamber": "House",
+    "name": "Ways and Means",
+    "name_fr": "Ways and Means (finances)",
+    "covers": "Tariffs and trade law, taxes, Medicare.",
+    "covers_fr": "Droits de douane et droit commercial, impôts, Medicare.",
+    "R": "Jason Smith (Missouri), current chair",
+    "R_fr": "Jason Smith (Missouri), président actuel",
+    "D": "Richard Neal (Massachusetts), top Democrat",
+    "D_fr": "Richard Neal (Massachusetts), chef de file démocrate"
+   },
+   {
+    "chamber": "House",
+    "name": "Energy and Commerce",
+    "name_fr": "Energy and Commerce (énergie et commerce)",
+    "covers": "Health policy, the FDA, drug prices, energy, tech.",
+    "covers_fr": "Politique de santé, FDA, prix des médicaments, énergie, numérique.",
+    "R": "Brett Guthrie (Kentucky), current chair",
+    "R_fr": "Brett Guthrie (Kentucky), président actuel",
+    "D": "Frank Pallone (New Jersey), top Democrat",
+    "D_fr": "Frank Pallone (New Jersey), chef de file démocrate"
+   },
+   {
+    "chamber": "House",
+    "name": "Foreign Affairs",
+    "name_fr": "Foreign Affairs (affaires étrangères)",
+    "covers": "Ukraine aid, sanctions, NATO, the State Department.",
+    "covers_fr": "Aide à l'Ukraine, sanctions, OTAN, département d'État.",
+    "R": "Brian Mast (Florida), current chair",
+    "R_fr": "Brian Mast (Floride), président actuel",
+    "D": "Gregory Meeks (New York), top Democrat",
+    "D_fr": "Gregory Meeks (New York), chef de file démocrate"
+   },
+   {
+    "chamber": "Senate",
+    "name": "Finance",
+    "name_fr": "Finance",
+    "covers": "Trade deals and tariffs, taxes, Medicare and Medicaid.",
+    "covers_fr": "Accords commerciaux et droits de douane, impôts, Medicare et Medicaid.",
+    "R": "Mike Crapo (Idaho), current chair",
+    "R_fr": "Mike Crapo (Idaho), président actuel",
+    "D": "Ron Wyden (Oregon), top Democrat",
+    "D_fr": "Ron Wyden (Oregon), chef de file démocrate"
+   },
+   {
+    "chamber": "Senate",
+    "name": "Health, Education, Labor and Pensions",
+    "name_fr": "HELP (santé, éducation, travail, retraites)",
+    "covers": "The FDA, the NIH, public health, drug approvals.",
+    "covers_fr": "FDA, NIH, santé publique, autorisation des médicaments.",
+    "R": "Not settled. Chair Bill Cassidy lost his primary. Rand Paul is next in seniority.",
+    "R_fr": "Pas tranché. Le président Bill Cassidy a perdu sa primaire. Rand Paul est le suivant par ancienneté.",
+    "D": "Bernie Sanders (Vermont), who says he will take the gavel",
+    "D_fr": "Bernie Sanders (Vermont), qui annonce vouloir la présidence"
+   },
+   {
+    "chamber": "Senate",
+    "name": "Foreign Relations",
+    "name_fr": "Foreign Relations (relations étrangères)",
+    "covers": "Treaties, ambassadors, NATO, sanctions.",
+    "covers_fr": "Traités, ambassadeurs, OTAN, sanctions.",
+    "R": "Jim Risch (Idaho), current chair",
+    "R_fr": "Jim Risch (Idaho), président actuel",
+    "D": "Chris Coons (Delaware). Jeanne Shaheen retires.",
+    "D_fr": "Chris Coons (Delaware). Jeanne Shaheen prend sa retraite."
+   }
+  ],
+  "sources": [
+   {
+    "name": "US Polling Data: Senate leadership preview",
+    "url": "https://uspollingdata.com/news/senate-2026-leadership-preview/"
+   },
+   {
+    "name": "US Polling Data: House leadership races",
+    "url": "https://uspollingdata.com/news/house-2026-leadership-races/"
+   },
+   {
+    "name": "Semafor: GOP leadership of Senate health panel in doubt (Oct. 8)",
+    "url": "https://www.semafor.com/article/10/08/2026/republican-leadership-of-senate-health-panel-in-doubt"
+   },
+   {
+    "name": "JNS: Coons expected to chair Foreign Relations (Oct. 20)",
+    "url": "https://www.clevelandjewishnews.com/jns/if-dems-take-senate-expect-uptick-in-oversight-on-all-things-israel-from-foreign-relations/article_8d020491-1ccb-5495-84cf-bfa02b57c89d.html"
+   },
+   {
+    "name": "TAG24: Sanders plans to chair HELP (Oct. 26)",
+    "url": "https://www.tag24.com/en/news/politics/politicians/bernie-sanders/bernie-sanders-announces-plan-to-take-on-major-new-role-if-democrats-take-back-senate-3543077"
+   }
+  ]
+ },
+ "night_guide": [
+  {
+   "utc": "2026-11-04T00:00:00Z",
+   "codes": [
+    "GA",
+    "KY",
+    "SC",
+    "VA"
+   ],
+   "watch": [
+    "Georgia: Senate (Ossoff, Likely D) and governor (Toss-up).",
+    "South Carolina: Graham against Andrews, Lean R.",
+    "House: Kentucky 6 and Virginia 1, two Republican-held toss-ups."
+   ],
+   "watch_fr": [
+    "Géorgie : Sénat (Ossoff, Probable D) et gouverneur (Indécis).",
+    "Caroline du Sud : Graham contre Andrews, Penche R.",
+    "Chambre : Kentucky 6 et Virginie 1, deux sièges républicains indécis."
+   ],
+   "signal": "The first House bellwethers. If Democrats take both Kentucky 6 and Virginia 1, a large House wave is likely. A quick call for Ossoff points to a good Democratic night.",
+   "signal_fr": "Les premiers baromètres de la Chambre. Si les démocrates gagnent Kentucky 6 et Virginie 1, une large vague à la Chambre se dessine. Une victoire rapide d'Ossoff annonce une bonne soirée démocrate."
+  },
+  {
+   "utc": "2026-11-04T00:30:00Z",
+   "codes": [
+    "NC",
+    "OH"
+   ],
+   "watch": [
+    "North Carolina: open Senate seat, Cooper against Whatley, Likely D.",
+    "Ohio: Senate (Brown against Husted, Toss-up) and governor (Acton against Ramaswamy, Lean D).",
+    "House: North Carolina 1, Ohio 7, Ohio 9."
+   ],
+   "watch_fr": [
+    "Caroline du Nord : siège ouvert au Sénat, Cooper contre Whatley, Probable D.",
+    "Ohio : Sénat (Brown contre Husted, Indécis) et gouverneur (Acton contre Ramaswamy, Penche D).",
+    "Chambre : Caroline du Nord 1, Ohio 7, Ohio 9."
+   ],
+   "signal": "Democrats need a net gain of four Senate seats. North Carolina is their likeliest first gain. An early Brown lead in Ohio would put the majority within reach.",
+   "signal_fr": "Les démocrates doivent gagner quatre sièges nets au Sénat. La Caroline du Nord est leur gain le plus probable. Une avance précoce de Brown dans l'Ohio rapprocherait la majorité."
+  },
+  {
+   "utc": "2026-11-04T01:00:00Z",
+   "codes": [
+    "ME",
+    "NH",
+    "FL",
+    "PA"
+   ],
+   "watch": [
+    "Maine: Collins against Jackson, Toss-up.",
+    "New Hampshire: open seat, Pappas against Sununu, Lean D.",
+    "House: Pennsylvania 8, Florida 14, Florida 22."
+   ],
+   "watch_fr": [
+    "Maine : Collins contre Jackson, Indécis.",
+    "New Hampshire : siège ouvert, Pappas contre Sununu, Penche D.",
+    "Chambre : Pennsylvanie 8, Floride 14, Floride 22."
+   ],
+   "signal": "Maine uses ranked-choice voting. If no candidate passes 50%, the count can take a week. Florida counts fast, so its House toss-ups give an early read.",
+   "signal_fr": "Le Maine utilise le vote préférentiel. Si aucun candidat ne dépasse 50 %, le décompte peut prendre une semaine. La Floride compte vite, ses sièges indécis donnent une première tendance."
+  },
+  {
+   "utc": "2026-11-04T02:00:00Z",
+   "codes": [
+    "TX",
+    "MI",
+    "IA",
+    "KS",
+    "NE",
+    "WI",
+    "NY"
+   ],
+   "watch": [
+    "Texas: Talarico against Paxton, Toss-up.",
+    "Michigan: Democrats defend an open seat, Toss-up.",
+    "Iowa and Kansas: Republican seats rated Toss-up.",
+    "Nebraska: independent Dan Osborn against Ricketts.",
+    "Wisconsin governor, Toss-up.",
+    "House: New York 17, Michigan 4, 7 and 10, Iowa 2, Texas 15 and 35."
+   ],
+   "watch_fr": [
+    "Texas : Talarico contre Paxton, Indécis.",
+    "Michigan : les démocrates défendent un siège ouvert, Indécis.",
+    "Iowa et Kansas : sièges républicains classés Indécis.",
+    "Nebraska : l'indépendant Dan Osborn contre Ricketts.",
+    "Gouverneur du Wisconsin, Indécis.",
+    "Chambre : New York 17, Michigan 4, 7 et 10, Iowa 2, Texas 15 et 35."
+   ],
+   "signal": "The decisive hour for the Senate. Texas reports early votes first, so the first leads can shift. Michigan and Wisconsin count absentee ballots late into the night.",
+   "signal_fr": "L'heure décisive pour le Sénat. Le Texas publie d'abord le vote anticipé, les premières avances peuvent donc s'inverser. Le Michigan et le Wisconsin comptent les votes par correspondance tard dans la nuit."
+  },
+  {
+   "utc": "2026-11-04T03:00:00Z",
+   "codes": [
+    "NV",
+    "MT"
+   ],
+   "watch": [
+    "Nevada governor: Lombardo against Ford, Toss-up.",
+    "House: Montana 1, an open seat rated Toss-up."
+   ],
+   "watch_fr": [
+    "Gouverneur du Nevada : Lombardo contre Ford, Indécis.",
+    "Chambre : Montana 1, siège ouvert classé Indécis."
+   ],
+   "signal": "Nevada often needs several days to count mail ballots. Expect a slow result.",
+   "signal_fr": "Le Nevada met souvent plusieurs jours à compter le vote par correspondance. Le résultat arrivera lentement."
+  },
+  {
+   "utc": "2026-11-04T04:00:00Z",
+   "codes": [
+    "CA",
+    "OR",
+    "WA"
+   ],
+   "watch": [
+    "House: California 22 (Valadao, Toss-up).",
+    "Oregon governor: Kotek, Lean D."
+   ],
+   "watch_fr": [
+    "Chambre : Californie 22 (Valadao, Indécis).",
+    "Gouverneur de l'Oregon : Kotek, Penche D."
+   ],
+   "signal": "California counts for weeks. If the House is close, control may not be known on election night.",
+   "signal_fr": "La Californie compte pendant des semaines. Si la Chambre est serrée, le contrôle ne sera peut-être pas connu le soir même."
+  },
+  {
+   "utc": "2026-11-04T06:00:00Z",
+   "codes": [
+    "AK"
+   ],
+   "watch": [
+    "Alaska Senate: Sullivan against Peltola, Toss-up.",
+    "Alaska governor, Lean D."
+   ],
+   "watch_fr": [
+    "Sénat de l'Alaska : Sullivan contre Peltola, Indécis.",
+    "Gouverneur de l'Alaska, Penche D."
+   ],
+   "signal": "Alaska uses ranked-choice voting and can take two weeks to finish counting. A Senate decided by one seat could wait for Alaska.",
+   "signal_fr": "L'Alaska utilise le vote préférentiel et peut mettre deux semaines à finir le décompte. Un Sénat joué à un siège pourrait attendre l'Alaska."
+  }
+ ]
 }
