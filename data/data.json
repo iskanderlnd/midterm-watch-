@@ -1,0 +1,2720 @@
+{
+ "updated": "2026-10-26T11:00:00Z",
+ "election_date": "2026-11-03",
+ "not_up": {
+  "Senate": {
+   "D": 34,
+   "R": 31
+  },
+  "Governor": {
+   "D": 6,
+   "R": 8
+  }
+ },
+ "majority": {
+  "Senate": 51,
+  "Governor": 26,
+  "House": 218
+ },
+ "races": [
+  {
+   "id": "S-AL",
+   "code": "AL",
+   "state": "Alabama",
+   "chamber": "Senate",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "S-AK",
+   "code": "AK",
+   "state": "Alaska",
+   "chamber": "Senate",
+   "rating": "Toss-up",
+   "held": "R",
+   "dem": "Mary Peltola",
+   "rep": "Dan Sullivan (inc.)",
+   "other": "",
+   "poll": "Peltola 51, Sullivan 49 (Data for Progress)",
+   "poll_date": "2026-10-20",
+   "change": "Sabato: Toss-up → Lean D",
+   "change_date": "2026-10-06",
+   "note": "The Justice Department is challenging a second candidate also named Dan Sullivan and seeks to block certification if the incumbent loses.",
+   "polls": [
+    {
+     "date": "2026-10-15",
+     "pollster": "PPP",
+     "dem": 48,
+     "rep": 47
+    },
+    {
+     "date": "2026-10-20",
+     "pollster": "Data for Progress",
+     "dem": 51,
+     "rep": 49
+    }
+   ],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Toss-up"
+    }
+   ]
+  },
+  {
+   "id": "S-AR",
+   "code": "AR",
+   "state": "Arkansas",
+   "chamber": "Senate",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "Tom Cotton (inc.)",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "S-CO",
+   "code": "CO",
+   "state": "Colorado",
+   "chamber": "Senate",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "John Hickenlooper (inc.)",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "S-DE",
+   "code": "DE",
+   "state": "Delaware",
+   "chamber": "Senate",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "Chris Coons (inc.)",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "S-FL",
+   "code": "FL",
+   "state": "Florida (special)",
+   "chamber": "Senate",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "Angie Nixon",
+   "rep": "Ashley Moody (inc.)",
+   "other": "",
+   "poll": "Moody 49, Nixon 45 (Univ. of North Florida)",
+   "poll_date": "2026-10-21",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [
+    {
+     "date": "2026-10-19",
+     "pollster": "Univision/YouGov",
+     "dem": 42,
+     "rep": 51
+    },
+    {
+     "date": "2026-10-21",
+     "pollster": "Univ. of North Florida",
+     "dem": 45,
+     "rep": 49
+    },
+    {
+     "date": "2026-10-21",
+     "pollster": "co/efficient",
+     "dem": 40,
+     "rep": 48
+    }
+   ],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "S-GA",
+   "code": "GA",
+   "state": "Georgia",
+   "chamber": "Senate",
+   "rating": "Likely D",
+   "held": "D",
+   "dem": "Jon Ossoff (inc.)",
+   "rep": "Mike Collins",
+   "other": "",
+   "poll": "Ossoff 48, Collins 40 (AJC)",
+   "poll_date": "2026-10-21",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [
+    {
+     "date": "2026-10-19",
+     "pollster": "Quantus Insights",
+     "dem": 52,
+     "rep": 45
+    },
+    {
+     "date": "2026-10-21",
+     "pollster": "AJC",
+     "dem": 48,
+     "rep": 40
+    }
+   ],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Likely D"
+    }
+   ]
+  },
+  {
+   "id": "S-ID",
+   "code": "ID",
+   "state": "Idaho",
+   "chamber": "Senate",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "Todd Achilles",
+   "rep": "Jim Risch (inc.)",
+   "other": "",
+   "poll": "Risch 49, Achilles 43 (VoteNexus)",
+   "poll_date": "2026-10-22",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "S-IL",
+   "code": "IL",
+   "state": "Illinois",
+   "chamber": "Senate",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "S-IA",
+   "code": "IA",
+   "state": "Iowa",
+   "chamber": "Senate",
+   "rating": "Toss-up",
+   "held": "R",
+   "dem": "Josh Turek",
+   "rep": "Ashley Hinson",
+   "other": "",
+   "poll": "Hinson 47, Turek 45 (InsiderAdvantage)",
+   "poll_date": "2026-10-22",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat after Joni Ernst's retirement. Marist has Turek up 3.",
+   "polls": [
+    {
+     "date": "2026-10-14",
+     "pollster": "YouGov",
+     "dem": 47,
+     "rep": 46
+    },
+    {
+     "date": "2026-10-15",
+     "pollster": "Marist",
+     "dem": 48,
+     "rep": 45
+    },
+    {
+     "date": "2026-10-17",
+     "pollster": "Trafalgar",
+     "dem": 44,
+     "rep": 46
+    },
+    {
+     "date": "2026-10-19",
+     "pollster": "co/efficient",
+     "dem": 46,
+     "rep": 49
+    },
+    {
+     "date": "2026-10-21",
+     "pollster": "Cook Political Report",
+     "dem": 46,
+     "rep": 44
+    },
+    {
+     "date": "2026-10-23",
+     "pollster": "InsiderAdvantage",
+     "dem": 45,
+     "rep": 47
+    }
+   ],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Toss-up"
+    }
+   ]
+  },
+  {
+   "id": "S-KS",
+   "code": "KS",
+   "state": "Kansas",
+   "chamber": "Senate",
+   "rating": "Toss-up",
+   "held": "R",
+   "dem": "Adam Hamilton",
+   "rep": "Roger Marshall (inc.)",
+   "other": "",
+   "poll": "Marshall 48, Hamilton 47 (InsiderAdvantage)",
+   "poll_date": "2026-10-14",
+   "change": "Cook: Lean R → Toss-up",
+   "change_date": "2026-10-06",
+   "note": "Kansas has not elected a Democratic senator since 1932.",
+   "polls": [
+    {
+     "date": "2026-10-06",
+     "pollster": "YouGov",
+     "dem": 48,
+     "rep": 45
+    },
+    {
+     "date": "2026-10-15",
+     "pollster": "InsiderAdvantage",
+     "dem": 47,
+     "rep": 48
+    }
+   ],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Lean R"
+    },
+    {
+     "date": "2026-10-06",
+     "rating": "Toss-up"
+    }
+   ]
+  },
+  {
+   "id": "S-KY",
+   "code": "KY",
+   "state": "Kentucky",
+   "chamber": "Senate",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "S-LA",
+   "code": "LA",
+   "state": "Louisiana",
+   "chamber": "Senate",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "S-ME",
+   "code": "ME",
+   "state": "Maine",
+   "chamber": "Senate",
+   "rating": "Toss-up",
+   "held": "R",
+   "dem": "Troy Jackson",
+   "rep": "Susan Collins (inc.)",
+   "other": "",
+   "poll": "Jackson 47, Collins 47 (Trafalgar)",
+   "poll_date": "2026-10-25",
+   "change": "",
+   "change_date": "",
+   "note": "Fox News poll on Oct. 23 also shows a 49-49 tie.",
+   "polls": [
+    {
+     "date": "2026-10-14",
+     "pollster": "Suffolk",
+     "dem": 49,
+     "rep": 47
+    },
+    {
+     "date": "2026-10-15",
+     "pollster": "InsiderAdvantage",
+     "dem": 49,
+     "rep": 47
+    },
+    {
+     "date": "2026-10-23",
+     "pollster": "Fox News",
+     "dem": 49,
+     "rep": 49
+    },
+    {
+     "date": "2026-10-25",
+     "pollster": "Trafalgar",
+     "dem": 47,
+     "rep": 47
+    }
+   ],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Toss-up"
+    }
+   ]
+  },
+  {
+   "id": "S-MA",
+   "code": "MA",
+   "state": "Massachusetts",
+   "chamber": "Senate",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "Ed Markey (inc.)",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "S-MI",
+   "code": "MI",
+   "state": "Michigan",
+   "chamber": "Senate",
+   "rating": "Toss-up",
+   "held": "D",
+   "dem": "Abdul El-Sayed",
+   "rep": "Mike Rogers",
+   "other": "",
+   "poll": "El-Sayed 47, Rogers 46 (InsiderAdvantage)",
+   "poll_date": "2026-10-22",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat after Gary Peters' retirement. Trump and Obama both rallied here on Oct. 25.",
+   "polls": [
+    {
+     "date": "2026-10-16",
+     "pollster": "Rasmussen",
+     "dem": 46,
+     "rep": 44
+    },
+    {
+     "date": "2026-10-21",
+     "pollster": "Marist",
+     "dem": 50,
+     "rep": 48
+    },
+    {
+     "date": "2026-10-23",
+     "pollster": "InsiderAdvantage",
+     "dem": 47,
+     "rep": 46
+    }
+   ],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Toss-up"
+    }
+   ]
+  },
+  {
+   "id": "S-MN",
+   "code": "MN",
+   "state": "Minnesota",
+   "chamber": "Senate",
+   "rating": "Lean D",
+   "held": "D",
+   "dem": "Flanagan",
+   "rep": "Tafoya",
+   "other": "",
+   "poll": "Flanagan 48, Tafoya 45 (Rasmussen)",
+   "poll_date": "2026-10-23",
+   "change": "Cook: Likely D → Lean D",
+   "change_date": "2026-10-20",
+   "note": "Open seat",
+   "polls": [
+    {
+     "date": "2026-10-15",
+     "pollster": "KSTP/SurveyUSA",
+     "dem": 45,
+     "rep": 42
+    },
+    {
+     "date": "2026-10-17",
+     "pollster": "Trafalgar",
+     "dem": 48,
+     "rep": 45
+    },
+    {
+     "date": "2026-10-23",
+     "pollster": "Rasmussen",
+     "dem": 48,
+     "rep": 45
+    }
+   ],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Likely D"
+    },
+    {
+     "date": "2026-10-20",
+     "rating": "Lean D"
+    }
+   ]
+  },
+  {
+   "id": "S-MS",
+   "code": "MS",
+   "state": "Mississippi",
+   "chamber": "Senate",
+   "rating": "Likely R",
+   "held": "R",
+   "dem": "",
+   "rep": "Cindy Hyde-Smith (inc.)",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "Cook: Solid R → Likely R",
+   "change_date": "2026-10-20",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    },
+    {
+     "date": "2026-10-20",
+     "rating": "Likely R"
+    }
+   ]
+  },
+  {
+   "id": "S-MT",
+   "code": "MT",
+   "state": "Montana",
+   "chamber": "Senate",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "S-NE",
+   "code": "NE",
+   "state": "Nebraska",
+   "chamber": "Senate",
+   "rating": "Likely R",
+   "held": "R",
+   "dem": "",
+   "rep": "Pete Ricketts (inc.)",
+   "other": "Dan Osborn (Ind.)",
+   "poll": "Osborn 48, Ricketts 47 (YouGov)",
+   "poll_date": "2026-10-06",
+   "change": "",
+   "change_date": "",
+   "note": "An NPA (R) poll on Oct. 12 shows Ricketts ahead.",
+   "polls": [
+    {
+     "date": "2026-10-06",
+     "pollster": "YouGov (Osborn vs. Ricketts)",
+     "dem": 48,
+     "rep": 47
+    }
+   ],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Likely R"
+    }
+   ]
+  },
+  {
+   "id": "S-NH",
+   "code": "NH",
+   "state": "New Hampshire",
+   "chamber": "Senate",
+   "rating": "Lean D",
+   "held": "D",
+   "dem": "Chris Pappas",
+   "rep": "John E. Sununu",
+   "other": "",
+   "poll": "Pappas 50, Sununu 43 (St. Anselm)",
+   "poll_date": "2026-10-22",
+   "change": "Cook: Toss-up → Lean D",
+   "change_date": "2026-10-06",
+   "note": "Open seat",
+   "polls": [
+    {
+     "date": "2026-10-22",
+     "pollster": "St. Anselm",
+     "dem": 50,
+     "rep": 43
+    }
+   ],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Toss-up"
+    },
+    {
+     "date": "2026-10-06",
+     "rating": "Lean D"
+    }
+   ]
+  },
+  {
+   "id": "S-NJ",
+   "code": "NJ",
+   "state": "New Jersey",
+   "chamber": "Senate",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "Cory Booker (inc.)",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "S-NM",
+   "code": "NM",
+   "state": "New Mexico",
+   "chamber": "Senate",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "Ben Ray Luján (inc.)",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "S-NC",
+   "code": "NC",
+   "state": "North Carolina",
+   "chamber": "Senate",
+   "rating": "Likely D",
+   "held": "R",
+   "dem": "Roy Cooper",
+   "rep": "Michael Whatley",
+   "other": "",
+   "poll": "Cooper 49, Whatley 39 (Carolina Journal/Harper)",
+   "poll_date": "2026-10-22",
+   "change": "Cook: Lean D → Likely D",
+   "change_date": "2026-10-06",
+   "note": "Open seat after Thom Tillis' retirement.",
+   "polls": [
+    {
+     "date": "2026-10-13",
+     "pollster": "WRAL/SurveyUSA",
+     "dem": 54,
+     "rep": 40
+    },
+    {
+     "date": "2026-10-13",
+     "pollster": "Change Research",
+     "dem": 50,
+     "rep": 40
+    },
+    {
+     "date": "2026-10-20",
+     "pollster": "Elon University",
+     "dem": 52,
+     "rep": 39
+    },
+    {
+     "date": "2026-10-22",
+     "pollster": "Carolina Journal/Harper",
+     "dem": 49,
+     "rep": 39
+    }
+   ],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Lean D"
+    },
+    {
+     "date": "2026-10-06",
+     "rating": "Likely D"
+    }
+   ]
+  },
+  {
+   "id": "S-OH",
+   "code": "OH",
+   "state": "Ohio (special)",
+   "chamber": "Senate",
+   "rating": "Toss-up",
+   "held": "R",
+   "dem": "Sherrod Brown",
+   "rep": "Jon Husted (inc.)",
+   "other": "",
+   "poll": "Brown 47, Husted 44 (InsiderAdvantage)",
+   "poll_date": "2026-10-23",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [
+    {
+     "date": "2026-10-16",
+     "pollster": "Bowling Green/YouGov",
+     "dem": 48,
+     "rep": 42
+    },
+    {
+     "date": "2026-10-19",
+     "pollster": "Rasmussen",
+     "dem": 47,
+     "rep": 49
+    },
+    {
+     "date": "2026-10-20",
+     "pollster": "Marist",
+     "dem": 48,
+     "rep": 44
+    },
+    {
+     "date": "2026-10-21",
+     "pollster": "Cook Political Report",
+     "dem": 49,
+     "rep": 43
+    },
+    {
+     "date": "2026-10-22",
+     "pollster": "Fox News",
+     "dem": 52,
+     "rep": 47
+    },
+    {
+     "date": "2026-10-23",
+     "pollster": "InsiderAdvantage",
+     "dem": 47,
+     "rep": 44
+    }
+   ],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Toss-up"
+    }
+   ]
+  },
+  {
+   "id": "S-OK",
+   "code": "OK",
+   "state": "Oklahoma",
+   "chamber": "Senate",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "S-OR",
+   "code": "OR",
+   "state": "Oregon",
+   "chamber": "Senate",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "Jeff Merkley (inc.)",
+   "rep": "David Brock Smith",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "S-RI",
+   "code": "RI",
+   "state": "Rhode Island",
+   "chamber": "Senate",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "Jack Reed (inc.)",
+   "rep": "",
+   "other": "",
+   "poll": "Reed 59, opponent 25 (Emerson)",
+   "poll_date": "2026-10-11",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "S-SC",
+   "code": "SC",
+   "state": "South Carolina",
+   "chamber": "Senate",
+   "rating": "Lean R",
+   "held": "R",
+   "dem": "Annie Andrews",
+   "rep": "Lindsey Graham (inc.)",
+   "other": "",
+   "poll": "Graham 49, Andrews 46 (Trafalgar)",
+   "poll_date": "2026-10-18",
+   "change": "Cook: Likely R → Lean R",
+   "change_date": "2026-10-20",
+   "note": "",
+   "polls": [
+    {
+     "date": "2026-10-18",
+     "pollster": "Trafalgar",
+     "dem": 46,
+     "rep": 49
+    }
+   ],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Likely R"
+    },
+    {
+     "date": "2026-10-20",
+     "rating": "Lean R"
+    }
+   ]
+  },
+  {
+   "id": "S-SD",
+   "code": "SD",
+   "state": "South Dakota",
+   "chamber": "Senate",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "Mike Rounds (inc.)",
+   "other": "",
+   "poll": "Rounds 50, opponent 42 (Emerson)",
+   "poll_date": "2026-10-20",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "S-TN",
+   "code": "TN",
+   "state": "Tennessee",
+   "chamber": "Senate",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "Marquita Bradshaw",
+   "rep": "Bill Hagerty (inc.)",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "S-TX",
+   "code": "TX",
+   "state": "Texas",
+   "chamber": "Senate",
+   "rating": "Toss-up",
+   "held": "R",
+   "dem": "James Talarico",
+   "rep": "Ken Paxton",
+   "other": "",
+   "poll": "Talarico 45, Paxton 45 (Rasmussen)",
+   "poll_date": "2026-10-24",
+   "change": "Inside Elections: Tilt R → Toss-up",
+   "change_date": "2026-10-23",
+   "note": "Open seat and the most expensive race of the cycle. Kalshi traders give Talarico 65%.",
+   "polls": [
+    {
+     "date": "2026-10-13",
+     "pollster": "ReconMR/Siena",
+     "dem": 48,
+     "rep": 44
+    },
+    {
+     "date": "2026-10-13",
+     "pollster": "Quantus Insights",
+     "dem": 47,
+     "rep": 47
+    },
+    {
+     "date": "2026-10-14",
+     "pollster": "Marist",
+     "dem": 47,
+     "rep": 45
+    },
+    {
+     "date": "2026-10-14",
+     "pollster": "Univ. of Texas",
+     "dem": 50,
+     "rep": 47
+    },
+    {
+     "date": "2026-10-15",
+     "pollster": "InsiderAdvantage",
+     "dem": 48,
+     "rep": 49
+    },
+    {
+     "date": "2026-10-18",
+     "pollster": "CBS News",
+     "dem": 51,
+     "rep": 49
+    },
+    {
+     "date": "2026-10-19",
+     "pollster": "Univ. of Houston",
+     "dem": 48,
+     "rep": 46
+    },
+    {
+     "date": "2026-10-21",
+     "pollster": "Cook Political Report",
+     "dem": 49,
+     "rep": 44
+    },
+    {
+     "date": "2026-10-22",
+     "pollster": "Fox News",
+     "dem": 49,
+     "rep": 49
+    },
+    {
+     "date": "2026-10-22",
+     "pollster": "Emerson",
+     "dem": 49,
+     "rep": 48
+    },
+    {
+     "date": "2026-10-23",
+     "pollster": "TPOR",
+     "dem": 51,
+     "rep": 47
+    },
+    {
+     "date": "2026-10-24",
+     "pollster": "Rasmussen",
+     "dem": 45,
+     "rep": 45
+    }
+   ],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Toss-up"
+    }
+   ]
+  },
+  {
+   "id": "S-VA",
+   "code": "VA",
+   "state": "Virginia",
+   "chamber": "Senate",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "Mark Warner (inc.)",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "S-WV",
+   "code": "WV",
+   "state": "West Virginia",
+   "chamber": "Senate",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "Shelley Moore Capito (inc.)",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "S-WY",
+   "code": "WY",
+   "state": "Wyoming",
+   "chamber": "Senate",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "G-AL",
+   "code": "AL",
+   "state": "Alabama",
+   "chamber": "Governor",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "G-AK",
+   "code": "AK",
+   "state": "Alaska",
+   "chamber": "Governor",
+   "rating": "Lean D",
+   "held": "R",
+   "dem": "Jonathan Kreiss-Tomkins",
+   "rep": "Bernadette Wilson",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "Cook: Toss-up → Lean D",
+   "change_date": "2026-10-13",
+   "note": "Open seat. Ranked-choice voting.",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Toss-up"
+    },
+    {
+     "date": "2026-10-13",
+     "rating": "Lean D"
+    }
+   ]
+  },
+  {
+   "id": "G-AZ",
+   "code": "AZ",
+   "state": "Arizona",
+   "chamber": "Governor",
+   "rating": "Lean D",
+   "held": "D",
+   "dem": "Katie Hobbs (inc.)",
+   "rep": "Andy Biggs",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Lean D"
+    }
+   ]
+  },
+  {
+   "id": "G-AR",
+   "code": "AR",
+   "state": "Arkansas",
+   "chamber": "Governor",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "G-CA",
+   "code": "CA",
+   "state": "California",
+   "chamber": "Governor",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "G-CO",
+   "code": "CO",
+   "state": "Colorado",
+   "chamber": "Governor",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "G-CT",
+   "code": "CT",
+   "state": "Connecticut",
+   "chamber": "Governor",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "G-FL",
+   "code": "FL",
+   "state": "Florida",
+   "chamber": "Governor",
+   "rating": "Lean R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "Cook: Likely R → Lean R",
+   "change_date": "2026-10-01",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Likely R"
+    },
+    {
+     "date": "2026-10-01",
+     "rating": "Lean R"
+    }
+   ]
+  },
+  {
+   "id": "G-GA",
+   "code": "GA",
+   "state": "Georgia",
+   "chamber": "Governor",
+   "rating": "Toss-up",
+   "held": "R",
+   "dem": "Keisha Lance Bottoms",
+   "rep": "Rick Jackson",
+   "other": "",
+   "poll": "Jackson 46, Bottoms 45 (AJC)",
+   "poll_date": "2026-10-20",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat. Brian Kemp is term-limited.",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Toss-up"
+    }
+   ]
+  },
+  {
+   "id": "G-HI",
+   "code": "HI",
+   "state": "Hawaii",
+   "chamber": "Governor",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "G-ID",
+   "code": "ID",
+   "state": "Idaho",
+   "chamber": "Governor",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "G-IL",
+   "code": "IL",
+   "state": "Illinois",
+   "chamber": "Governor",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "G-IA",
+   "code": "IA",
+   "state": "Iowa",
+   "chamber": "Governor",
+   "rating": "Lean D",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Lean D"
+    }
+   ]
+  },
+  {
+   "id": "G-KS",
+   "code": "KS",
+   "state": "Kansas",
+   "chamber": "Governor",
+   "rating": "Lean R",
+   "held": "D",
+   "dem": "Cindy Holscher",
+   "rep": "Ty Masterson",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat. Laura Kelly is term-limited.",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Lean R"
+    }
+   ]
+  },
+  {
+   "id": "G-ME",
+   "code": "ME",
+   "state": "Maine",
+   "chamber": "Governor",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "G-MD",
+   "code": "MD",
+   "state": "Maryland",
+   "chamber": "Governor",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "G-MA",
+   "code": "MA",
+   "state": "Massachusetts",
+   "chamber": "Governor",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "G-MI",
+   "code": "MI",
+   "state": "Michigan",
+   "chamber": "Governor",
+   "rating": "Lean D",
+   "held": "D",
+   "dem": "Jocelyn Benson",
+   "rep": "John James",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat. Gretchen Whitmer is term-limited.",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Lean D"
+    }
+   ]
+  },
+  {
+   "id": "G-MN",
+   "code": "MN",
+   "state": "Minnesota",
+   "chamber": "Governor",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "G-NE",
+   "code": "NE",
+   "state": "Nebraska",
+   "chamber": "Governor",
+   "rating": "Likely R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "Cook: Solid R → Likely R",
+   "change_date": "2026-10-13",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    },
+    {
+     "date": "2026-10-13",
+     "rating": "Likely R"
+    }
+   ]
+  },
+  {
+   "id": "G-NV",
+   "code": "NV",
+   "state": "Nevada",
+   "chamber": "Governor",
+   "rating": "Toss-up",
+   "held": "R",
+   "dem": "Aaron Ford",
+   "rep": "Joe Lombardo (inc.)",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Toss-up"
+    }
+   ]
+  },
+  {
+   "id": "G-NH",
+   "code": "NH",
+   "state": "New Hampshire",
+   "chamber": "Governor",
+   "rating": "Likely/Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "Kelly Ayotte (inc.)",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Exact Cook rating (Likely or Solid R) not confirmed.",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Likely/Solid R"
+    }
+   ]
+  },
+  {
+   "id": "G-NM",
+   "code": "NM",
+   "state": "New Mexico",
+   "chamber": "Governor",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "G-NY",
+   "code": "NY",
+   "state": "New York",
+   "chamber": "Governor",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "G-OH",
+   "code": "OH",
+   "state": "Ohio",
+   "chamber": "Governor",
+   "rating": "Lean D",
+   "held": "R",
+   "dem": "Amy Acton",
+   "rep": "Vivek Ramaswamy",
+   "other": "",
+   "poll": "RCP average: Acton +3.6",
+   "poll_date": "2026-10-24",
+   "change": "Cook: Toss-up → Lean D",
+   "change_date": "2026-10-23",
+   "note": "Shift followed backlash to a Ramaswamy ad featuring Acton's estranged mother.",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Toss-up"
+    },
+    {
+     "date": "2026-10-23",
+     "rating": "Lean D"
+    }
+   ]
+  },
+  {
+   "id": "G-OK",
+   "code": "OK",
+   "state": "Oklahoma",
+   "chamber": "Governor",
+   "rating": "Likely R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "Cook: Solid R → Likely R",
+   "change_date": "2026-10-13",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    },
+    {
+     "date": "2026-10-13",
+     "rating": "Likely R"
+    }
+   ]
+  },
+  {
+   "id": "G-OR",
+   "code": "OR",
+   "state": "Oregon",
+   "chamber": "Governor",
+   "rating": "Lean D",
+   "held": "D",
+   "dem": "Tina Kotek (inc.)",
+   "rep": "Christine Drazan",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Lean D"
+    }
+   ]
+  },
+  {
+   "id": "G-PA",
+   "code": "PA",
+   "state": "Pennsylvania",
+   "chamber": "Governor",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "G-RI",
+   "code": "RI",
+   "state": "Rhode Island",
+   "chamber": "Governor",
+   "rating": "Solid D",
+   "held": "D",
+   "dem": "Helena Foulkes",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid D"
+    }
+   ]
+  },
+  {
+   "id": "G-SC",
+   "code": "SC",
+   "state": "South Carolina",
+   "chamber": "Governor",
+   "rating": "Likely/Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat. Exact Cook rating not confirmed.",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Likely/Solid R"
+    }
+   ]
+  },
+  {
+   "id": "G-SD",
+   "code": "SD",
+   "state": "South Dakota",
+   "chamber": "Governor",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "G-TN",
+   "code": "TN",
+   "state": "Tennessee",
+   "chamber": "Governor",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  },
+  {
+   "id": "G-TX",
+   "code": "TX",
+   "state": "Texas",
+   "chamber": "Governor",
+   "rating": "Lean R",
+   "held": "R",
+   "dem": "Gina Hinojosa",
+   "rep": "Greg Abbott (inc.)",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "Cook: Likely R → Lean R",
+   "change_date": "2026-10-01",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Likely R"
+    },
+    {
+     "date": "2026-10-01",
+     "rating": "Lean R"
+    }
+   ]
+  },
+  {
+   "id": "G-VT",
+   "code": "VT",
+   "state": "Vermont",
+   "chamber": "Governor",
+   "rating": "Likely R",
+   "held": "R",
+   "dem": "",
+   "rep": "Phil Scott (inc.)",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "Cook: Solid R → Likely R",
+   "change_date": "2026-10-13",
+   "note": "",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    },
+    {
+     "date": "2026-10-13",
+     "rating": "Likely R"
+    }
+   ]
+  },
+  {
+   "id": "G-WI",
+   "code": "WI",
+   "state": "Wisconsin",
+   "chamber": "Governor",
+   "rating": "Toss-up",
+   "held": "D",
+   "dem": "David Crowley",
+   "rep": "Tom Tiffany",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat. Tony Evers is retiring.",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Toss-up"
+    }
+   ]
+  },
+  {
+   "id": "G-WY",
+   "code": "WY",
+   "state": "Wyoming",
+   "chamber": "Governor",
+   "rating": "Solid R",
+   "held": "R",
+   "dem": "",
+   "rep": "",
+   "other": "",
+   "poll": "",
+   "poll_date": "",
+   "change": "",
+   "change_date": "",
+   "note": "Open seat",
+   "polls": [],
+   "result": null,
+   "history": [
+    {
+     "date": "2026-09-30",
+     "rating": "Solid R"
+    }
+   ]
+  }
+ ],
+ "news": [
+  {
+   "id": "n01",
+   "date": "2026-10-25",
+   "code": "MI",
+   "chamber": "Senate",
+   "text": "Trump rallied in Port Huron for Mike Rogers. Obama campaigned in the state for Democrats.",
+   "source": "Fox News",
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-obama-michigan-alaska-october-25"
+  },
+  {
+   "id": "n02",
+   "date": "2026-10-25",
+   "code": "MI",
+   "chamber": "Senate",
+   "text": "Trump attacked El-Sayed over his faith and name. El-Sayed hit back.",
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/10/25/politics/live-news/midterm-election-congress"
+  },
+  {
+   "id": "n03",
+   "date": "2026-10-25",
+   "code": "AK",
+   "chamber": "Senate",
+   "text": "The Justice Department went to court over the two candidates named Dan Sullivan and wants certification blocked if the incumbent loses.",
+   "source": "NBC Meet the Press",
+   "url": "https://www.nbcnews.com/meet-the-press/transcripts/meet-press-october-25-2026-rcna605531"
+  },
+  {
+   "id": "n04",
+   "date": "2026-10-25",
+   "code": "ME",
+   "chamber": "Senate",
+   "text": "Trafalgar poll: Jackson 47, Collins 47. Fox News had it 49-49 on Oct. 23.",
+   "source": "RealClearPolling",
+   "url": "https://www.realclearpolling.com/latest-polls/senate"
+  },
+  {
+   "id": "n05",
+   "date": "2026-10-25",
+   "code": "IA",
+   "chamber": "Senate",
+   "text": "Turek says tariffs and the Iran war hit Iowa hardest. Hinson distanced herself from Trump on Russia and Iran.",
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/10/25/politics/live-news/midterm-election-congress"
+  },
+  {
+   "id": "n06",
+   "date": "2026-10-25",
+   "code": "TX",
+   "chamber": "Senate",
+   "text": "Another member of the Bush family endorsed Talarico over Paxton.",
+   "source": "Fox News",
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-obama-michigan-alaska-october-25"
+  },
+  {
+   "id": "n07",
+   "date": "2026-10-24",
+   "code": "TX",
+   "chamber": "Senate",
+   "text": "Rasmussen poll: Talarico 45, Paxton 45.",
+   "source": "RealClearPolling",
+   "url": "https://www.realclearpolling.com/latest-polls/senate"
+  },
+  {
+   "id": "n08",
+   "date": "2026-10-23",
+   "code": "OH",
+   "chamber": "Governor",
+   "text": "Cook moved the race from Toss-up to Lean D after Ramaswamy's ad featuring Acton's mother.",
+   "source": "The Hill",
+   "url": "https://thehill.com/homenews/campaign/6169489-cook-political-report-shifts-ohio/"
+  },
+  {
+   "id": "n09",
+   "date": "2026-10-23",
+   "code": "TX",
+   "chamber": "Senate",
+   "text": "Inside Elections moved Texas to Toss-up.",
+   "source": "270toWin",
+   "url": "https://www.270towin.com/2026-senate-election/inside-elections-2026-senate-ratings"
+  },
+  {
+   "id": "n10",
+   "date": "2026-10-23",
+   "code": "US",
+   "chamber": "House",
+   "text": "Cook shifted 19 House seats toward Democrats, who are now favored in the 218 seats needed for a majority.",
+   "source": "Mediaite",
+   "url": "https://www.mediaite.com/politics/ohio-gov-race-moves-from-toss-up-to-lean-d-after-ramaswamy-ad-backlash-cook-political-report/"
+  },
+  {
+   "id": "n11",
+   "date": "2026-10-22",
+   "code": "US",
+   "chamber": "Senate",
+   "text": "A Cook poll shows Democratic Senate candidates leading in Iowa, Ohio and Texas.",
+   "source": "Cook Political Report",
+   "url": "https://www.cookpolitical.com/analysis/senate/senate-overview/senate-majority-squarely-democrats-sights-kansas-moves-toss-two"
+  },
+  {
+   "id": "n12",
+   "date": "2026-10-22",
+   "code": "IA",
+   "chamber": "Senate",
+   "text": "InsiderAdvantage poll: Hinson 47, Turek 45.",
+   "source": "NBC News",
+   "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls"
+  },
+  {
+   "id": "n13",
+   "date": "2026-10-22",
+   "code": "MI",
+   "chamber": "Senate",
+   "text": "InsiderAdvantage poll: El-Sayed 47, Rogers 46.",
+   "source": "NBC News",
+   "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls"
+  },
+  {
+   "id": "n14",
+   "date": "2026-10-21",
+   "code": "KS",
+   "chamber": "Senate",
+   "text": "Marshall and Hamilton met for their debate. Trump attacked Hamilton on Truth Social.",
+   "source": "Axios",
+   "url": "https://www.axios.com/local/kansas-city/2026/10/15/kansas-senate-voter-guide-axios"
+  },
+  {
+   "id": "n15",
+   "date": "2026-10-20",
+   "code": "MN",
+   "chamber": "Senate",
+   "text": "Cook moved Minnesota from Likely D to Lean D.",
+   "source": "The Hill",
+   "url": "https://thehill.com/homenews/campaign/6160752-cook-political-report-moves-races/"
+  },
+  {
+   "id": "n16",
+   "date": "2026-10-20",
+   "code": "SC",
+   "chamber": "Senate",
+   "text": "Cook moved South Carolina from Likely R to Lean R in the Graham-Andrews race.",
+   "source": "The Hill",
+   "url": "https://thehill.com/homenews/campaign/6160752-cook-political-report-moves-races/"
+  },
+  {
+   "id": "n17",
+   "date": "2026-10-20",
+   "code": "MS",
+   "chamber": "Senate",
+   "text": "Cook moved Mississippi from Solid R to Likely R.",
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/10/20/politics/live-news/midterm-election-congress"
+  },
+  {
+   "id": "n18",
+   "date": "2026-10-20",
+   "code": "GA",
+   "chamber": "Governor",
+   "text": "AJC poll: Jackson 46, Bottoms 45. Ossoff holds a wide lead in the Senate race.",
+   "source": "AJC",
+   "url": "https://www.ajc.com/politics/2026/10/rick-jackson-has-outspent-keisha-lance-bottoms-but-democratic-enthusiasm-has-the-race-knotted/"
+  },
+  {
+   "id": "n19",
+   "date": "2026-10-13",
+   "code": "AK",
+   "chamber": "Governor",
+   "text": "Cook moved Alaska from Toss-up to Lean D. Nebraska, Vermont and Oklahoma moved from Solid R to Likely R.",
+   "source": "The Hill",
+   "url": "https://thehill.com/homenews/campaign/6145770-cook-political-report-shifts-four-democrats/"
+  },
+  {
+   "id": "n20",
+   "date": "2026-10-06",
+   "code": "KS",
+   "chamber": "Senate",
+   "text": "Cook moved Kansas to Toss-up, New Hampshire to Lean D and North Carolina to Likely D.",
+   "source": "Cook Political Report",
+   "url": "https://www.cookpolitical.com/analysis/senate/senate-overview/senate-majority-squarely-democrats-sights-kansas-moves-toss-two"
+  }
+ ],
+ "forecasts": [
+  {
+   "id": "ddhq-house",
+   "forecaster": "Decision Desk HQ",
+   "chamber": "House",
+   "dem_prob": 0.79,
+   "dem_seats": 237,
+   "date": "2026-10-25",
+   "url": "https://votes.decisiondeskhq.com/forecast/2026"
+  },
+  {
+   "id": "kalshi-house",
+   "forecaster": "Kalshi",
+   "chamber": "House",
+   "dem_prob": 0.91,
+   "dem_seats": null,
+   "date": "2026-10-25",
+   "url": "https://kalshi.com/category/elections/midterms"
+  },
+  {
+   "id": "poliwave-house",
+   "forecaster": "Poliwave",
+   "chamber": "House",
+   "dem_prob": 0.88,
+   "dem_seats": 230,
+   "date": "2026-10-25",
+   "url": "https://www.poliwave.com/us/fed/projection"
+  },
+  {
+   "id": "ddhq-senate",
+   "forecaster": "Decision Desk HQ",
+   "chamber": "Senate",
+   "dem_prob": 0.56,
+   "dem_seats": 51,
+   "date": "2026-10-25",
+   "url": "https://votes.decisiondeskhq.com/forecast/2026"
+  },
+  {
+   "id": "kalshi-senate",
+   "forecaster": "Kalshi",
+   "chamber": "Senate",
+   "dem_prob": 0.63,
+   "dem_seats": null,
+   "date": "2026-10-25",
+   "url": "https://kalshi.com/category/elections/midterms"
+  },
+  {
+   "id": "poliwave-senate",
+   "forecaster": "Poliwave",
+   "chamber": "Senate",
+   "dem_prob": 0.57,
+   "dem_seats": null,
+   "date": "2026-10-25",
+   "url": "https://www.poliwave.com/us/fed/projection"
+  }
+ ],
+ "house": [
+  {
+   "district": "Ohio 7",
+   "rating": "Toss-up",
+   "source": "Decision Desk HQ",
+   "date": "2026-10-25"
+  },
+  {
+   "district": "Texas 15",
+   "rating": "Toss-up",
+   "source": "Decision Desk HQ",
+   "date": "2026-10-25"
+  },
+  {
+   "district": "Iowa 2",
+   "rating": "Toss-up",
+   "source": "Decision Desk HQ",
+   "date": "2026-10-25"
+  },
+  {
+   "district": "Maine 2",
+   "rating": "Toss-up",
+   "source": "Decision Desk HQ",
+   "date": "2026-10-25"
+  },
+  {
+   "district": "Pennsylvania 1",
+   "rating": "Toss-up",
+   "source": "Decision Desk HQ",
+   "date": "2026-10-25"
+  },
+  {
+   "district": "North Carolina 11",
+   "rating": "Toss-up",
+   "source": "Decision Desk HQ",
+   "date": "2026-10-25"
+  },
+  {
+   "district": "Texas 35",
+   "rating": "Toss-up",
+   "source": "Decision Desk HQ",
+   "date": "2026-10-25"
+  },
+  {
+   "district": "Pennsylvania 8",
+   "rating": "Toss-up",
+   "source": "Decision Desk HQ",
+   "date": "2026-10-25"
+  },
+  {
+   "district": "Florida 22",
+   "rating": "Toss-up",
+   "source": "Decision Desk HQ",
+   "date": "2026-10-25"
+  },
+  {
+   "district": "New York 17",
+   "rating": "Toss-up",
+   "source": "Decision Desk HQ",
+   "date": "2026-10-25"
+  }
+ ],
+ "sources": [
+  {
+   "name": "Cook Political Report: Senate ratings",
+   "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+  },
+  {
+   "name": "Cook Political Report: Governor ratings",
+   "url": "https://www.cookpolitical.com/ratings/governor-race-ratings"
+  },
+  {
+   "name": "Decision Desk HQ forecast",
+   "url": "https://votes.decisiondeskhq.com/forecast/2026"
+  },
+  {
+   "name": "Kalshi midterm markets",
+   "url": "https://kalshi.com/category/elections/midterms"
+  },
+  {
+   "name": "RealClearPolling: Senate polls",
+   "url": "https://www.realclearpolling.com/latest-polls/senate"
+  },
+  {
+   "name": "NBC News: Senate battleground polls",
+   "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls"
+  }
+ ],
+ "history_start": "2026-09-30",
+ "closing": [
+  {
+   "code": "GA",
+   "state": "Georgia",
+   "utc": "2026-11-04T00:00:00Z"
+  },
+  {
+   "code": "IN",
+   "state": "Indiana",
+   "utc": "2026-11-04T00:00:00Z"
+  },
+  {
+   "code": "KY",
+   "state": "Kentucky",
+   "utc": "2026-11-04T00:00:00Z"
+  },
+  {
+   "code": "SC",
+   "state": "South Carolina",
+   "utc": "2026-11-04T00:00:00Z"
+  },
+  {
+   "code": "VT",
+   "state": "Vermont",
+   "utc": "2026-11-04T00:00:00Z"
+  },
+  {
+   "code": "VA",
+   "state": "Virginia",
+   "utc": "2026-11-04T00:00:00Z"
+  },
+  {
+   "code": "NC",
+   "state": "North Carolina",
+   "utc": "2026-11-04T00:30:00Z"
+  },
+  {
+   "code": "OH",
+   "state": "Ohio",
+   "utc": "2026-11-04T00:30:00Z"
+  },
+  {
+   "code": "WV",
+   "state": "West Virginia",
+   "utc": "2026-11-04T00:30:00Z"
+  },
+  {
+   "code": "AL",
+   "state": "Alabama",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "CT",
+   "state": "Connecticut",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "DE",
+   "state": "Delaware",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "FL",
+   "state": "Florida",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "IL",
+   "state": "Illinois",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "ME",
+   "state": "Maine",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "MD",
+   "state": "Maryland",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "MA",
+   "state": "Massachusetts",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "MS",
+   "state": "Mississippi",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "MO",
+   "state": "Missouri",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "NH",
+   "state": "New Hampshire",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "NJ",
+   "state": "New Jersey",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "OK",
+   "state": "Oklahoma",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "PA",
+   "state": "Pennsylvania",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "RI",
+   "state": "Rhode Island",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "TN",
+   "state": "Tennessee",
+   "utc": "2026-11-04T01:00:00Z"
+  },
+  {
+   "code": "AR",
+   "state": "Arkansas",
+   "utc": "2026-11-04T01:30:00Z"
+  },
+  {
+   "code": "AZ",
+   "state": "Arizona",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "CO",
+   "state": "Colorado",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "IA",
+   "state": "Iowa",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "KS",
+   "state": "Kansas",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "LA",
+   "state": "Louisiana",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "MI",
+   "state": "Michigan",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "MN",
+   "state": "Minnesota",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "NE",
+   "state": "Nebraska",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "NM",
+   "state": "New Mexico",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "NY",
+   "state": "New York",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "ND",
+   "state": "North Dakota",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "SD",
+   "state": "South Dakota",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "TX",
+   "state": "Texas",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "WI",
+   "state": "Wisconsin",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "WY",
+   "state": "Wyoming",
+   "utc": "2026-11-04T02:00:00Z"
+  },
+  {
+   "code": "MT",
+   "state": "Montana",
+   "utc": "2026-11-04T03:00:00Z"
+  },
+  {
+   "code": "NV",
+   "state": "Nevada",
+   "utc": "2026-11-04T03:00:00Z"
+  },
+  {
+   "code": "UT",
+   "state": "Utah",
+   "utc": "2026-11-04T03:00:00Z"
+  },
+  {
+   "code": "CA",
+   "state": "California",
+   "utc": "2026-11-04T04:00:00Z"
+  },
+  {
+   "code": "ID",
+   "state": "Idaho",
+   "utc": "2026-11-04T04:00:00Z"
+  },
+  {
+   "code": "OR",
+   "state": "Oregon",
+   "utc": "2026-11-04T04:00:00Z"
+  },
+  {
+   "code": "WA",
+   "state": "Washington",
+   "utc": "2026-11-04T04:00:00Z"
+  },
+  {
+   "code": "HI",
+   "state": "Hawaii",
+   "utc": "2026-11-04T05:00:00Z"
+  },
+  {
+   "code": "AK",
+   "state": "Alaska",
+   "utc": "2026-11-04T06:00:00Z"
+  }
+ ],
+ "house_results": null,
+ "europe": {
+  "intro": "The midterms decide who controls Congress for the last two years of Donald Trump's term. Congress cannot run foreign policy, but it holds the purse, confirms nominees, ratifies treaties and investigates the executive. Analysts disagree on how much a change of majority would shift policy toward Europe.",
+  "levers": [
+   {
+    "title": "Trade and tariffs",
+    "text": "A July 2026 EU-US agreement caps US tariffs on most EU imports at 15%. After the Supreme Court curbed emergency tariff powers in February 2026, a sanctions law aimed at buyers of Russian oil and gas gave the president new room to impose tariffs of up to 100%. Congress could narrow that power, but any change would need the president's signature or a two-thirds override."
+   },
+   {
+    "title": "Ukraine",
+    "text": "Congress decides whether to fund aid to Ukraine. A Democratic House could push for more money, but the White House controls how fast funds are spent and can seek to cancel them."
+   },
+   {
+    "title": "NATO and defense",
+    "text": "European defense spending targets are set in Europe and are unlikely to move with the result. The Senate's role in confirming ambassadors and military nominees matters more if control changes."
+   },
+   {
+    "title": "Oversight",
+    "text": "A new House majority can open investigations and subpoena officials. Experts warn that oversight produces information and pressure more than direct limits on policy."
+   }
+  ],
+  "scenarios": [
+   {
+    "name": "Democrats win both chambers",
+    "label": "About 55% in DDHQ and Poliwave",
+    "text": "Democrats can block nominees and treaties and attach conditions to spending bills, including on tariffs and Ukraine. Laws still need the president's signature."
+   },
+   {
+    "name": "Democratic House, Republican Senate",
+    "label": "About 23 to 24%",
+    "text": "Split Congress. Big new legislation stalls. Budget fights and investigations intensify. Nominations still pass the Senate. Trade policy stays mostly with the White House."
+   },
+   {
+    "name": "Republicans keep both chambers",
+    "label": "About 11 to 19%",
+    "text": "Unified government continues. The administration keeps a clear path for nominations and its legislative agenda through 2028."
+   }
+  ],
+  "sources": [
+   {
+    "name": "ECFR: A Democratic win isn't enough (Oct. 19, 2026)",
+    "url": "https://ecfr.eu/article/a-democratic-win-isnt-enough-how-europe-can-prepare-for-trump-beyond-the-midterms/"
+   },
+   {
+    "name": "UBS: US midterms and European investors (Sept. 10, 2026)",
+    "url": "https://www.ubs.com/us/en/wealth-management/insights/article.3745319.html"
+   }
+  ],
+  "scenario_note": "Combined-outcome odds from Decision Desk HQ and Poliwave, Oct. 25. Poliwave also gives about 10% to a Senate decided by independents."
+ }
+}
