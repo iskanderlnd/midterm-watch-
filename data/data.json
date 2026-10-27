@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T11:00:00Z",
+ "updated": "2026-10-27T08:32:00Z",
  "election_date": "2026-11-03",
  "not_up": {
   "Senate": {
@@ -511,8 +511,8 @@
    "dem": "Abdul El-Sayed",
    "rep": "Mike Rogers",
    "other": "",
-   "poll": "El-Sayed 47, Rogers 46 (InsiderAdvantage)",
-   "poll_date": "2026-10-22",
+   "poll": "El-Sayed 48, Rogers 46 (Michigan State/YouGov)",
+   "poll_date": "2026-10-26",
    "change": "",
    "change_date": "",
    "note": "Open seat after Gary Peters' retirement. Trump and Obama both rallied here on Oct. 25.",
@@ -533,6 +533,12 @@
      "date": "2026-10-23",
      "pollster": "InsiderAdvantage",
      "dem": 47,
+     "rep": 46
+    },
+    {
+     "date": "2026-10-26",
+     "pollster": "Michigan State/YouGov",
+     "dem": 48,
      "rep": 46
     }
    ],
@@ -605,7 +611,7 @@
    "poll_date": "",
    "change": "Cook: Solid R → Likely R",
    "change_date": "2026-10-20",
-   "note": "",
+   "note": "Trump rallied in Corinth for Hyde-Smith on Oct. 26.",
    "polls": [],
    "result": null,
    "history": [
@@ -684,8 +690,8 @@
    "dem": "Chris Pappas",
    "rep": "John E. Sununu",
    "other": "",
-   "poll": "Pappas 50, Sununu 43 (St. Anselm)",
-   "poll_date": "2026-10-22",
+   "poll": "Pappas 50, Sununu 44 (Rasmussen)",
+   "poll_date": "2026-10-26",
    "change": "Cook: Toss-up → Lean D",
    "change_date": "2026-10-06",
    "note": "Open seat",
@@ -695,6 +701,12 @@
      "pollster": "St. Anselm",
      "dem": 50,
      "rep": 43
+    },
+    {
+     "date": "2026-10-26",
+     "pollster": "Rasmussen",
+     "dem": 50,
+     "rep": 44
     }
    ],
    "result": null,
@@ -767,8 +779,8 @@
    "dem": "Roy Cooper",
    "rep": "Michael Whatley",
    "other": "",
-   "poll": "Cooper 49, Whatley 39 (Carolina Journal/Harper)",
-   "poll_date": "2026-10-22",
+   "poll": "Cooper 51, Whatley 43 (Quantus Insights)",
+   "poll_date": "2026-10-26",
    "change": "Cook: Lean D → Likely D",
    "change_date": "2026-10-06",
    "note": "Open seat after Thom Tillis' retirement.",
@@ -796,6 +808,12 @@
      "pollster": "Carolina Journal/Harper",
      "dem": 49,
      "rep": 39
+    },
+    {
+     "date": "2026-10-26",
+     "pollster": "Quantus Insights",
+     "dem": 51,
+     "rep": 43
     }
    ],
    "result": null,
@@ -953,17 +971,23 @@
    "dem": "Annie Andrews",
    "rep": "Lindsey Graham (inc.)",
    "other": "",
-   "poll": "Graham 49, Andrews 46 (Trafalgar)",
-   "poll_date": "2026-10-18",
+   "poll": "Graham 47, Andrews 46 (Targoz)",
+   "poll_date": "2026-10-26",
    "change": "Cook: Likely R → Lean R",
    "change_date": "2026-10-20",
-   "note": "",
+   "note": "Former governors David Beasley (R) and Jim Hodges (D) endorsed Andrews on Oct. 26.",
    "polls": [
     {
      "date": "2026-10-18",
      "pollster": "Trafalgar",
      "dem": 46,
      "rep": 49
+    },
+    {
+     "date": "2026-10-26",
+     "pollster": "Targoz",
+     "dem": 46,
+     "rep": 47
     }
    ],
    "result": null,
@@ -988,12 +1012,19 @@
    "dem": "",
    "rep": "Mike Rounds (inc.)",
    "other": "",
-   "poll": "Rounds 50, opponent 42 (Emerson)",
-   "poll_date": "2026-10-20",
+   "poll": "Rounds 56, Bengs 37 (Mason-Dixon)",
+   "poll_date": "2026-10-26",
    "change": "",
    "change_date": "",
    "note": "",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-10-26",
+     "pollster": "Mason-Dixon",
+     "dem": 37,
+     "rep": 56
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -1549,12 +1580,19 @@
    "dem": "",
    "rep": "",
    "other": "",
-   "poll": "",
-   "poll_date": "",
+   "poll": "Pingree 49, Charles 39 (Fox News)",
+   "poll_date": "2026-10-23",
    "change": "",
    "change_date": "",
    "note": "Open seat",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-10-23",
+     "pollster": "Fox News",
+     "dem": 49,
+     "rep": 39
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -1621,12 +1659,19 @@
    "dem": "Jocelyn Benson",
    "rep": "John James",
    "other": "",
-   "poll": "",
-   "poll_date": "",
+   "poll": "Benson 53, James 41 (Michigan State/YouGov)",
+   "poll_date": "2026-10-26",
    "change": "",
    "change_date": "",
    "note": "Open seat. Gretchen Whitmer is term-limited.",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-10-26",
+     "pollster": "Michigan State/YouGov",
+     "dem": 53,
+     "rep": 41
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -1721,12 +1766,19 @@
    "dem": "",
    "rep": "Kelly Ayotte (inc.)",
    "other": "",
-   "poll": "",
-   "poll_date": "",
+   "poll": "Ayotte 50, Warmington 42 (St. Anselm)",
+   "poll_date": "2026-10-22",
    "change": "",
    "change_date": "",
    "note": "Exact Cook rating (Likely or Solid R) not confirmed.",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-10-22",
+     "pollster": "St. Anselm",
+     "dem": 42,
+     "rep": 50
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -1873,12 +1925,19 @@
    "dem": "",
    "rep": "",
    "other": "",
-   "poll": "",
-   "poll_date": "",
+   "poll": "Shapiro 59, Garrity 36 (Franklin & Marshall)",
+   "poll_date": "2026-10-22",
    "change": "",
    "change_date": "",
    "note": "",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-10-22",
+     "pollster": "Franklin & Marshall",
+     "dem": 59,
+     "rep": 36
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -1921,12 +1980,19 @@
    "dem": "",
    "rep": "",
    "other": "",
-   "poll": "",
-   "poll_date": "",
+   "poll": "Wilson 51, Johnson 41 (Targoz)",
+   "poll_date": "2026-10-26",
    "change": "",
    "change_date": "",
    "note": "Open seat. Exact Cook rating not confirmed.",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-10-26",
+     "pollster": "Targoz",
+     "dem": 41,
+     "rep": 51
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -1993,12 +2059,19 @@
    "dem": "Gina Hinojosa",
    "rep": "Greg Abbott (inc.)",
    "other": "",
-   "poll": "",
-   "poll_date": "",
+   "poll": "Abbott 52, Hinojosa 47 (Fox News)",
+   "poll_date": "2026-10-22",
    "change": "Cook: Likely R → Lean R",
    "change_date": "2026-10-01",
    "note": "",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-10-22",
+     "pollster": "Fox News",
+     "dem": 47,
+     "rep": 52
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -2089,6 +2162,60 @@
   }
  ],
  "news": [
+  {
+   "id": "n20261027-1",
+   "date": "2026-10-26",
+   "code": "MS",
+   "chamber": "Senate",
+   "text": "Trump rallied in Corinth for Sen. Cindy Hyde-Smith. Democrat Scott Colom is pressing her in a deep-red state.",
+   "source": "Fox News",
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-el-sayed-california-alaska-october-26"
+  },
+  {
+   "id": "n20261027-2",
+   "date": "2026-10-26",
+   "code": "SC",
+   "chamber": "Senate",
+   "text": "A Targoz poll for the SC Policy Council puts Graham at 47 and Andrews at 46. Two former governors endorsed Andrews.",
+   "source": "Fox Carolina",
+   "url": "https://www.foxcarolina.com/2026/10/26/new-poll-shows-neck-and-neck-senate-race-double-digit-lead-governor-sc-midterms/"
+  },
+  {
+   "id": "n20261027-3",
+   "date": "2026-10-26",
+   "code": "MI",
+   "chamber": "Senate",
+   "text": "A Michigan State/YouGov poll shows El-Sayed up 2 on Rogers. Benson leads James by 12 for governor.",
+   "source": "RealClearPolling",
+   "url": "https://www.realclearpolling.com/latest-polls"
+  },
+  {
+   "id": "n20261027-4",
+   "date": "2026-10-26",
+   "code": "NC",
+   "chamber": "Senate",
+   "text": "Quantus Insights finds Cooper ahead of Whatley by 8 points.",
+   "source": "RealClearPolling",
+   "url": "https://www.realclearpolling.com/latest-polls"
+  },
+  {
+   "id": "n20261027-5",
+   "date": "2026-10-26",
+   "code": "OH",
+   "chamber": "Senate",
+   "text": "John Legend rallied in Dayton for Sherrod Brown and Amy Acton. Ramaswamy kept up his attacks on Acton.",
+   "source": "Fox News",
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-el-sayed-california-alaska-october-26"
+  },
+  {
+   "id": "n20261027-6",
+   "date": "2026-10-26",
+   "code": "US",
+   "chamber": "House",
+   "text": "More than 27 million Americans had voted early by Monday morning. Texas led with over 4.3 million ballots.",
+   "source": "Fox News",
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-el-sayed-california-alaska-october-26"
+  },
   {
    "id": "n01",
    "date": "2026-10-25",
@@ -2286,16 +2413,16 @@
    "chamber": "House",
    "dem_prob": 0.91,
    "dem_seats": null,
-   "date": "2026-10-25",
+   "date": "2026-10-26",
    "url": "https://kalshi.com/category/elections/midterms"
   },
   {
    "id": "poliwave-house",
    "forecaster": "Poliwave",
    "chamber": "House",
-   "dem_prob": 0.88,
+   "dem_prob": 0.87,
    "dem_seats": 230,
-   "date": "2026-10-25",
+   "date": "2026-10-26",
    "url": "https://www.poliwave.com/us/fed/projection"
   },
   {
@@ -2311,9 +2438,9 @@
    "id": "kalshi-senate",
    "forecaster": "Kalshi",
    "chamber": "Senate",
-   "dem_prob": 0.63,
+   "dem_prob": 0.64,
    "dem_seats": null,
-   "date": "2026-10-25",
+   "date": "2026-10-26",
    "url": "https://kalshi.com/category/elections/midterms"
   },
   {
@@ -2321,8 +2448,8 @@
    "forecaster": "Poliwave",
    "chamber": "Senate",
    "dem_prob": 0.57,
-   "dem_seats": null,
-   "date": "2026-10-25",
+   "dem_seats": 51,
+   "date": "2026-10-26",
    "url": "https://www.poliwave.com/us/fed/projection"
   }
  ],
