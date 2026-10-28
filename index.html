@@ -320,6 +320,46 @@ footer.foot ul { margin: 0; padding-left: 18px; }
 .scen .dots i { width: 10px; height: 10px; border-radius: 2px; display: block; }
 .eu-src { font-size: 12px; color: var(--muted); margin-top: 12px; }
 
+
+/* Stakes */
+.stakes { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 460px), 1fr)); gap: 16px; }
+.stake-block { background: var(--surface); border: 1px solid var(--rule); border-radius: var(--r); box-shadow: var(--shadow); padding: 18px; display: grid; grid-template-columns: minmax(0, 170px) minmax(0, 1fr); gap: 18px; align-items: center; }
+@media (max-width: 560px) { .stake-block { grid-template-columns: 1fr; } .stake-block .illo-wrap { max-width: 200px; } }
+.stake-block h3 { font-size: 24px; text-transform: uppercase; margin-bottom: 6px; }
+.stake-block p { margin: 0 0 8px; font-size: 14.5px; }
+.stake-block p:last-child { margin-bottom: 0; }
+.illo { width: 100%; height: auto; display: block; }
+.stakes-h { font-size: 24px; text-transform: uppercase; margin: 26px 0 12px; }
+.impact { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); gap: 12px; counter-reset: imp; }
+.impact li { counter-increment: imp; background: var(--surface); border: 1px solid var(--rule); border-top: 4px solid var(--ink); border-radius: var(--r); padding: 14px 16px; min-width: 0; }
+.impact li:nth-child(3n+1) { border-top-color: var(--dem); } .impact li:nth-child(3n+2) { border-top-color: var(--toss); } .impact li:nth-child(3n) { border-top-color: var(--rep); }
+.impact b { font-family: var(--display); font-size: 21px; text-transform: uppercase; display: block; line-height: 1.1; }
+.impact b::before { content: counter(imp, decimal-leading-zero) " "; color: var(--muted); }
+.impact p { margin: 6px 0 0; font-size: 14px; }
+.stakes-foot { margin: 14px 0 0; font-size: 14px; color: var(--muted); max-width: 75ch; }
+.eu-top { display: grid; grid-template-columns: minmax(0, 190px) minmax(0, 1fr); gap: 20px; align-items: center; margin-bottom: 16px; }
+.eu-top .intro { margin: 0; }
+@media (max-width: 560px) { .eu-top { grid-template-columns: 1fr; } .eu-top .illo-wrap { max-width: 200px; } }
+
+/* Congress simulator */
+.cong { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr)); gap: 16px; }
+.hemi-card { background: var(--surface); border: 1px solid var(--rule); border-radius: var(--r); box-shadow: var(--shadow); padding: 16px 18px; min-width: 0; display: flex; flex-direction: column; }
+.hemi-card .verdict { font-family: var(--display); font-weight: 700; text-transform: uppercase; font-size: 24px; line-height: 1.05; margin: 4px 0 10px; text-wrap: balance; min-height: 2.1em; }
+.hemi { width: 100%; height: auto; display: block; margin-top: auto; }
+.hemi .sU { stroke: var(--muted); stroke-opacity: .4; stroke-width: 1; }
+.hemi .hc-big { font-family: var(--display); font-weight: 700; font-size: 34px; fill: var(--ink); text-anchor: middle; }
+.hemi .hc-sm { font: 600 11px var(--body); fill: var(--muted); text-anchor: middle; letter-spacing: .06em; text-transform: uppercase; }
+.hemi-card .nums { display: flex; justify-content: space-between; gap: 8px; font-family: var(--display); font-weight: 700; font-size: 34px; line-height: 1; font-variant-numeric: tabular-nums; margin-top: 10px; }
+.hemi-card .nums > div { flex: 1; text-align: center; }
+.hemi-card .nums > div:first-child { text-align: left; } .hemi-card .nums > div:last-child { text-align: right; }
+.hemi-card .nums small { display: block; font: 600 11px var(--body); letter-spacing: .1em; color: var(--muted); margin-top: 3px; }
+.hemi-card .nums .d { color: var(--dem); } .hemi-card .nums .r { color: var(--rep); } .hemi-card .nums .i { color: var(--toss); } .hemi-card .nums .u { color: var(--muted); }
+.cong-line { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 12px; margin: 16px 0 0; padding: 12px 16px; border-radius: var(--r); background: var(--ink); color: var(--paper); font-family: var(--display); font-weight: 700; font-size: 22px; text-transform: uppercase; line-height: 1.1; }
+.cong-line .dots { display: inline-flex; gap: 3px; } .cong-line .dots i { width: 12px; height: 12px; border-radius: 2px; display: block; }
+.cong-line a { font: 600 13px var(--body); text-transform: none; color: inherit; margin-left: auto; }
+.sim-tools { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px 16px; margin: 18px 0 12px; }
+.sim-tools .sim-actions { margin-top: 0; }
+
 /* Small-screen fixes */
 .bal header { flex-wrap: wrap; row-gap: 6px; }
 @media (max-width: 480px) { .bal .tally { font-size: 22px; gap: 10px; } .rewind output { min-width: 0; } .rewind { flex-wrap: wrap; } }
@@ -390,6 +430,7 @@ footer.foot ul { margin: 0; padding-left: 18px; }
     </div>
   </header>
   <nav class="nav" aria-label="Sections" id="nav">
+    <a href="#stakes" data-i18n="nav_stakes">Stakes</a>
     <a href="#map-section" data-i18n="nav_map">Map</a>
     <a href="#simulator" data-i18n="nav_sim">Simulator</a>
     <a href="#election-night" data-i18n="nav_night">Election night</a>
@@ -414,6 +455,78 @@ footer.foot ul { margin: 0; padding-left: 18px; }
   </section>
 
   <div class="balance" id="balance"></div>
+
+  <section class="sec" id="stakes" aria-labelledby="stakes-h">
+    <div class="sec-head"><div><h2 id="stakes-h" data-i18n="stakes_h">What's at stake</h2><p data-i18n="stakes_p">How the midterms work and what the result changes in Washington.</p></div></div>
+    <div class="stakes">
+      <article class="stake-block">
+        <div class="illo-wrap"><svg class="illo" viewBox="0 0 240 170" role="img" aria-labelledby="ill-cap"><title id="ill-cap">Illustration of the US Capitol</title>
+<circle cx="120" cy="80" r="64" fill="var(--dem)" opacity=".12"/>
+<g fill="var(--surface)" stroke="var(--ink)" stroke-width="2" stroke-linejoin="round">
+<rect x="12" y="124" width="72" height="30"/><rect x="156" y="124" width="72" height="30"/>
+<path d="M22 130v18M32 130v18M42 130v18M52 130v18M62 130v18M72 130v18M168 130v18M178 130v18M188 130v18M198 130v18M208 130v18M218 130v18" fill="none" stroke-width="1.5"/>
+<rect x="70" y="115" width="100" height="39"/>
+<rect x="98" y="128" width="44" height="26"/>
+<path d="M95 128L120 117L145 128Z"/>
+<path d="M104 131v20M112 131v20M120 131v20M128 131v20M136 131v20" fill="none" stroke-width="1.5"/>
+<rect x="90" y="154" width="60" height="6"/>
+<rect x="76" y="108" width="88" height="7"/>
+<rect x="84" y="86" width="72" height="22"/>
+<path d="M92 89v16M100 89v16M108 89v16M116 89v16M124 89v16M132 89v16M140 89v16M148 89v16" fill="none" stroke-width="1.5"/>
+<rect x="80" y="78" width="80" height="8"/>
+<path d="M86 78C86 50 101 34 120 34C139 34 154 50 154 78Z" style="fill: color-mix(in srgb, var(--dem) 14%, var(--surface))"/>
+<path d="M103 78C103 56 110 40 120 35M137 78C137 56 130 40 120 35M120 34V78" fill="none" stroke-width="1.5"/>
+<path d="M110 30h20v4h-20z"/><rect x="113" y="18" width="14" height="12" rx="1"/>
+<path d="M120 8v10" fill="none"/>
+</g>
+<rect x="6" y="160" width="228" height="3" rx="1.5" fill="var(--ink)"/>
+</svg></div>
+        <div>
+          <h3 data-i18n="st_a_h">A verdict on the president, two years in</h3>
+          <p data-i18n="st_a_p1">The midterms fall halfway through a presidential term. Donald Trump is not on the ballot, but Congress is. Voters choose all 435 members of the House, 35 of the 100 senators and 36 governors. The new Congress takes office on Jan. 3, 2027, and sits until Trump's term ends in January 2029.</p>
+          <p data-i18n="st_a_p2">History weighs against the president. His party lost House seats in 18 of the 20 midterms since 1946. The only exceptions were 1998 and 2002.</p>
+        </div>
+      </article>
+      <article class="stake-block">
+        <div class="illo-wrap"><svg class="illo" viewBox="0 0 200 170" role="img" aria-labelledby="ill-bal"><title id="ill-bal">Illustration of a ballot going into a ballot box</title>
+<circle cx="100" cy="84" r="66" fill="var(--rep)" opacity=".1"/>
+<ellipse cx="102" cy="158" rx="72" ry="6" fill="var(--ink)" opacity=".12"/>
+<g stroke="var(--ink)" stroke-width="2" stroke-linejoin="round">
+<path d="M40 82L60 66H180L160 82Z" style="fill: color-mix(in srgb, var(--ink) 8%, var(--surface))"/>
+<path d="M78 75H140" stroke-width="6" stroke-linecap="round"/>
+<g transform="rotate(-7 108 75)">
+<rect x="80" y="8" width="56" height="67" rx="3" fill="var(--surface)"/>
+<rect x="88" y="18" width="11" height="11" rx="2" fill="var(--surface)" stroke-width="1.8"/>
+<path d="M90 23l3 4 6-8" fill="none" stroke="var(--dem)" stroke-width="3" stroke-linecap="round"/>
+<path d="M104 21h24M104 27h16" fill="none" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="88" y="38" width="11" height="11" rx="2" fill="var(--surface)" stroke-width="1.8"/>
+<path d="M104 41h24M104 47h16" fill="none" stroke-width="1.8" stroke-linecap="round" opacity=".55"/>
+<path d="M88 60h40" fill="none" stroke-width="1.8" stroke-linecap="round" opacity=".55"/>
+</g>
+<path d="M160 82L180 66V136L160 152Z" style="fill: color-mix(in srgb, var(--ink) 16%, var(--surface))"/>
+<rect x="40" y="82" width="120" height="70" rx="3" fill="var(--surface)"/>
+</g>
+<rect x="72" y="110" width="16" height="6" rx="2" fill="var(--dem)"/><rect x="92" y="110" width="16" height="6" rx="2" fill="var(--toss)"/><rect x="112" y="110" width="16" height="6" rx="2" fill="var(--rep)"/>
+<path d="M66 128h68" stroke="var(--ink)" stroke-width="1.8" stroke-linecap="round" opacity=".4"/>
+</svg></div>
+        <div>
+          <h3 data-i18n="st_b_h">Who votes</h3>
+          <p data-i18n="st_b_p1">Any US citizen aged 18 or over who has registered. Each state runs its own election and sets its own rules on registration, mail voting and ID.</p>
+          <p data-i18n="st_b_p2">Turnout is lower than in a presidential year: about 50% of eligible voters in 2018 and 46% in 2022. The most motivated voters weigh more.</p>
+        </div>
+      </article>
+    </div>
+    <h3 class="stakes-h" data-i18n="st_imp_h">What changes with the result</h3>
+    <ol class="impact">
+      <li><b data-i18n="imp1_h">Laws</b><p data-i18n="imp1_p">Every bill must pass both chambers and get the president's signature. If Democrats win one chamber, Trump's legislative agenda stalls. Overriding a veto takes two-thirds of both chambers.</p></li>
+      <li><b data-i18n="imp2_h">Budget</b><p data-i18n="imp2_p">Congress controls federal spending. A divided Congress makes budget deals harder and raises the risk of a government shutdown.</p></li>
+      <li><b data-i18n="imp3_h">Oversight</b><p data-i18n="imp3_p">The House majority runs investigations and issues subpoenas. A Democratic House could open inquiries into the administration. It can impeach with a simple majority, but removal needs two-thirds of the Senate.</p></li>
+      <li><b data-i18n="imp4_h">Nominations</b><p data-i18n="imp4_p">The Senate confirms cabinet members, ambassadors and federal judges by simple majority. A Democratic Senate could block Trump's picks, including any Supreme Court vacancy.</p></li>
+      <li><b data-i18n="imp5_h">Trade and tariffs</b><p data-i18n="imp5_p">Most tariffs rest on presidential powers. Congress can hold hearings and push for exemptions, but rolling tariffs back takes a law the president would likely veto.</p></li>
+      <li><b data-i18n="imp6_h">States and 2028</b><p data-i18n="imp6_p">36 governors are elected, most for four years. They lead on health, schools and policing, and will certify their state's results in the 2028 presidential race.</p></li>
+    </ol>
+    <p class="stakes-foot" data-i18n="st_foot">Whatever the result, the president keeps his own powers: executive orders, command of foreign policy and the veto.</p>
+  </section>
 
   <section class="sec" id="map-section" aria-labelledby="map-h">
     <div class="sec-head">
@@ -458,26 +571,39 @@ footer.foot ul { margin: 0; padding-left: 18px; }
   <section class="sec" id="simulator" aria-labelledby="sim-h">
     <div class="sec-head">
       <div>
-        <h2 id="sim-h" data-i18n="sim_h">Build your Senate</h2>
-        <p data-i18n="sim_p">Tap a race to change who wins it. Races start with the party the ratings favor, and toss-ups start open. Democrats need 51 seats. At 50 to 50, Vice President JD Vance breaks ties for Republicans.</p>
+        <h2 id="sim-h" data-i18n="sim_h">Build your Congress</h2>
+        <p data-i18n="sim_p">Tap a race to change who wins it. The seats move in each chamber. Races start with the party the ratings favor, and toss-ups start open. A majority takes 51 Senate seats, or 50 plus Vice President JD Vance, and 218 House seats.</p>
       </div>
     </div>
-    <div class="sim">
-      <div class="sim-grid" id="sim-grid"></div>
-      <aside class="sim-panel" aria-live="polite">
+    <div class="cong">
+      <article class="hemi-card" aria-live="polite">
         <div class="eyebrow" data-i18n="sim_your">Your Senate</div>
         <div class="verdict" id="sim-verdict">-</div>
-        <div class="bar-wrap"><div class="bar" id="sim-bar"></div><div class="bar-mark" style="left: 50.5%;"><b>51</b></div></div>
-        <div class="nums"><div class="d"><span id="sim-d">0</span><small data-i18n="dem_s">DEM</small></div><div class="i" id="sim-i-wrap"><span id="sim-i">0</span><small data-i18n="ind_s">IND</small></div><div class="r"><span id="sim-r">0</span><small data-i18n="rep_s">REP</small></div></div>
-        <div class="sim-actions">
-          <button type="button" id="sim-reset" data-i18n="sim_reset">Back to ratings</button>
-          <button type="button" id="sim-alld" data-i18n="sim_alld">Toss-ups to Dems</button>
-          <button type="button" id="sim-allr" data-i18n="sim_allr">Toss-ups to GOP</button>
-          <button type="button" id="sim-polls" data-i18n="sim_polls">Follow the polls</button>
-        </div>
-        <p class="sim-note" id="sim-note"></p>
-      </aside>
+        <svg class="hemi" id="hemi-senate" viewBox="0 0 400 214" role="img"></svg>
+        <div class="nums"><div class="d"><span id="sim-d">0</span><small data-i18n="dem_s">DEM</small></div><div class="i" id="sim-i-wrap"><span id="sim-i">0</span><small data-i18n="ind_s">IND</small></div><div class="u"><span id="sim-u">0</span><small data-i18n="open_s">OPEN</small></div><div class="r"><span id="sim-r">0</span><small data-i18n="rep_s">REP</small></div></div>
+      </article>
+      <article class="hemi-card" aria-live="polite">
+        <div class="eyebrow" data-i18n="sim_yourh">Your House</div>
+        <div class="verdict" id="hsim-verdict">-</div>
+        <svg class="hemi" id="hemi-house" viewBox="0 0 400 214" role="img"></svg>
+        <div class="nums"><div class="d"><span id="hsim-d">0</span><small data-i18n="dem_s">DEM</small></div><div class="u"><span id="hsim-u">0</span><small data-i18n="open_s">OPEN</small></div><div class="r"><span id="hsim-r">0</span><small data-i18n="rep_s">REP</small></div></div>
+      </article>
     </div>
+    <p class="cong-line" id="cong-line" aria-live="polite"></p>
+    <div class="sim-tools">
+      <div class="seg" role="group" id="simseg">
+        <button type="button" data-sc="Senate" aria-pressed="true" data-i18n="simseg_s">Senate races</button>
+        <button type="button" data-sc="House" aria-pressed="false" data-i18n="simseg_h">House races</button>
+      </div>
+      <div class="sim-actions">
+        <button type="button" id="sim-reset" data-i18n="sim_reset">Back to ratings</button>
+        <button type="button" id="sim-alld" data-i18n="sim_alld">Toss-ups to Dems</button>
+        <button type="button" id="sim-allr" data-i18n="sim_allr">Toss-ups to GOP</button>
+        <button type="button" id="sim-polls" data-i18n="sim_polls">Follow the polls</button>
+      </div>
+    </div>
+    <div class="sim-grid" id="sim-grid"></div>
+    <p class="sim-note" id="sim-note"></p>
   </section>
 
   <section class="sec" id="election-night" aria-labelledby="night-h">
@@ -562,7 +688,22 @@ footer.foot ul { margin: 0; padding-left: 18px; }
 
   <section class="sec" id="europe" aria-labelledby="eu-h">
     <div class="sec-head"><div><h2 id="eu-h" data-i18n="eu_h">What it means for Europe</h2><p data-i18n="eu_p">The levers Congress holds over trade, Ukraine and alliances, and how each outcome could play out.</p></div></div>
-    <p class="intro" id="eu-intro"></p>
+    <div class="eu-top"><div class="illo-wrap"><svg class="illo" viewBox="0 0 240 140" role="img" aria-labelledby="ill-eu"><title id="ill-eu">Illustration linking the United States and Europe across the Atlantic</title>
+<defs><clipPath id="clip-us"><circle cx="50" cy="70" r="34"/></clipPath></defs>
+<path d="M76 112q11-8 22 0t22 0t22 0t22 0" fill="none" stroke="var(--dem)" stroke-width="2.5" stroke-linecap="round" opacity=".45"/>
+<path d="M86 124q11-8 22 0t22 0t22 0" fill="none" stroke="var(--dem)" stroke-width="2.5" stroke-linecap="round" opacity=".3"/>
+<path d="M88 58Q120 14 152 58" fill="none" stroke="var(--ink)" stroke-width="2" stroke-dasharray="5 5" stroke-linecap="round"/>
+<circle cx="88" cy="58" r="3.5" fill="var(--ink)"/><circle cx="152" cy="58" r="3.5" fill="var(--ink)"/>
+<g clip-path="url(#clip-us)">
+<rect x="10" y="30" width="84" height="84" fill="var(--surface)"/>
+<rect x="10" y="36.0" width="84" height="5.3" fill="var(--rep)"/><rect x="10" y="46.6" width="84" height="5.3" fill="var(--rep)"/><rect x="10" y="57.2" width="84" height="5.3" fill="var(--rep)"/><rect x="10" y="67.8" width="84" height="5.3" fill="var(--rep)"/><rect x="10" y="78.4" width="84" height="5.3" fill="var(--rep)"/><rect x="10" y="89.0" width="84" height="5.3" fill="var(--rep)"/><rect x="10" y="99.6" width="84" height="5.3" fill="var(--rep)"/>
+<rect x="10" y="36" width="42" height="32" fill="var(--dem)"/>
+<g fill="#ffffff"><circle cx="22" cy="44" r="1.4"/><circle cx="28" cy="44" r="1.4"/><circle cx="34" cy="44" r="1.4"/><circle cx="40" cy="44" r="1.4"/><circle cx="46" cy="44" r="1.4"/><circle cx="22" cy="50" r="1.4"/><circle cx="28" cy="50" r="1.4"/><circle cx="34" cy="50" r="1.4"/><circle cx="40" cy="50" r="1.4"/><circle cx="46" cy="50" r="1.4"/><circle cx="22" cy="56" r="1.4"/><circle cx="28" cy="56" r="1.4"/><circle cx="34" cy="56" r="1.4"/><circle cx="40" cy="56" r="1.4"/><circle cx="46" cy="56" r="1.4"/><circle cx="22" cy="62" r="1.4"/><circle cx="28" cy="62" r="1.4"/><circle cx="34" cy="62" r="1.4"/><circle cx="40" cy="62" r="1.4"/><circle cx="46" cy="62" r="1.4"/></g>
+</g>
+<circle cx="50" cy="70" r="34" fill="none" stroke="var(--ink)" stroke-width="2"/>
+<circle cx="190" cy="70" r="34" fill="var(--dem)" stroke="var(--ink)" stroke-width="2"/>
+<g fill="var(--focus)"><polygon points="190.0,45.6 191.1,48.5 194.2,48.6 191.8,50.6 192.6,53.6 190.0,51.8 187.4,53.6 188.2,50.6 185.8,48.6 188.9,48.5"/><polygon points="200.0,48.3 201.1,51.2 204.2,51.3 201.8,53.3 202.6,56.2 200.0,54.5 197.4,56.2 198.2,53.3 195.8,51.3 198.9,51.2"/><polygon points="207.3,55.6 208.4,58.5 211.5,58.6 209.1,60.6 209.9,63.6 207.3,61.8 204.7,63.6 205.6,60.6 203.1,58.6 206.2,58.5"/><polygon points="210.0,65.6 211.1,68.5 214.2,68.6 211.8,70.6 212.6,73.6 210.0,71.8 207.4,73.6 208.2,70.6 205.8,68.6 208.9,68.5"/><polygon points="207.3,75.6 208.4,78.5 211.5,78.6 209.1,80.6 209.9,83.6 207.3,81.8 204.7,83.6 205.6,80.6 203.1,78.6 206.2,78.5"/><polygon points="200.0,82.9 201.1,85.8 204.2,86.0 201.8,87.9 202.6,90.9 200.0,89.2 197.4,90.9 198.2,87.9 195.8,86.0 198.9,85.8"/><polygon points="190.0,85.6 191.1,88.5 194.2,88.6 191.8,90.6 192.6,93.6 190.0,91.8 187.4,93.6 188.2,90.6 185.8,88.6 188.9,88.5"/><polygon points="180.0,82.9 181.1,85.8 184.2,86.0 181.8,87.9 182.6,90.9 180.0,89.2 177.4,90.9 178.2,87.9 175.8,86.0 178.9,85.8"/><polygon points="172.7,75.6 173.8,78.5 176.9,78.6 174.4,80.6 175.3,83.6 172.7,81.8 170.1,83.6 170.9,80.6 168.5,78.6 171.6,78.5"/><polygon points="170.0,65.6 171.1,68.5 174.2,68.6 171.8,70.6 172.6,73.6 170.0,71.8 167.4,73.6 168.2,70.6 165.8,68.6 168.9,68.5"/><polygon points="172.7,55.6 173.8,58.5 176.9,58.6 174.4,60.6 175.3,63.6 172.7,61.8 170.1,63.6 170.9,60.6 168.5,58.6 171.6,58.5"/><polygon points="180.0,48.3 181.1,51.2 184.2,51.3 181.8,53.3 182.6,56.2 180.0,54.5 177.4,56.2 178.2,53.3 175.8,51.3 178.9,51.2"/></g>
+</svg></div><p class="intro" id="eu-intro"></p></div>
     <div class="eu">
       <div class="levers" id="eu-levers"></div>
       <div>
@@ -621,9 +762,23 @@ footer.foot ul { margin: 0; padding-left: 18px; }
 
   const T = {
     en: {
+      nav_stakes: 'Stakes', stakes_h: 'What\u2019s at stake', stakes_p: 'How the midterms work and what the result changes in Washington.',
+      st_a_h: 'A verdict on the president, two years in', st_a_p1: 'The midterms fall halfway through a presidential term. Donald Trump is not on the ballot, but Congress is. Voters choose all 435 members of the House, 35 of the 100 senators and 36 governors. The new Congress takes office on Jan. 3, 2027, and sits until Trump\u2019s term ends in January 2029.',
+      st_a_p2: 'History weighs against the president. His party lost House seats in 18 of the 20 midterms since 1946. The only exceptions were 1998 and 2002.',
+      st_b_h: 'Who votes', st_b_p1: 'Any US citizen aged 18 or over who has registered. Each state runs its own election and sets its own rules on registration, mail voting and ID.',
+      st_b_p2: 'Turnout is lower than in a presidential year: about 50% of eligible voters in 2018 and 46% in 2022. The most motivated voters weigh more.',
+      st_imp_h: 'What changes with the result',
+      imp1_h: 'Laws', imp1_p: 'Every bill must pass both chambers and get the president\u2019s signature. If Democrats win one chamber, Trump\u2019s legislative agenda stalls. Overriding a veto takes two-thirds of both chambers.',
+      imp2_h: 'Budget', imp2_p: 'Congress controls federal spending. A divided Congress makes budget deals harder and raises the risk of a government shutdown.',
+      imp3_h: 'Oversight', imp3_p: 'The House majority runs investigations and issues subpoenas. A Democratic House could open inquiries into the administration. It can impeach with a simple majority, but removal needs two-thirds of the Senate.',
+      imp4_h: 'Nominations', imp4_p: 'The Senate confirms cabinet members, ambassadors and federal judges by simple majority. A Democratic Senate could block Trump\u2019s picks, including any Supreme Court vacancy.',
+      imp5_h: 'Trade and tariffs', imp5_p: 'Most tariffs rest on presidential powers. Congress can hold hearings and push for exemptions, but rolling tariffs back takes a law the president would likely veto.',
+      imp6_h: 'States and 2028', imp6_p: '36 governors are elected, most for four years. They lead on health, schools and policing, and will certify their state\u2019s results in the 2028 presidential race.',
+      st_foot: 'Whatever the result, the president keeps his own powers: executive orders, command of foreign policy and the veto.',
+      sim_yourh: 'Your House', open_s: 'OPEN', simseg_s: 'Senate races', simseg_h: 'House races',
       live: 'Updated every morning', nav_map: 'Map', nav_sim: 'Simulator', nav_night: 'Election night', nav_house: 'House', nav_shifts: 'Shifts', nav_news: 'News', nav_fc: 'Forecasts', nav_comm: 'Committees', nav_eu: 'Europe',
       hero_eyebrow: 'The race for Congress and the statehouses', map_h: 'The map', seg_senate: 'Senate · 35', seg_gov: 'Governors · 36', view_ratings: 'Ratings', view_results: 'Results', rewind: 'Rewind', jump: 'Jump to a race',
-      sim_h: 'Build your Senate', sim_p: 'Tap a race to change who wins it. Races start with the party the ratings favor, and toss-ups start open. Democrats need 51 seats. At 50 to 50, Vice President JD Vance breaks ties for Republicans.',
+      sim_h: 'Build your Congress', sim_p: 'Tap a race to change who wins it. The seats move in each chamber. Races start with the party the ratings favor, and toss-ups start open. A majority takes 51 Senate seats, or 50 plus Vice President JD Vance, and 218 House seats.',
       sim_your: 'Your Senate', dem_s: 'DEM', ind_s: 'IND', rep_s: 'REP', sim_reset: 'Back to ratings', sim_alld: 'Toss-ups to Dems', sim_allr: 'Toss-ups to GOP', sim_polls: 'Follow the polls',
       night_h: 'Election night', night_p: 'When the last polls close in each state. Results usually start to come in right after. Shaded chips have a Senate or governor race, purple chips a toss-up.',
       tz_label: 'Show times in', tz_bru: 'Brussels, Paris (CET)', tz_lon: 'London (GMT)', tz_ny: 'New York (ET)', tz_chi: 'Chicago (CT)', tz_la: 'Los Angeles (PT)',
@@ -639,9 +794,23 @@ footer.foot ul { margin: 0; padding-left: 18px; }
       lang_btn: 'FR', lang_aria: 'Version française'
     },
     fr: {
+      nav_stakes: 'Enjeux', stakes_h: 'Les enjeux', stakes_p: 'Comment fonctionnent les élections de mi-mandat et ce que le résultat change à Washington.',
+      st_a_h: 'Un verdict sur le président, à mi-mandat', st_a_p1: 'Les élections de mi-mandat tombent au milieu du mandat présidentiel. Donald Trump n\u2019est pas candidat, mais le Congrès est renouvelé. Les électeurs choisissent les 435 membres de la Chambre, 35 des 100 sénateurs et 36 gouverneurs. Le nouveau Congrès entre en fonction le 3 janvier 2027 et siège jusqu\u2019à la fin du mandat de Trump, en janvier 2029.',
+      st_a_p2: 'L\u2019histoire joue contre le président. Son parti a perdu des sièges à la Chambre lors de 18 des 20 élections de mi-mandat depuis 1946. Seules exceptions : 1998 et 2002.',
+      st_b_h: 'Qui vote', st_b_p1: 'Tout citoyen américain de 18 ans ou plus inscrit sur les listes électorales. Chaque État organise son propre scrutin et fixe ses règles sur l\u2019inscription, le vote par correspondance et les pièces d\u2019identité.',
+      st_b_p2: 'La participation est plus faible qu\u2019à la présidentielle : environ 50 % des électeurs en 2018 et 46 % en 2022. Les électeurs les plus mobilisés pèsent davantage.',
+      st_imp_h: 'Ce que le résultat change',
+      imp1_h: 'Les lois', imp1_p: 'Chaque loi doit passer les deux chambres et recevoir la signature du président. Si les démocrates gagnent une chambre, le programme législatif de Trump bloque. Passer outre un veto exige les deux tiers des deux chambres.',
+      imp2_h: 'Le budget', imp2_p: 'Le Congrès contrôle les dépenses fédérales. Un Congrès divisé complique les accords budgétaires et augmente le risque de shutdown, la fermeture partielle de l\u2019administration.',
+      imp3_h: 'Le contrôle', imp3_p: 'La majorité de la Chambre mène les enquêtes et émet les assignations. Une Chambre démocrate pourrait ouvrir des enquêtes sur l\u2019administration. Elle peut voter une mise en accusation à la majorité simple, mais la destitution exige les deux tiers du Sénat.',
+      imp4_h: 'Les nominations', imp4_p: 'Le Sénat confirme ministres, ambassadeurs et juges fédéraux à la majorité simple. Un Sénat démocrate pourrait bloquer les choix de Trump, y compris pour un siège vacant à la Cour suprême.',
+      imp5_h: 'Commerce et droits de douane', imp5_p: 'La plupart des droits de douane reposent sur les pouvoirs du président. Le Congrès peut organiser des auditions et pousser des exemptions, mais supprimer des droits exige une loi que le président bloquerait sans doute par son veto.',
+      imp6_h: 'Les États et 2028', imp6_p: '36 gouverneurs sont élus, la plupart pour quatre ans. Ils pilotent la santé, l\u2019école et la police, et certifieront les résultats de leur État à la présidentielle de 2028.',
+      st_foot: 'Quel que soit le résultat, le président garde ses propres pouvoirs : décrets, conduite de la politique étrangère et veto.',
+      sim_yourh: 'Votre Chambre', open_s: 'OUVERTS', simseg_s: 'Courses au Sénat', simseg_h: 'Courses à la Chambre',
       live: 'Mis à jour chaque matin', nav_map: 'Carte', nav_sim: 'Simulateur', nav_night: 'Soirée électorale', nav_house: 'Chambre', nav_shifts: 'Notations', nav_news: 'Actualités', nav_fc: 'Prévisions', nav_comm: 'Commissions', nav_eu: 'Europe',
       hero_eyebrow: 'La bataille du Congrès et des États', map_h: 'La carte', seg_senate: 'Sénat · 35', seg_gov: 'Gouverneurs · 36', view_ratings: 'Notations', view_results: 'Résultats', rewind: 'Remonter le temps', jump: 'Aller à une course',
-      sim_h: 'Composez votre Sénat', sim_p: 'Touchez une course pour changer son vainqueur. Chaque course part du parti favori selon les notations, les courses indécises restent ouvertes. Les démocrates ont besoin de 51 sièges. À 50 contre 50, le vice-président JD Vance départage en faveur des républicains.',
+      sim_h: 'Composez votre Congrès', sim_p: 'Touchez une course pour changer son vainqueur. Les sièges bougent dans chaque chambre. Chaque course part du parti favori selon les notations, les courses indécises restent ouvertes. La majorité exige 51 sièges au Sénat, ou 50 plus le vice-président JD Vance, et 218 sièges à la Chambre.',
       sim_your: 'Votre Sénat', dem_s: 'DÉM', ind_s: 'IND', rep_s: 'RÉP', sim_reset: 'Revenir aux notations', sim_alld: 'Indécis aux démocrates', sim_allr: 'Indécis aux républicains', sim_polls: 'Suivre les sondages',
       night_h: 'Soirée électorale', night_p: 'Heure de fermeture des derniers bureaux de vote de chaque État. Les résultats arrivent en général juste après. Les pastilles foncées ont une course au Sénat ou au poste de gouverneur, les violettes une course indécise.',
       tz_label: 'Heures de', tz_bru: 'Bruxelles, Paris (CET)', tz_lon: 'Londres (GMT)', tz_ny: 'New York (ET)', tz_chi: 'Chicago (CT)', tz_la: 'Los Angeles (PT)',
@@ -672,6 +841,7 @@ footer.foot ul { margin: 0; padding-left: 18px; }
   };
 
   let DATA = null, TOPO = null, chamber = 'Senate', selected = 'TX', newsFilter = 'all', houseFilter = 'all', view = 'ratings';
+  let SIMCH = 'Senate', HSIM = {}, SEATS = {};
   let SNAPS = [], snapIdx = 0, SIM = {}, TZ = store.get('mw-tz') || 'Europe/Brussels';
 
   try {
@@ -814,13 +984,19 @@ footer.foot ul { margin: 0; padding-left: 18px; }
     const mq = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)');
     if (mq && mq.addEventListener) mq.addEventListener('change', () => { renderBalance(); renderChamber(); renderSim(); renderHouse(); });
     // simulator
-    $('#sim-reset').addEventListener('click', () => { races('Senate').forEach(r => SIM[r.code] = defaultPick(r)); renderSim(); });
-    $('#sim-alld').addEventListener('click', () => { races('Senate').filter(r => r.rating === 'Toss-up').forEach(r => SIM[r.code] = r.dem ? 'D' : 'I'); renderSim(); });
-    $('#sim-allr').addEventListener('click', () => { races('Senate').filter(r => r.rating === 'Toss-up').forEach(r => SIM[r.code] = 'R'); renderSim(); });
+    $('#sim-reset').addEventListener('click', () => { if (SIMCH === 'House') (DATA.house_districts || []).forEach(h => HSIM[h.id] = hDefault(h)); else races('Senate').forEach(r => SIM[r.code] = defaultPick(r)); renderSim(); });
+    $('#sim-alld').addEventListener('click', () => { if (SIMCH === 'House') (DATA.house_districts || []).filter(h => h.rating === 'Toss-up').forEach(h => HSIM[h.id] = 'D'); else races('Senate').filter(r => r.rating === 'Toss-up').forEach(r => SIM[r.code] = r.dem ? 'D' : 'I'); renderSim(); });
+    $('#sim-allr').addEventListener('click', () => { if (SIMCH === 'House') (DATA.house_districts || []).filter(h => h.rating === 'Toss-up').forEach(h => HSIM[h.id] = 'R'); else races('Senate').filter(r => r.rating === 'Toss-up').forEach(r => SIM[r.code] = 'R'); renderSim(); });
     $('#sim-polls').addEventListener('click', () => {
       races('Senate').forEach(r => { const a = pollAverage(r, 5); if (a) SIM[r.code] = a.margin > 0 ? (r.dem ? 'D' : 'I') : a.margin < 0 ? 'R' : '?'; else SIM[r.code] = defaultPick(r); });
       renderSim();
     });
+    document.querySelectorAll('#simseg button').forEach(btn => btn.addEventListener('click', () => {
+      SIMCH = btn.dataset.sc;
+      document.querySelectorAll('#simseg button').forEach(x => x.setAttribute('aria-pressed', String(x === btn)));
+      renderSim();
+    }));
+    (DATA.house_districts || []).forEach(h => HSIM[h.id] = hDefault(h));
     races('Senate').forEach(r => SIM[r.code] = defaultPick(r));
     // night
     const sel = $('#tz'); sel.value = TZ;
@@ -1145,43 +1321,135 @@ footer.foot ul { margin: 0; padding-left: 18px; }
     return 'R';
   }
   function options(r) { const o = []; if (r.dem || !r.other) o.push('D'); if (r.other) o.push('I'); o.push('R'); o.push('?'); return o; }
+  function hDefault(h) {
+    if (h.result && h.result.called && h.result.winner) return h.result.winner;
+    if (isD(h.rating)) return 'D';
+    if (isR(h.rating)) return 'R';
+    return '?';
+  }
+  const hName = (h) => FR() ? h.name.replace(/^(.+?) (at-large|\d+)$/, (m, st, n) => `${STATE_FR[h.state] || st} ${n === 'at-large' ? '(siège unique)' : n}`) : h.name;
+  function houseBase() {
+    const c = (DATA.house_summary || {}).counts || {}, rows = DATA.house_districts || [];
+    const bD = (c['Solid D'] || 0) + (c['Likely D'] || 0), bR = (c['Solid R'] || 0) + (c['Likely R'] || 0);
+    return { bD, bR, extra: Math.max(0, 435 - bD - bR - rows.length) };
+  }
+  // Parliament layout: seats on concentric arcs, ordered left to right so each party forms a wedge.
+  function seatLayout(N, rows, r0, r1) {
+    const cx = 200, cy = 200;
+    const radii = d3.range(rows).map(i => r0 + (r1 - r0) * i / (rows - 1));
+    const sum = d3.sum(radii);
+    const ns = radii.map(r => Math.round(N * r / sum));
+    let diff = N - d3.sum(ns), k = rows - 1;
+    while (diff !== 0) { ns[k] += Math.sign(diff); diff -= Math.sign(diff); k = (k - 1 + rows) % rows; }
+    const seats = [];
+    radii.forEach((r, i) => { const n = ns[i]; for (let j = 0; j < n; j++) { const a = n === 1 ? Math.PI / 2 : Math.PI * (1 - j / (n - 1)); seats.push({ a, r, x: cx + r * Math.cos(a), y: cy - r * Math.sin(a) }); } });
+    seats.sort((p, q) => (q.a - p.a) || (p.r - q.r));
+    const sp = Math.min((r1 - r0) / (rows - 1), Math.PI * r0 / Math.max(1, ns[0] - 1));
+    seats.dot = sp * 0.42;
+    return seats;
+  }
+  function drawHemi(sel, key, N, rows, r0, groups, big, small, aria) {
+    if (!SEATS[key]) SEATS[key] = seatLayout(N, rows, r0, 182);
+    const seats = SEATS[key], P = palette();
+    const fills = [];
+    groups.forEach(([n, k]) => { for (let i = 0; i < n && fills.length < N; i++) fills.push(k); });
+    while (fills.length < N) fills.push('U');
+    const col = { D: P.D, I: P.I, U: P.idle, R: P.R };
+    const svg = d3.select(sel).attr('aria-label', aria);
+    let g = svg.select('g.seats');
+    if (g.empty()) { g = svg.append('g').attr('class', 'seats'); svg.append('text').attr('class', 'hc-big'); svg.append('text').attr('class', 'hc-sm'); }
+    const still = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    g.selectAll('circle').data(seats).join(en => en.append('circle').attr('cx', d => d.x).attr('cy', d => d.y).attr('r', seats.dot).attr('fill', P.idle))
+      .attr('class', (d, i) => 's' + fills[i])
+      .transition().duration(still ? 0 : 420).delay((d, i) => still ? 0 : (i / N) * 280)
+      .attr('fill', (d, i) => col[fills[i]]);
+    svg.select('.hc-big').attr('x', 200).attr('y', 184).text(big);
+    svg.select('.hc-sm').attr('x', 200).attr('y', 201).text(small);
+  }
   function renderSim() {
-    const grid = $('#sim-grid'); grid.innerHTML = '';
-    const rs = races('Senate');
-    const shown = rs.filter(r => r.rating !== 'Solid D' && r.rating !== 'Solid R').sort((a, b) => RANK[a.rating] - RANK[b.rating] || a.state.localeCompare(b.state));
-    const pickLab = { '?': FR() ? 'OUVERT' : 'OPEN', I: 'IND', D: FR() ? 'DÉM' : 'DEM', R: FR() ? 'RÉP' : 'REP' };
-    shown.forEach(r => {
-      const b = el('button', 'sim-btn'); b.type = 'button'; b.dataset.pick = SIM[r.code]; b.dataset.code = r.code;
-      const who = { D: r.dem ? r.dem.replace(/ \(inc\.\)/, '') : 'Dem', R: r.rep ? r.rep.replace(/ \(inc\.\)/, '') : 'Rep', I: (r.other || 'Ind').replace(/ \(Ind\.\)| \(indépendant\)/, ''), '?': FR() ? 'Ouvert' : 'Open' };
-      const a = pollAverage(r, 5);
-      b.append(el('span', 's', stName(r.code, r.state)), el('span', 'rt', `${rt(r.rating)}${a ? (FR() ? ' · sondages ' : ' · polls ') + fmtMargin(a.margin, r) : ''}`), el('span', 'pick', pickLab[SIM[r.code]]));
-      b.setAttribute('aria-label', FR() ? `${stName(r.code, r.state)} : ${SIM[r.code] === '?' ? 'indécis' : who[SIM[r.code]]}. Touchez pour changer.` : `${r.state}: ${SIM[r.code] === '?' ? 'undecided' : who[SIM[r.code]]}. Tap to change.`);
-      b.title = who[SIM[r.code]];
-      b.addEventListener('click', () => { const o = options(r); SIM[r.code] = o[(o.indexOf(SIM[r.code]) + 1) % o.length]; renderSim(); const nb = grid.querySelector(`[data-code="${r.code}"]`); if (nb) nb.focus(); });
-      grid.append(b);
-    });
-    const nu = DATA.not_up.Senate;
+    // Senate
+    const rs = races('Senate'), nu = DATA.not_up.Senate;
     const cnt = (k) => rs.filter(r => SIM[r.code] === k).length;
     const D = nu.D + cnt('D'), R = nu.R + cnt('R'), I = cnt('I'), U = cnt('?');
-    $('#sim-d').textContent = D; $('#sim-r').textContent = R; $('#sim-i').textContent = I;
-    $('#sim-i-wrap').style.visibility = I ? 'visible' : 'hidden';
-    const P = palette(), bar = $('#sim-bar'); bar.innerHTML = '';
-    [[D, P.D], [I, P.I], [U, P.idle], [R, P.R]].forEach(([n, c]) => { if (!n) return; const s = el('span'); s.style.width = n + '%'; s.style.background = c; bar.append(s); });
-    let v;
+    $('#sim-d').textContent = D; $('#sim-r').textContent = R; $('#sim-i').textContent = I; $('#sim-u').textContent = U;
+    $('#sim-i-wrap').style.display = I ? '' : 'none';
+    let sOut = null, v;
+    if (D >= 51) sOut = 'D'; else if (R >= 50 && D + I < 51) sOut = 'R';
     if (FR()) {
-      if (D >= 51) v = 'Les démocrates gagnent le Sénat';
-      else if (R >= 50 && D + I < 51) v = R === 50 ? 'Les républicains le gardent grâce au vice-président' : 'Les républicains gardent le Sénat';
+      if (sOut === 'D') v = 'Les démocrates gagnent le Sénat';
+      else if (sOut === 'R') v = R === 50 ? 'Les républicains le gardent grâce au vice-président' : 'Les républicains gardent le Sénat';
       else if (U === 0 && I > 0) v = 'Un indépendant fait la balance';
       else v = `${U} course${U > 1 ? 's' : ''} ouverte${U > 1 ? 's' : ''}. Il manque ${Math.max(0, 51 - D)} siège${51 - D > 1 ? 's' : ''} aux démocrates, ${Math.max(0, 50 - R)} aux républicains.`;
-      $('#sim-note').textContent = `Les sièges hors scrutin comptent pour leur parti actuel (${nu.D} D, ${nu.R} R). Les deux indépendants alliés aux démocrates comptent comme démocrates. Les sièges sûrs comptent pour le parti favori.${I ? ' Dan Osborn se présente en indépendant au Nebraska et compte à part.' : ''}`;
     } else {
-      if (D >= 51) v = 'Democrats win the Senate';
-      else if (R >= 50 && D + I < 51) v = R === 50 ? 'Republicans hold it with the tie-break' : 'Republicans hold the Senate';
+      if (sOut === 'D') v = 'Democrats win the Senate';
+      else if (sOut === 'R') v = R === 50 ? 'Republicans hold it with the tie-break' : 'Republicans hold the Senate';
       else if (U === 0 && I > 0) v = 'An independent holds the balance';
       else v = `${U} race${U === 1 ? '' : 's'} left open. Democrats need ${Math.max(0, 51 - D)} more, Republicans ${Math.max(0, 50 - R)}.`;
-      $('#sim-note').textContent = `Seats not on the ballot count for their current party (${nu.D} D, ${nu.R} R). The two independents who caucus with Democrats count as Democrats. Safe seats count for the favored party.${I ? ' Dan Osborn runs as an independent in Nebraska and is counted on his own.' : ''}`;
     }
     $('#sim-verdict').textContent = v;
+    drawHemi('#hemi-senate', 'senate', 100, 5, 85, [[D, 'D'], [I, 'I'], [U, 'U'], [R, 'R']], '51', FR() ? 'pour le contrôle' : 'for control',
+      FR() ? `Sénat simulé : ${D} démocrates, ${I ? I + ' indépendants, ' : ''}${U} ouverts, ${R} républicains` : `Simulated Senate: ${D} Democrats, ${I ? I + ' independents, ' : ''}${U} open, ${R} Republicans`);
+
+    // House
+    const HD = DATA.house_districts || [], hb = houseBase();
+    const hc = (k) => HD.filter(h => HSIM[h.id] === k).length;
+    const hD = hb.bD + hc('D'), hR = hb.bR + hc('R'), hU = hc('?') + hb.extra;
+    $('#hsim-d').textContent = hD; $('#hsim-r').textContent = hR; $('#hsim-u').textContent = hU;
+    let hOut = null;
+    if (hD >= 218) hOut = 'D'; else if (hR >= 218) hOut = 'R';
+    $('#hsim-verdict').textContent = hOut === 'D' ? (FR() ? 'Les démocrates gagnent la Chambre' : 'Democrats win the House')
+      : hOut === 'R' ? (FR() ? 'Les républicains gardent la Chambre' : 'Republicans keep the House')
+      : (FR() ? `${hU} sièges ouverts. Il manque ${218 - hD} sièges aux démocrates, ${218 - hR} aux républicains.` : `${hU} seats open. Democrats need ${218 - hD} more, Republicans ${218 - hR}.`);
+    drawHemi('#hemi-house', 'house', 435, 12, 72, [[hD, 'D'], [hU, 'U'], [hR, 'R']], '218', FR() ? 'pour la majorité' : 'for a majority',
+      FR() ? `Chambre simulée : ${hD} démocrates, ${hU} ouverts, ${hR} républicains` : `Simulated House: ${hD} Democrats, ${hU} open, ${hR} Republicans`);
+
+    // Combined outcome
+    const line = $('#cong-line'); line.innerHTML = '';
+    const SC = {
+      DD: ['Democrats win both chambers', 'Les démocrates gagnent les deux chambres', '--dem', '--dem'],
+      DR: ['Democratic House, Republican Senate', 'Chambre démocrate, Sénat républicain', '--dem', '--rep'],
+      RD: ['Republican House, Democratic Senate', 'Chambre républicaine, Sénat démocrate', '--rep', '--dem'],
+      RR: ['Republicans keep both chambers', 'Les républicains gardent les deux chambres', '--rep', '--rep']
+    };
+    const sc = hOut && sOut ? SC[hOut + sOut] : null;
+    const dots = el('span', 'dots');
+    [sc ? sc[2] : '--idle', sc ? sc[3] : '--idle'].forEach(c => { const i = el('i'); i.style.background = `var(${c})`; dots.append(i); });
+    line.append(dots, el('span', null, sc ? (FR() ? sc[1] : sc[0]) + '.' : (FR() ? 'Votre Congrès n’est pas encore décidé.' : 'Your Congress is not decided yet.')));
+    const lk = el('a', null, sc ? (FR() ? 'Ce que cela change pour l’Europe' : 'What it means for Europe') : (FR() ? 'Ce que le résultat change' : 'What the result changes'));
+    lk.href = sc ? '#europe' : '#stakes'; line.append(lk);
+
+    // Race buttons
+    const grid = $('#sim-grid'); grid.innerHTML = '';
+    const pickLab = { '?': FR() ? 'OUVERT' : 'OPEN', I: 'IND', D: FR() ? 'DÉM' : 'DEM', R: FR() ? 'RÉP' : 'REP' };
+    $('#sim-polls').hidden = SIMCH === 'House';
+    if (SIMCH === 'House') {
+      const ord = { 'Toss-up': 0, 'Lean D': 1, 'Lean R': 2 };
+      HD.slice().sort((a, b) => (ord[a.rating] ?? 3) - (ord[b.rating] ?? 3) || a.name.localeCompare(b.name)).forEach(h => {
+        const b = el('button', 'sim-btn'); b.type = 'button'; b.dataset.pick = HSIM[h.id]; b.dataset.code = h.id;
+        b.append(el('span', 's', hName(h)), el('span', 'rt', `${rt(h.rating)} · ${FR() ? 'détenu par' : 'held by'} ${h.party}`), el('span', 'pick', pickLab[HSIM[h.id]]));
+        b.setAttribute('aria-label', `${hName(h)}: ${pickLab[HSIM[h.id]]}. ${FR() ? 'Touchez pour changer.' : 'Tap to change.'}`);
+        b.addEventListener('click', () => { const o = ['D', 'R', '?']; HSIM[h.id] = o[(o.indexOf(HSIM[h.id]) + 1) % 3]; renderSim(); const nb = grid.querySelector(`[data-code="${h.id}"]`); if (nb) nb.focus(); });
+        grid.append(b);
+      });
+      $('#sim-note').textContent = FR()
+        ? `Les sièges classés Acquis ou Probable par le Cook Political Report comptent pour le parti favori (${hb.bD} D, ${hb.bR} R). Les 50 circonscriptions ci-dessus sont celles classées Penche ou Indécis.`
+        : `Seats the Cook Political Report rates Solid or Likely count for the favored party (${hb.bD} D, ${hb.bR} R). The 50 districts above are the ones rated Lean or Toss-up.`;
+    } else {
+      const shown = rs.filter(r => r.rating !== 'Solid D' && r.rating !== 'Solid R').sort((a, b) => RANK[a.rating] - RANK[b.rating] || a.state.localeCompare(b.state));
+      shown.forEach(r => {
+        const b = el('button', 'sim-btn'); b.type = 'button'; b.dataset.pick = SIM[r.code]; b.dataset.code = r.code;
+        const who = { D: r.dem ? r.dem.replace(/ \(inc\.\)/, '') : 'Dem', R: r.rep ? r.rep.replace(/ \(inc\.\)/, '') : 'Rep', I: (r.other || 'Ind').replace(/ \(Ind\.\)| \(indépendant\)/, ''), '?': FR() ? 'Ouvert' : 'Open' };
+        const a = pollAverage(r, 5);
+        b.append(el('span', 's', stName(r.code, r.state)), el('span', 'rt', `${rt(r.rating)}${a ? (FR() ? ' · sondages ' : ' · polls ') + fmtMargin(a.margin, r) : ''}`), el('span', 'pick', pickLab[SIM[r.code]]));
+        b.setAttribute('aria-label', FR() ? `${stName(r.code, r.state)} : ${SIM[r.code] === '?' ? 'indécis' : who[SIM[r.code]]}. Touchez pour changer.` : `${r.state}: ${SIM[r.code] === '?' ? 'undecided' : who[SIM[r.code]]}. Tap to change.`);
+        b.title = who[SIM[r.code]];
+        b.addEventListener('click', () => { const o = options(r); SIM[r.code] = o[(o.indexOf(SIM[r.code]) + 1) % o.length]; renderSim(); const nb = grid.querySelector(`[data-code="${r.code}"]`); if (nb) nb.focus(); });
+        grid.append(b);
+      });
+      $('#sim-note').textContent = FR()
+        ? `Les sièges hors scrutin comptent pour leur parti actuel (${nu.D} D, ${nu.R} R). Les deux indépendants alliés aux démocrates comptent comme démocrates. Les sièges sûrs comptent pour le parti favori.${I ? ' Dan Osborn se présente en indépendant au Nebraska et compte à part.' : ''}`
+        : `Seats not on the ballot count for their current party (${nu.D} D, ${nu.R} R). The two independents who caucus with Democrats count as Democrats. Safe seats count for the favored party.${I ? ' Dan Osborn runs as an independent in Nebraska and is counted on his own.' : ''}`;
+    }
   }
 
   // Election night
