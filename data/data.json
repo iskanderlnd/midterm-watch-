@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T08:32:00Z",
+ "updated": "2026-10-28T06:30:00Z",
  "election_date": "2026-11-03",
  "not_up": {
   "Senate": {
@@ -444,11 +444,11 @@
    "dem": "Troy Jackson",
    "rep": "Susan Collins (inc.)",
    "other": "",
-   "poll": "Jackson 47, Collins 47 (Trafalgar)",
-   "poll_date": "2026-10-25",
+   "poll": "Jackson 49, Collins 47 (Marist)",
+   "poll_date": "2026-10-27",
    "change": "",
    "change_date": "",
-   "note": "Fox News poll on Oct. 23 also shows a 49-49 tie.",
+   "note": "A Marist poll released Oct. 27 gives Jackson a 2-point edge. The race stays within the margin of error.",
    "polls": [
     {
      "date": "2026-10-14",
@@ -473,6 +473,12 @@
      "pollster": "Trafalgar",
      "dem": 47,
      "rep": 47
+    },
+    {
+     "date": "2026-10-27",
+     "pollster": "Marist",
+     "dem": 49,
+     "rep": 47
     }
    ],
    "result": null,
@@ -482,7 +488,7 @@
      "rating": "Toss-up"
     }
    ],
-   "note_fr": "Un sondage Fox News du 23 octobre montre aussi une égalité à 49-49."
+   "note_fr": "Un sondage Marist publié le 27 octobre donne 2 points d'avance à Jackson. L'écart reste dans la marge d'erreur."
   },
   {
    "id": "S-MA",
@@ -518,8 +524,8 @@
    "dem": "Abdul El-Sayed",
    "rep": "Mike Rogers",
    "other": "",
-   "poll": "El-Sayed 48, Rogers 46 (Michigan State/YouGov)",
-   "poll_date": "2026-10-26",
+   "poll": "El-Sayed 51, Rogers 45 (Glengariff)",
+   "poll_date": "2026-10-27",
    "change": "",
    "change_date": "",
    "note": "Open seat after Gary Peters' retirement. Trump and Obama both rallied here on Oct. 25.",
@@ -547,6 +553,12 @@
      "pollster": "Michigan State/YouGov",
      "dem": 48,
      "rep": 46
+    },
+    {
+     "date": "2026-10-27",
+     "pollster": "Glengariff",
+     "dem": 51,
+     "rep": 45
     }
    ],
    "result": null,
@@ -1576,25 +1588,29 @@
    "code": "KS",
    "state": "Kansas",
    "chamber": "Governor",
-   "rating": "Lean R",
+   "rating": "Toss-up",
    "held": "D",
    "dem": "Cindy Holscher",
    "rep": "Ty Masterson",
    "other": "",
    "poll": "",
    "poll_date": "",
-   "change": "",
-   "change_date": "",
-   "note": "Open seat. Laura Kelly is term-limited.",
+   "change": "Cook: Lean R → Toss-up",
+   "change_date": "2026-10-27",
+   "note": "Open seat. Laura Kelly is term-limited. Cook moved the race to Toss-up on Oct. 27.",
    "polls": [],
    "result": null,
    "history": [
     {
      "date": "2026-09-30",
      "rating": "Lean R"
+    },
+    {
+     "date": "2026-10-27",
+     "rating": "Toss-up"
     }
    ],
-   "note_fr": "Siège ouvert. Laura Kelly ne peut pas se représenter."
+   "note_fr": "Siège ouvert. Laura Kelly ne peut pas se représenter. Cook a classé la course Indécis le 27 octobre."
   },
   {
    "id": "G-ME",
@@ -1606,17 +1622,23 @@
    "dem": "",
    "rep": "",
    "other": "",
-   "poll": "Pingree 49, Charles 39 (Fox News)",
-   "poll_date": "2026-10-23",
+   "poll": "Pingree 44, Charles 44 (Marist)",
+   "poll_date": "2026-10-27",
    "change": "",
    "change_date": "",
-   "note": "Open seat",
+   "note": "Open seat. A Marist poll released Oct. 27 shows a 44-44 tie. Independent Rick Bennett gets 6%.",
    "polls": [
     {
      "date": "2026-10-23",
      "pollster": "Fox News",
      "dem": 49,
      "rep": 39
+    },
+    {
+     "date": "2026-10-27",
+     "pollster": "Marist",
+     "dem": 44,
+     "rep": 44
     }
    ],
    "result": null,
@@ -1626,7 +1648,7 @@
      "rating": "Solid D"
     }
    ],
-   "note_fr": "Siège ouvert"
+   "note_fr": "Siège ouvert. Un sondage Marist publié le 27 octobre montre une égalité à 44-44. L'indépendant Rick Bennett obtient 6 %."
   },
   {
    "id": "G-MD",
@@ -1737,16 +1759,16 @@
    "code": "NE",
    "state": "Nebraska",
    "chamber": "Governor",
-   "rating": "Likely R",
+   "rating": "Lean R",
    "held": "R",
-   "dem": "",
-   "rep": "",
+   "dem": "Lynne Walz",
+   "rep": "Jim Pillen (inc.)",
    "other": "",
    "poll": "",
    "poll_date": "",
-   "change": "Cook: Solid R → Likely R",
-   "change_date": "2026-10-13",
-   "note": "",
+   "change": "Cook: Likely R → Lean R",
+   "change_date": "2026-10-27",
+   "note": "Gov. Jim Pillen faces Democrat Lynne Walz. Cook moved the race to Lean R on Oct. 27.",
    "polls": [],
    "result": null,
    "history": [
@@ -1757,8 +1779,13 @@
     {
      "date": "2026-10-13",
      "rating": "Likely R"
+    },
+    {
+     "date": "2026-10-27",
+     "rating": "Lean R"
     }
-   ]
+   ],
+   "note_fr": "Le gouverneur Jim Pillen affronte la démocrate Lynne Walz. Cook a classé la course Penche R le 27 octobre."
   },
   {
    "id": "G-NV",
@@ -2156,12 +2183,19 @@
    "dem": "David Crowley",
    "rep": "Tom Tiffany",
    "other": "",
-   "poll": "",
-   "poll_date": "",
+   "poll": "Crowley 49, Tiffany 46 (Marquette)",
+   "poll_date": "2026-09-30",
    "change": "",
    "change_date": "",
    "note": "Open seat. Tony Evers is retiring.",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-09-30",
+     "pollster": "Marquette",
+     "dem": 49,
+     "rep": 46
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -2198,6 +2232,56 @@
   }
  ],
  "news": [
+  {
+   "id": "n20261028-1",
+   "date": "2026-10-27",
+   "code": "KS",
+   "chamber": "Governor",
+   "text": "Cook moved the Kansas governor race from Lean R to Toss-up. Democrat Cindy Holscher faces Trump-backed Ty Masterson.",
+   "source": "Cook Political Report",
+   "url": "https://thecookpoliticalreport.substack.com/p/two-governors-race-ratings-move-in",
+   "text_fr": "Cook a fait passer la course au poste de gouverneur du Kansas de Penche R à Indécis. La démocrate Cindy Holscher affronte Ty Masterson, soutenu par Trump."
+  },
+  {
+   "id": "n20261028-2",
+   "date": "2026-10-27",
+   "code": "NE",
+   "chamber": "Governor",
+   "text": "Cook moved the Nebraska governor race from Likely R to Lean R. Gov. Jim Pillen faces Democrat Lynne Walz.",
+   "source": "Newsweek",
+   "url": "https://www.newsweek.com/governor-races-shift-toward-democrats-in-states-trump-won-by-double-digits-12627211",
+   "text_fr": "Cook a fait passer la course au poste de gouverneur du Nebraska de Probable R à Penche R. Le gouverneur Jim Pillen affronte la démocrate Lynne Walz."
+  },
+  {
+   "id": "n20261028-3",
+   "date": "2026-10-27",
+   "code": "ME",
+   "chamber": "Senate",
+   "text": "A Marist poll finds Troy Jackson at 49 and Susan Collins at 47. The governor race is tied at 44.",
+   "source": "Marist Poll",
+   "url": "https://maristpoll.marist.edu/polls/the-midterm-elections-in-maine-october-2026/",
+   "text_fr": "Un sondage Marist place Troy Jackson à 49 et Susan Collins à 47. La course au poste de gouverneur est à égalité à 44."
+  },
+  {
+   "id": "n20261028-4",
+   "date": "2026-10-27",
+   "code": "MI",
+   "chamber": "Senate",
+   "text": "A Glengariff poll for WDIV and The Detroit News puts El-Sayed at 51 and Rogers at 45.",
+   "source": "WDIV ClickOnDetroit",
+   "url": "https://www.clickondetroit.com/news/local/2026/10/27/democratic-candidate-el-sayed-leads-michigan-us-senate-race-new-poll-finds/",
+   "text_fr": "Un sondage Glengariff pour WDIV et The Detroit News place El-Sayed à 51 et Rogers à 45."
+  },
+  {
+   "id": "n20261028-5",
+   "date": "2026-10-27",
+   "code": "TX",
+   "chamber": "Senate",
+   "text": "Trump held rallies for Ken Paxton in Corpus Christi and Lubbock. More than 30 million Americans have already voted.",
+   "source": "Fox News",
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-texas-comey-october-27",
+   "text_fr": "Trump a tenu des meetings pour Ken Paxton à Corpus Christi et Lubbock. Plus de 30 millions d'Américains ont déjà voté."
+  },
   {
    "id": "n20261027-1",
    "date": "2026-10-26",
@@ -2465,8 +2549,8 @@
    "forecaster": "Decision Desk HQ",
    "chamber": "House",
    "dem_prob": 0.79,
-   "dem_seats": 237,
-   "date": "2026-10-25",
+   "dem_seats": 238,
+   "date": "2026-10-27",
    "url": "https://votes.decisiondeskhq.com/forecast/2026"
   },
   {
@@ -2475,43 +2559,43 @@
    "chamber": "House",
    "dem_prob": 0.91,
    "dem_seats": null,
-   "date": "2026-10-26",
+   "date": "2026-10-27",
    "url": "https://kalshi.com/category/elections/midterms"
   },
   {
    "id": "poliwave-house",
    "forecaster": "Poliwave",
    "chamber": "House",
-   "dem_prob": 0.87,
-   "dem_seats": 230,
-   "date": "2026-10-26",
+   "dem_prob": 0.89,
+   "dem_seats": 231,
+   "date": "2026-10-27",
    "url": "https://www.poliwave.com/us/fed/projection"
   },
   {
    "id": "ddhq-senate",
    "forecaster": "Decision Desk HQ",
    "chamber": "Senate",
-   "dem_prob": 0.56,
+   "dem_prob": 0.57,
    "dem_seats": 51,
-   "date": "2026-10-25",
+   "date": "2026-10-27",
    "url": "https://votes.decisiondeskhq.com/forecast/2026"
   },
   {
    "id": "kalshi-senate",
    "forecaster": "Kalshi",
    "chamber": "Senate",
-   "dem_prob": 0.64,
+   "dem_prob": 0.65,
    "dem_seats": null,
-   "date": "2026-10-26",
+   "date": "2026-10-27",
    "url": "https://kalshi.com/category/elections/midterms"
   },
   {
    "id": "poliwave-senate",
    "forecaster": "Poliwave",
    "chamber": "Senate",
-   "dem_prob": 0.57,
+   "dem_prob": 0.58,
    "dem_seats": 51,
-   "date": "2026-10-26",
+   "date": "2026-10-27",
    "url": "https://www.poliwave.com/us/fed/projection"
   }
  ],
