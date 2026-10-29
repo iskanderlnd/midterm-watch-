@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T06:30:00Z",
+ "updated": "2026-10-29T06:30:00Z",
  "election_date": "2026-11-03",
  "not_up": {
   "Senate": {
@@ -162,8 +162,8 @@
    "dem": "Angie Nixon",
    "rep": "Ashley Moody (inc.)",
    "other": "",
-   "poll": "Moody 49, Nixon 45 (Univ. of North Florida)",
-   "poll_date": "2026-10-21",
+   "poll": "Moody 50, Nixon 44 (NYT/Siena)",
+   "poll_date": "2026-10-28",
    "change": "",
    "change_date": "",
    "note": "",
@@ -185,6 +185,12 @@
      "pollster": "co/efficient",
      "dem": 40,
      "rep": 48
+    },
+    {
+     "date": "2026-10-28",
+     "pollster": "NYT/Siena",
+     "dem": 44,
+     "rep": 50
     }
    ],
    "result": null,
@@ -580,8 +586,8 @@
    "dem": "Flanagan",
    "rep": "Tafoya",
    "other": "",
-   "poll": "Flanagan 48, Tafoya 45 (Rasmussen)",
-   "poll_date": "2026-10-23",
+   "poll": "Flanagan 54, Tafoya 40 (NYT/Siena)",
+   "poll_date": "2026-10-28",
    "change": "Cook: Likely D → Lean D",
    "change_date": "2026-10-20",
    "note": "Open seat",
@@ -603,6 +609,12 @@
      "pollster": "Rasmussen",
      "dem": 48,
      "rep": 45
+    },
+    {
+     "date": "2026-10-28",
+     "pollster": "NYT/Siena",
+     "dem": 54,
+     "rep": 40
     }
    ],
    "result": null,
@@ -804,8 +816,8 @@
    "dem": "Roy Cooper",
    "rep": "Michael Whatley",
    "other": "",
-   "poll": "Cooper 51, Whatley 43 (Quantus Insights)",
-   "poll_date": "2026-10-26",
+   "poll": "Cooper 54, Whatley 40 (High Point)",
+   "poll_date": "2026-10-28",
    "change": "Cook: Lean D → Likely D",
    "change_date": "2026-10-06",
    "note": "Open seat after Thom Tillis' retirement.",
@@ -839,6 +851,12 @@
      "pollster": "Quantus Insights",
      "dem": 51,
      "rep": 43
+    },
+    {
+     "date": "2026-10-28",
+     "pollster": "High Point",
+     "dem": 54,
+     "rep": 40
     }
    ],
    "result": null,
@@ -864,11 +882,11 @@
    "dem": "Sherrod Brown",
    "rep": "Jon Husted (inc.)",
    "other": "",
-   "poll": "Brown 47, Husted 44 (InsiderAdvantage)",
-   "poll_date": "2026-10-23",
+   "poll": "Brown 47, Husted 44 (Suffolk)",
+   "poll_date": "2026-10-28",
    "change": "",
    "change_date": "",
-   "note": "",
+   "note": "Trump held his third Ohio rally of the month in Chillicothe on Oct. 28.",
    "polls": [
     {
      "date": "2026-10-16",
@@ -905,6 +923,12 @@
      "pollster": "InsiderAdvantage",
      "dem": 47,
      "rep": 44
+    },
+    {
+     "date": "2026-10-28",
+     "pollster": "Suffolk",
+     "dem": 47,
+     "rep": 44
     }
    ],
    "result": null,
@@ -913,7 +937,8 @@
      "date": "2026-09-30",
      "rating": "Toss-up"
     }
-   ]
+   ],
+   "note_fr": "Trump a tenu son troisième meeting du mois dans l'Ohio, à Chillicothe, le 28 octobre."
   },
   {
    "id": "S-OK",
@@ -996,13 +1021,13 @@
    "rating": "Lean R",
    "held": "R",
    "dem": "Annie Andrews",
-   "rep": "Lindsey Graham (inc.)",
+   "rep": "Darline Graham (inc.)",
    "other": "",
-   "poll": "Graham 47, Andrews 46 (Targoz)",
-   "poll_date": "2026-10-26",
+   "poll": "Graham 48, Andrews 48 (NYT/Siena)",
+   "poll_date": "2026-10-28",
    "change": "Cook: Likely R → Lean R",
    "change_date": "2026-10-20",
-   "note": "Former governors David Beasley (R) and Jim Hodges (D) endorsed Andrews on Oct. 26.",
+   "note": "A Times/Siena poll shows a 48 to 48 tie. Rep. Ralph Norman, who lost the GOP runoff, says he will not help Graham.",
    "polls": [
     {
      "date": "2026-10-18",
@@ -1015,6 +1040,12 @@
      "pollster": "Targoz",
      "dem": 46,
      "rep": 47
+    },
+    {
+     "date": "2026-10-28",
+     "pollster": "NYT/Siena",
+     "dem": 48,
+     "rep": 48
     }
    ],
    "result": null,
@@ -1028,7 +1059,7 @@
      "rating": "Lean R"
     }
    ],
-   "note_fr": "Les anciens gouverneurs David Beasley (R) et Jim Hodges (D) ont soutenu Andrews le 26 octobre."
+   "note_fr": "Un sondage Times/Siena montre une égalité à 48 contre 48. Le représentant Ralph Norman, battu au second tour républicain, refuse d'aider Graham."
   },
   {
    "id": "S-SD",
@@ -1095,42 +1126,12 @@
    "dem": "James Talarico",
    "rep": "Ken Paxton",
    "other": "",
-   "poll": "Talarico 45, Paxton 45 (Rasmussen)",
-   "poll_date": "2026-10-24",
+   "poll": "Talarico 50, Paxton 45 (Univision/YouGov)",
+   "poll_date": "2026-10-27",
    "change": "Inside Elections: Tilt R → Toss-up",
    "change_date": "2026-10-23",
    "note": "Open seat and the most expensive race of the cycle. Kalshi traders give Talarico 65%.",
    "polls": [
-    {
-     "date": "2026-10-13",
-     "pollster": "ReconMR/Siena",
-     "dem": 48,
-     "rep": 44
-    },
-    {
-     "date": "2026-10-13",
-     "pollster": "Quantus Insights",
-     "dem": 47,
-     "rep": 47
-    },
-    {
-     "date": "2026-10-14",
-     "pollster": "Marist",
-     "dem": 47,
-     "rep": 45
-    },
-    {
-     "date": "2026-10-14",
-     "pollster": "Univ. of Texas",
-     "dem": 50,
-     "rep": 47
-    },
-    {
-     "date": "2026-10-15",
-     "pollster": "InsiderAdvantage",
-     "dem": 48,
-     "rep": 49
-    },
     {
      "date": "2026-10-18",
      "pollster": "CBS News",
@@ -1171,6 +1172,12 @@
      "date": "2026-10-24",
      "pollster": "Rasmussen",
      "dem": 45,
+     "rep": 45
+    },
+    {
+     "date": "2026-10-27",
+     "pollster": "Univision/YouGov",
+     "dem": 50,
      "rep": 45
     }
    ],
@@ -1291,12 +1298,19 @@
    "dem": "Jonathan Kreiss-Tomkins",
    "rep": "Bernadette Wilson",
    "other": "",
-   "poll": "",
-   "poll_date": "",
+   "poll": "Kreiss-Tomkins 53, Wilson 47 (Alaska Survey Research)",
+   "poll_date": "2026-10-27",
    "change": "Cook: Toss-up → Lean D",
    "change_date": "2026-10-13",
-   "note": "Open seat. Ranked-choice voting.",
-   "polls": [],
+   "note": "Open seat. Ranked-choice voting. Sen. Lisa Murkowski endorsed Democrat Kreiss-Tomkins on Oct. 28.",
+   "polls": [
+    {
+     "date": "2026-10-27",
+     "pollster": "Alaska Survey Research",
+     "dem": 53,
+     "rep": 47
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -1308,7 +1322,7 @@
      "rating": "Lean D"
     }
    ],
-   "note_fr": "Siège ouvert. Vote préférentiel."
+   "note_fr": "Siège ouvert. Vote préférentiel. La sénatrice Lisa Murkowski a soutenu le démocrate Kreiss-Tomkins le 28 octobre."
   },
   {
    "id": "G-AZ",
@@ -1320,12 +1334,19 @@
    "dem": "Katie Hobbs (inc.)",
    "rep": "Andy Biggs",
    "other": "",
-   "poll": "",
-   "poll_date": "",
+   "poll": "Hobbs 52, Biggs 39 (HighGround)",
+   "poll_date": "2026-10-27",
    "change": "",
    "change_date": "",
    "note": "",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-10-27",
+     "pollster": "HighGround",
+     "dem": 52,
+     "rep": 39
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -1439,15 +1460,22 @@
    "chamber": "Governor",
    "rating": "Lean R",
    "held": "R",
-   "dem": "",
-   "rep": "",
+   "dem": "David Jolly",
+   "rep": "Byron Donalds",
    "other": "",
-   "poll": "",
-   "poll_date": "",
+   "poll": "Donalds 48, Jolly 44 (NYT/Siena)",
+   "poll_date": "2026-10-28",
    "change": "Cook: Likely R → Lean R",
    "change_date": "2026-10-01",
    "note": "Open seat",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-10-28",
+     "pollster": "NYT/Siena",
+     "dem": 44,
+     "rep": 48
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -1737,15 +1765,22 @@
    "chamber": "Governor",
    "rating": "Solid D",
    "held": "D",
-   "dem": "",
-   "rep": "",
+   "dem": "Amy Klobuchar",
+   "rep": "Lisa Demuth",
    "other": "",
-   "poll": "",
-   "poll_date": "",
+   "poll": "Klobuchar 56, Demuth 38 (NYT/Siena)",
+   "poll_date": "2026-10-28",
    "change": "",
    "change_date": "",
    "note": "",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-10-28",
+     "pollster": "NYT/Siena",
+     "dem": 56,
+     "rep": 38
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -1797,12 +1832,19 @@
    "dem": "Aaron Ford",
    "rep": "Joe Lombardo (inc.)",
    "other": "",
-   "poll": "",
-   "poll_date": "",
+   "poll": "Ford 49, Lombardo 45 (Hart/POS)",
+   "poll_date": "2026-10-27",
    "change": "",
    "change_date": "",
    "note": "",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-10-27",
+     "pollster": "Hart/POS",
+     "dem": 49,
+     "rep": 45
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -1902,12 +1944,19 @@
    "dem": "Amy Acton",
    "rep": "Vivek Ramaswamy",
    "other": "",
-   "poll": "RCP average: Acton +3.6",
-   "poll_date": "2026-10-24",
+   "poll": "Acton 48, Ramaswamy 44 (Suffolk)",
+   "poll_date": "2026-10-28",
    "change": "Cook: Toss-up → Lean D",
    "change_date": "2026-10-23",
    "note": "Shift followed backlash to a Ramaswamy ad featuring Acton's estranged mother.",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-10-28",
+     "pollster": "Suffolk",
+     "dem": 48,
+     "rep": 44
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -2036,11 +2085,11 @@
    "chamber": "Governor",
    "rating": "Likely/Solid R",
    "held": "R",
-   "dem": "",
-   "rep": "",
+   "dem": "Jermaine Johnson",
+   "rep": "Alan Wilson",
    "other": "",
-   "poll": "Wilson 51, Johnson 41 (Targoz)",
-   "poll_date": "2026-10-26",
+   "poll": "Wilson 51, Johnson 44 (NYT/Siena)",
+   "poll_date": "2026-10-28",
    "change": "",
    "change_date": "",
    "note": "Open seat. Exact Cook rating not confirmed.",
@@ -2049,6 +2098,12 @@
      "date": "2026-10-26",
      "pollster": "Targoz",
      "dem": 41,
+     "rep": 51
+    },
+    {
+     "date": "2026-10-28",
+     "pollster": "NYT/Siena",
+     "dem": 44,
      "rep": 51
     }
    ],
@@ -2120,8 +2175,8 @@
    "dem": "Gina Hinojosa",
    "rep": "Greg Abbott (inc.)",
    "other": "",
-   "poll": "Abbott 52, Hinojosa 47 (Fox News)",
-   "poll_date": "2026-10-22",
+   "poll": "Abbott 48, Hinojosa 46 (Univision/YouGov)",
+   "poll_date": "2026-10-27",
    "change": "Cook: Likely R → Lean R",
    "change_date": "2026-10-01",
    "note": "",
@@ -2131,6 +2186,12 @@
      "pollster": "Fox News",
      "dem": 47,
      "rep": 52
+    },
+    {
+     "date": "2026-10-27",
+     "pollster": "Univision/YouGov",
+     "dem": 46,
+     "rep": 48
     }
    ],
    "result": null,
@@ -2183,17 +2244,23 @@
    "dem": "David Crowley",
    "rep": "Tom Tiffany",
    "other": "",
-   "poll": "Crowley 49, Tiffany 46 (Marquette)",
-   "poll_date": "2026-09-30",
+   "poll": "Crowley 51, Tiffany 44 (Marquette)",
+   "poll_date": "2026-10-28",
    "change": "",
    "change_date": "",
-   "note": "Open seat. Tony Evers is retiring.",
+   "note": "Open seat. Tony Evers is retiring. Crowley leads by 7 in the final Marquette poll.",
    "polls": [
     {
      "date": "2026-09-30",
      "pollster": "Marquette",
      "dem": 49,
      "rep": 46
+    },
+    {
+     "date": "2026-10-28",
+     "pollster": "Marquette",
+     "dem": 51,
+     "rep": 44
     }
    ],
    "result": null,
@@ -2203,7 +2270,7 @@
      "rating": "Toss-up"
     }
    ],
-   "note_fr": "Siège ouvert. Tony Evers prend sa retraite."
+   "note_fr": "Siège ouvert. Tony Evers prend sa retraite. Crowley mène de 7 points dans le dernier sondage Marquette."
   },
   {
    "id": "G-WY",
@@ -2232,6 +2299,76 @@
   }
  ],
  "news": [
+  {
+   "id": "n20261029-1",
+   "date": "2026-10-28",
+   "code": "US",
+   "chamber": "Senate",
+   "text": "New Times/Siena polls show a 48 to 48 tie in South Carolina. Flanagan leads by 14 in Minnesota. Moody leads by 6 in Florida.",
+   "text_fr": "De nouveaux sondages Times/Siena montrent une égalité à 48 en Caroline du Sud. Flanagan mène de 14 points au Minnesota. Moody mène de 6 points en Floride.",
+   "source": "Siena Research Institute",
+   "url": "https://sri.siena.edu/2026/10/28/nytimes-siena-poll-of-likely-voters-florida-minnesota-and-south-carolina/"
+  },
+  {
+   "id": "n20261029-2",
+   "date": "2026-10-28",
+   "code": "WI",
+   "chamber": "Governor",
+   "text": "The final Marquette poll gives Democrat David Crowley 51 and Republican Tom Tiffany 44 among likely voters.",
+   "text_fr": "Le dernier sondage Marquette donne 51 au démocrate David Crowley et 44 au républicain Tom Tiffany chez les électeurs probables.",
+   "source": "Marquette Law School Poll",
+   "url": "https://law.marquette.edu/poll/2026/10/28/mlsp92-press-release/"
+  },
+  {
+   "id": "n20261029-3",
+   "date": "2026-10-28",
+   "code": "OH",
+   "chamber": "Senate",
+   "text": "A Suffolk poll puts Sherrod Brown ahead of Jon Husted, 47 to 44. Amy Acton leads Vivek Ramaswamy 48 to 44 for governor.",
+   "text_fr": "Un sondage Suffolk place Sherrod Brown devant Jon Husted, 47 contre 44. Amy Acton devance Vivek Ramaswamy 48 contre 44 pour le poste de gouverneur.",
+   "source": "Suffolk University",
+   "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_28_2026_ohio_press_release.pdf"
+  },
+  {
+   "id": "n20261029-4",
+   "date": "2026-10-28",
+   "code": "AK",
+   "chamber": "Governor",
+   "text": "Republican Sen. Lisa Murkowski endorsed Democrat Jonathan Kreiss-Tomkins for governor. Trump backs Republican Bernadette Wilson.",
+   "text_fr": "La sénatrice républicaine Lisa Murkowski a soutenu le démocrate Jonathan Kreiss-Tomkins pour le poste de gouverneur. Trump soutient la républicaine Bernadette Wilson.",
+   "source": "Fox News",
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-ohio-midterms-october-28"
+  },
+  {
+   "id": "n20261029-5",
+   "date": "2026-10-28",
+   "code": "SC",
+   "chamber": "Senate",
+   "text": "Rep. Ralph Norman said he will not campaign for Sen. Darline Graham in the final week. He lost the GOP runoff to her in August.",
+   "text_fr": "Le représentant Ralph Norman a déclaré qu'il ne ferait pas campagne pour la sénatrice Darline Graham. Il avait perdu face à elle au second tour républicain en août.",
+   "source": "Fox News",
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-ohio-midterms-october-28"
+  },
+  {
+   "id": "n20261029-6",
+   "date": "2026-10-28",
+   "code": "TX",
+   "chamber": "Senate",
+   "text": "A Univision/YouGov poll gives James Talarico 50 and Ken Paxton 45. Trump rallied for Paxton in Corpus Christi on Oct. 27.",
+   "text_fr": "Un sondage Univision/YouGov donne 50 à James Talarico et 45 à Ken Paxton. Trump a fait campagne pour Paxton à Corpus Christi le 27 octobre.",
+   "source": "RealClearPolling",
+   "url": "https://www.realclearpolling.com/latest-polls/senate"
+  },
+  {
+   "id": "n20261029-7",
+   "date": "2026-10-28",
+   "code": "GA",
+   "chamber": "Senate",
+   "text": "Barack Obama campaigned in Atlanta with Sen. Jon Ossoff and Keisha Lance Bottoms. Early in-person voting in Georgia ends Oct. 30.",
+   "text_fr": "Barack Obama a fait campagne à Atlanta avec le sénateur Jon Ossoff et Keisha Lance Bottoms. Le vote anticipé en personne en Géorgie se termine le 30 octobre.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally"
+  },
   {
    "id": "n20261028-1",
    "date": "2026-10-27",
@@ -2584,10 +2721,10 @@
    "id": "kalshi-senate",
    "forecaster": "Kalshi",
    "chamber": "Senate",
-   "dem_prob": 0.65,
+   "dem_prob": 0.67,
    "dem_seats": null,
-   "date": "2026-10-27",
-   "url": "https://kalshi.com/category/elections/midterms"
+   "date": "2026-10-29",
+   "url": "https://kalshi.com/markets/controls/senate-winner/controls-2026"
   },
   {
    "id": "poliwave-senate",
