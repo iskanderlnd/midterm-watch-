@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T06:30:00Z",
+ "updated": "2026-10-30T06:45:00Z",
  "election_date": "2026-11-03",
  "not_up": {
   "Senate": {
@@ -56,7 +56,7 @@
    "poll_date": "2026-10-20",
    "change": "Sabato: Toss-up → Lean D",
    "change_date": "2026-10-06",
-   "note": "The Justice Department is challenging a second candidate also named Dan Sullivan and seeks to block certification if the incumbent loses.",
+   "note": "Trump says Peltola should be charged and removed from the ballot over a second candidate named Dan Sullivan. Her campaign denies any role.",
    "polls": [
     {
      "date": "2026-10-15",
@@ -78,7 +78,7 @@
      "rating": "Toss-up"
     }
    ],
-   "note_fr": "Le ministère de la Justice conteste la candidature d'un second Dan Sullivan et veut bloquer la certification si le sortant perd."
+   "note_fr": "Trump veut que Peltola soit poursuivie et retirée du scrutin à cause d'un second candidat nommé Dan Sullivan. Sa campagne nie tout rôle."
   },
   {
    "id": "S-AR",
@@ -359,11 +359,11 @@
    "dem": "Adam Hamilton",
    "rep": "Roger Marshall (inc.)",
    "other": "",
-   "poll": "Marshall 48, Hamilton 47 (InsiderAdvantage)",
-   "poll_date": "2026-10-14",
+   "poll": "Hamilton 49, Marshall 45 (CNN/SSRS)",
+   "poll_date": "2026-10-29",
    "change": "Cook: Lean R → Toss-up",
    "change_date": "2026-10-06",
-   "note": "Kansas has not elected a Democratic senator since 1932.",
+   "note": "A CNN poll puts Hamilton 4 points ahead. Kansas has not elected a Democratic senator since 1932.",
    "polls": [
     {
      "date": "2026-10-06",
@@ -376,6 +376,12 @@
      "pollster": "InsiderAdvantage",
      "dem": 47,
      "rep": 48
+    },
+    {
+     "date": "2026-10-29",
+     "pollster": "CNN/SSRS",
+     "dem": 49,
+     "rep": 45
     }
    ],
    "result": null,
@@ -389,7 +395,7 @@
      "rating": "Toss-up"
     }
    ],
-   "note_fr": "Le Kansas n'a plus élu de sénateur démocrate depuis 1932."
+   "note_fr": "Un sondage CNN donne 4 points d'avance à Hamilton. Le Kansas n'a plus élu de sénateur démocrate depuis 1932."
   },
   {
    "id": "S-KY",
@@ -450,11 +456,11 @@
    "dem": "Troy Jackson",
    "rep": "Susan Collins (inc.)",
    "other": "",
-   "poll": "Jackson 49, Collins 47 (Marist)",
-   "poll_date": "2026-10-27",
+   "poll": "Jackson 49, Collins 45 (CNN/SSRS)",
+   "poll_date": "2026-10-29",
    "change": "",
    "change_date": "",
-   "note": "A Marist poll released Oct. 27 gives Jackson a 2-point edge. The race stays within the margin of error.",
+   "note": "A CNN poll released Oct. 29 gives Jackson a 4-point lead. Recent polls range from a tie to a 4-point Jackson edge.",
    "polls": [
     {
      "date": "2026-10-14",
@@ -485,6 +491,12 @@
      "pollster": "Marist",
      "dem": 49,
      "rep": 47
+    },
+    {
+     "date": "2026-10-29",
+     "pollster": "CNN/SSRS",
+     "dem": 49,
+     "rep": 45
     }
    ],
    "result": null,
@@ -494,7 +506,7 @@
      "rating": "Toss-up"
     }
    ],
-   "note_fr": "Un sondage Marist publié le 27 octobre donne 2 points d'avance à Jackson. L'écart reste dans la marge d'erreur."
+   "note_fr": "Un sondage CNN publié le 29 octobre donne 4 points d'avance à Jackson. Les derniers sondages vont de l'égalité à 4 points d'avance pour Jackson."
   },
   {
    "id": "S-MA",
@@ -530,8 +542,8 @@
    "dem": "Abdul El-Sayed",
    "rep": "Mike Rogers",
    "other": "",
-   "poll": "El-Sayed 51, Rogers 45 (Glengariff)",
-   "poll_date": "2026-10-27",
+   "poll": "El-Sayed 49, Rogers 42 (CNN/SSRS)",
+   "poll_date": "2026-10-29",
    "change": "",
    "change_date": "",
    "note": "Open seat after Gary Peters' retirement. Trump and Obama both rallied here on Oct. 25.",
@@ -565,6 +577,12 @@
      "pollster": "Glengariff",
      "dem": 51,
      "rep": 45
+    },
+    {
+     "date": "2026-10-29",
+     "pollster": "CNN/SSRS",
+     "dem": 49,
+     "rep": 42
     }
    ],
    "result": null,
@@ -1027,7 +1045,7 @@
    "poll_date": "2026-10-28",
    "change": "Cook: Likely R → Lean R",
    "change_date": "2026-10-20",
-   "note": "A Times/Siena poll shows a 48 to 48 tie. Rep. Ralph Norman, who lost the GOP runoff, says he will not help Graham.",
+   "note": "A Times/Siena poll shows a 48 to 48 tie. Trump rallied for Graham in Rock Hill on Oct. 29.",
    "polls": [
     {
      "date": "2026-10-18",
@@ -1059,7 +1077,7 @@
      "rating": "Lean R"
     }
    ],
-   "note_fr": "Un sondage Times/Siena montre une égalité à 48 contre 48. Le représentant Ralph Norman, battu au second tour républicain, refuse d'aider Graham."
+   "note_fr": "Un sondage Times/Siena montre une égalité à 48 contre 48. Trump a fait campagne pour Graham à Rock Hill le 29 octobre."
   },
   {
    "id": "S-SD",
@@ -1126,18 +1144,12 @@
    "dem": "James Talarico",
    "rep": "Ken Paxton",
    "other": "",
-   "poll": "Talarico 50, Paxton 45 (Univision/YouGov)",
-   "poll_date": "2026-10-27",
+   "poll": "Talarico 49, Paxton 43 (CNN/SSRS)",
+   "poll_date": "2026-10-29",
    "change": "Inside Elections: Tilt R → Toss-up",
    "change_date": "2026-10-23",
    "note": "Open seat and the most expensive race of the cycle. Kalshi traders give Talarico 65%.",
    "polls": [
-    {
-     "date": "2026-10-18",
-     "pollster": "CBS News",
-     "dem": 51,
-     "rep": 49
-    },
     {
      "date": "2026-10-19",
      "pollster": "Univ. of Houston",
@@ -1179,6 +1191,12 @@
      "pollster": "Univision/YouGov",
      "dem": 50,
      "rep": 45
+    },
+    {
+     "date": "2026-10-29",
+     "pollster": "CNN/SSRS",
+     "dem": 49,
+     "rep": 43
     }
    ],
    "result": null,
@@ -2300,6 +2318,66 @@
  ],
  "news": [
   {
+   "id": "n20261030-1",
+   "date": "2026-10-29",
+   "code": "US",
+   "chamber": "Senate",
+   "text": "New CNN polls show Democrats ahead in four GOP-targeted races. El-Sayed leads by 7 in Michigan and Talarico by 6 in Texas. Jackson and Hamilton lead by 4 in Maine and Kansas.",
+   "text_fr": "De nouveaux sondages CNN placent les démocrates en tête dans quatre courses clés. El-Sayed mène de 7 points au Michigan et Talarico de 6 au Texas. Jackson et Hamilton mènent de 4 points dans le Maine et au Kansas.",
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/10/29/politics/cnn-polls-michigan-maine-texas-kansas-senate-races-midterms-vis"
+  },
+  {
+   "id": "n20261030-2",
+   "date": "2026-10-29",
+   "code": "US",
+   "chamber": "Senate",
+   "text": "The Decision Desk HQ forecast now gives Democrats a 60% chance to win the Senate, with 52 seats projected. Their House odds stand at 80%.",
+   "text_fr": "Le modèle de Decision Desk HQ donne désormais 60 % de chances aux démocrates de gagner le Sénat, avec 52 sièges projetés. Leurs chances à la Chambre atteignent 80 %.",
+   "source": "Decision Desk HQ",
+   "url": "https://votes.decisiondeskhq.com/forecast/2026"
+  },
+  {
+   "id": "n20261030-3",
+   "date": "2026-10-29",
+   "code": "SC",
+   "chamber": "Senate",
+   "text": "Trump held a rally in Rock Hill to boost Sen. Graham. Recent polls show the race against Annie Andrews tightening.",
+   "text_fr": "Trump a tenu un meeting à Rock Hill pour soutenir la sénatrice Graham. Les derniers sondages montrent une course serrée face à Annie Andrews.",
+   "source": "South Carolina Public Radio",
+   "url": "https://www.southcarolinapublicradio.org/sc-news/2026-10-29/in-rock-hill-trump-will-urge-voters-to-back-darline-graham-as-senate-race-polls-tighten"
+  },
+  {
+   "id": "n20261030-4",
+   "date": "2026-10-28",
+   "code": "AK",
+   "chamber": "Senate",
+   "text": "Trump called for Mary Peltola to be charged and pulled from the race. A report said Democratic allies recruited a second Dan Sullivan. Peltola's campaign denies involvement.",
+   "text_fr": "Trump a demandé que Mary Peltola soit poursuivie et retirée de la course. Selon un article, des alliés démocrates ont recruté un second Dan Sullivan. La campagne de Peltola nie toute implication.",
+   "source": "Alaska Beacon",
+   "url": "https://alaskabeacon.com/2026/10/28/trump-calls-for-peltola-to-be-criminally-charged-removed-from-alaskas-u-s-senate-race/"
+  },
+  {
+   "id": "n20261030-5",
+   "date": "2026-10-28",
+   "code": "NH",
+   "chamber": "Senate",
+   "text": "Chris Pappas and John E. Sununu met for a debate. They clashed over Social Security, tariffs and the Iran war.",
+   "text_fr": "Chris Pappas et John E. Sununu se sont affrontés lors d'un débat. Ils se sont opposés sur la Sécurité sociale, les droits de douane et la guerre en Iran.",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/"
+  },
+  {
+   "id": "n20261030-6",
+   "date": "2026-10-28",
+   "code": "OH",
+   "chamber": "Senate",
+   "text": "Trump rallied in Ohio for Sen. Jon Husted and Vivek Ramaswamy. He asked supporters to vote as if he were on the ballot.",
+   "text_fr": "Trump a fait campagne dans l'Ohio pour le sénateur Jon Husted et Vivek Ramaswamy. Il a demandé à ses partisans de voter comme s'il était candidat.",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/"
+  },
+  {
    "id": "n20261029-1",
    "date": "2026-10-28",
    "code": "US",
@@ -2638,46 +2716,6 @@
    "source": "The Hill",
    "url": "https://thehill.com/homenews/campaign/6160752-cook-political-report-moves-races/",
    "text_fr": "Cook a fait passer la Caroline du Sud de Probable R à Penche R dans la course Graham-Andrews."
-  },
-  {
-   "id": "n17",
-   "date": "2026-10-20",
-   "code": "MS",
-   "chamber": "Senate",
-   "text": "Cook moved Mississippi from Solid R to Likely R.",
-   "source": "CNN",
-   "url": "https://www.cnn.com/2026/10/20/politics/live-news/midterm-election-congress",
-   "text_fr": "Cook a fait passer le Mississippi d'Acquis R à Probable R."
-  },
-  {
-   "id": "n18",
-   "date": "2026-10-20",
-   "code": "GA",
-   "chamber": "Governor",
-   "text": "AJC poll: Jackson 46, Bottoms 45. Ossoff holds a wide lead in the Senate race.",
-   "source": "AJC",
-   "url": "https://www.ajc.com/politics/2026/10/rick-jackson-has-outspent-keisha-lance-bottoms-but-democratic-enthusiasm-has-the-race-knotted/",
-   "text_fr": "Sondage AJC : Jackson 46, Bottoms 45. Ossoff garde une large avance dans la course au Sénat."
-  },
-  {
-   "id": "n19",
-   "date": "2026-10-13",
-   "code": "AK",
-   "chamber": "Governor",
-   "text": "Cook moved Alaska from Toss-up to Lean D. Nebraska, Vermont and Oklahoma moved from Solid R to Likely R.",
-   "source": "The Hill",
-   "url": "https://thehill.com/homenews/campaign/6145770-cook-political-report-shifts-four-democrats/",
-   "text_fr": "Cook a fait passer l'Alaska d'Indécis à Penche D. Le Nebraska, le Vermont et l'Oklahoma passent d'Acquis R à Probable R."
-  },
-  {
-   "id": "n20",
-   "date": "2026-10-06",
-   "code": "KS",
-   "chamber": "Senate",
-   "text": "Cook moved Kansas to Toss-up, New Hampshire to Lean D and North Carolina to Likely D.",
-   "source": "Cook Political Report",
-   "url": "https://www.cookpolitical.com/analysis/senate/senate-overview/senate-majority-squarely-democrats-sights-kansas-moves-toss-two",
-   "text_fr": "Cook a classé le Kansas Indécis, le New Hampshire Penche D et la Caroline du Nord Probable D."
   }
  ],
  "forecasts": [
@@ -2685,9 +2723,9 @@
    "id": "ddhq-house",
    "forecaster": "Decision Desk HQ",
    "chamber": "House",
-   "dem_prob": 0.79,
+   "dem_prob": 0.8,
    "dem_seats": 238,
-   "date": "2026-10-27",
+   "date": "2026-10-29",
    "url": "https://votes.decisiondeskhq.com/forecast/2026"
   },
   {
@@ -2712,9 +2750,9 @@
    "id": "ddhq-senate",
    "forecaster": "Decision Desk HQ",
    "chamber": "Senate",
-   "dem_prob": 0.57,
-   "dem_seats": 51,
-   "date": "2026-10-27",
+   "dem_prob": 0.6,
+   "dem_seats": 52,
+   "date": "2026-10-29",
    "url": "https://votes.decisiondeskhq.com/forecast/2026"
   },
   {
@@ -2723,7 +2761,7 @@
    "chamber": "Senate",
    "dem_prob": 0.67,
    "dem_seats": null,
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "url": "https://kalshi.com/markets/controls/senate-winner/controls-2026"
   },
   {
