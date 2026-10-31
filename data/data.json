@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T06:45:00Z",
+ "updated": "2026-10-31T07:00:00Z",
  "election_date": "2026-11-03",
  "not_up": {
   "Senate": {
@@ -52,11 +52,11 @@
    "dem": "Mary Peltola",
    "rep": "Dan Sullivan (inc.)",
    "other": "",
-   "poll": "Peltola 51, Sullivan 49 (Data for Progress)",
-   "poll_date": "2026-10-20",
+   "poll": "Peltola 51, Sullivan 49 (Alaska Survey Research)",
+   "poll_date": "2026-10-30",
    "change": "Sabato: Toss-up → Lean D",
    "change_date": "2026-10-06",
-   "note": "Trump says Peltola should be charged and removed from the ballot over a second candidate named Dan Sullivan. Her campaign denies any role.",
+   "note": "Governor Dunleavy ordered a state probe into a second candidate named Dan Sullivan. Peltola denies any role.",
    "polls": [
     {
      "date": "2026-10-15",
@@ -69,6 +69,12 @@
      "pollster": "Data for Progress",
      "dem": 51,
      "rep": 49
+    },
+    {
+     "date": "2026-10-30",
+     "pollster": "Alaska Survey Research",
+     "dem": 51,
+     "rep": 49
     }
    ],
    "result": null,
@@ -78,7 +84,7 @@
      "rating": "Toss-up"
     }
    ],
-   "note_fr": "Trump veut que Peltola soit poursuivie et retirée du scrutin à cause d'un second candidat nommé Dan Sullivan. Sa campagne nie tout rôle."
+   "note_fr": "Le gouverneur Dunleavy a ouvert une enquête sur un second candidat nommé Dan Sullivan. Peltola nie tout rôle."
   },
   {
    "id": "S-AR",
@@ -359,11 +365,11 @@
    "dem": "Adam Hamilton",
    "rep": "Roger Marshall (inc.)",
    "other": "",
-   "poll": "Hamilton 49, Marshall 45 (CNN/SSRS)",
-   "poll_date": "2026-10-29",
+   "poll": "Hamilton 49, Marshall 45 (Emerson)",
+   "poll_date": "2026-10-28",
    "change": "Cook: Lean R → Toss-up",
    "change_date": "2026-10-06",
-   "note": "A CNN poll puts Hamilton 4 points ahead. Kansas has not elected a Democratic senator since 1932.",
+   "note": "Emerson and Washington Post polls both show Hamilton ahead. Kansas has not elected a Democratic senator since 1932.",
    "polls": [
     {
      "date": "2026-10-06",
@@ -376,6 +382,18 @@
      "pollster": "InsiderAdvantage",
      "dem": 47,
      "rep": 48
+    },
+    {
+     "date": "2026-10-26",
+     "pollster": "WaPo/Schar",
+     "dem": 52,
+     "rep": 43
+    },
+    {
+     "date": "2026-10-28",
+     "pollster": "Emerson",
+     "dem": 49,
+     "rep": 45
     },
     {
      "date": "2026-10-29",
@@ -395,7 +413,7 @@
      "rating": "Toss-up"
     }
    ],
-   "note_fr": "Un sondage CNN donne 4 points d'avance à Hamilton. Le Kansas n'a plus élu de sénateur démocrate depuis 1932."
+   "note_fr": "Les sondages Emerson et Washington Post donnent tous deux Hamilton en tête. Le Kansas n'a plus élu de sénateur démocrate depuis 1932."
   },
   {
    "id": "S-KY",
@@ -579,6 +597,12 @@
      "rep": 45
     },
     {
+     "date": "2026-10-27",
+     "pollster": "Mitchell",
+     "dem": 51,
+     "rep": 44
+    },
+    {
      "date": "2026-10-29",
      "pollster": "CNN/SSRS",
      "dem": 49,
@@ -744,8 +768,8 @@
    "dem": "Chris Pappas",
    "rep": "John E. Sununu",
    "other": "",
-   "poll": "Pappas 50, Sununu 44 (Rasmussen)",
-   "poll_date": "2026-10-26",
+   "poll": "Pappas 48, Sununu 41 (UMass Lowell)",
+   "poll_date": "2026-10-29",
    "change": "Cook: Toss-up → Lean D",
    "change_date": "2026-10-06",
    "note": "Open seat",
@@ -761,6 +785,12 @@
      "pollster": "Rasmussen",
      "dem": 50,
      "rep": 44
+    },
+    {
+     "date": "2026-10-29",
+     "pollster": "UMass Lowell",
+     "dem": 48,
+     "rep": 41
     }
    ],
    "result": null,
@@ -1064,6 +1094,12 @@
      "pollster": "NYT/Siena",
      "dem": 48,
      "rep": 48
+    },
+    {
+     "date": "2026-10-28",
+     "pollster": "The Citadel",
+     "dem": 39,
+     "rep": 43
     }
    ],
    "result": null,
@@ -1144,18 +1180,12 @@
    "dem": "James Talarico",
    "rep": "Ken Paxton",
    "other": "",
-   "poll": "Talarico 49, Paxton 43 (CNN/SSRS)",
-   "poll_date": "2026-10-29",
+   "poll": "Paxton 49, Talarico 48 (Quantus Insights)",
+   "poll_date": "2026-10-28",
    "change": "Inside Elections: Tilt R → Toss-up",
    "change_date": "2026-10-23",
-   "note": "Open seat and the most expensive race of the cycle. Kalshi traders give Talarico 65%.",
+   "note": "Open seat and the most expensive race of the cycle. A Quantus poll shows Paxton narrowly ahead, while CNN has Talarico up 6.",
    "polls": [
-    {
-     "date": "2026-10-19",
-     "pollster": "Univ. of Houston",
-     "dem": 48,
-     "rep": 46
-    },
     {
      "date": "2026-10-21",
      "pollster": "Cook Political Report",
@@ -1193,6 +1223,12 @@
      "rep": 45
     },
     {
+     "date": "2026-10-28",
+     "pollster": "Quantus Insights",
+     "dem": 48,
+     "rep": 49
+    },
+    {
      "date": "2026-10-29",
      "pollster": "CNN/SSRS",
      "dem": 49,
@@ -1206,7 +1242,7 @@
      "rating": "Toss-up"
     }
    ],
-   "note_fr": "Siège ouvert et course la plus chère du cycle. Sur Kalshi, Talarico est donné gagnant à 65 %."
+   "note_fr": "Siège ouvert et course la plus chère du cycle. Un sondage Quantus donne Paxton de justesse en tête. CNN place Talarico 6 points devant."
   },
   {
    "id": "S-VA",
@@ -1639,12 +1675,19 @@
    "dem": "Cindy Holscher",
    "rep": "Ty Masterson",
    "other": "",
-   "poll": "",
-   "poll_date": "",
+   "poll": "Masterson 50, Holscher 46 (Emerson)",
+   "poll_date": "2026-10-28",
    "change": "Cook: Lean R → Toss-up",
    "change_date": "2026-10-27",
    "note": "Open seat. Laura Kelly is term-limited. Cook moved the race to Toss-up on Oct. 27.",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-10-28",
+     "pollster": "Emerson",
+     "dem": 46,
+     "rep": 50
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -1850,17 +1893,23 @@
    "dem": "Aaron Ford",
    "rep": "Joe Lombardo (inc.)",
    "other": "",
-   "poll": "Ford 49, Lombardo 45 (Hart/POS)",
-   "poll_date": "2026-10-27",
+   "poll": "Lombardo 47, Ford 47 (Noble Predictive)",
+   "poll_date": "2026-10-28",
    "change": "",
    "change_date": "",
-   "note": "",
+   "note": "A Noble Predictive poll shows a 47 to 47 tie.",
    "polls": [
     {
      "date": "2026-10-27",
      "pollster": "Hart/POS",
      "dem": 49,
      "rep": 45
+    },
+    {
+     "date": "2026-10-28",
+     "pollster": "Noble Predictive",
+     "dem": 47,
+     "rep": 47
     }
    ],
    "result": null,
@@ -1869,7 +1918,8 @@
      "date": "2026-09-30",
      "rating": "Toss-up"
     }
-   ]
+   ],
+   "note_fr": "Un sondage Noble Predictive montre une égalité à 47 contre 47."
   },
   {
    "id": "G-NH",
@@ -1966,7 +2016,7 @@
    "poll_date": "2026-10-28",
    "change": "Cook: Toss-up → Lean D",
    "change_date": "2026-10-23",
-   "note": "Shift followed backlash to a Ramaswamy ad featuring Acton's estranged mother.",
+   "note": "Ramaswamy pulled his ad featuring Acton's estranged mother. Ad data show far less spending than his campaign announced.",
    "polls": [
     {
      "date": "2026-10-28",
@@ -1986,7 +2036,7 @@
      "rating": "Lean D"
     }
    ],
-   "note_fr": "Changement après la polémique sur une publicité de Ramaswamy mettant en scène la mère d'Acton, avec qui elle est brouillée."
+   "note_fr": "Ramaswamy a retiré sa publicité montrant la mère d'Acton, avec qui elle est brouillée. Les données montrent bien moins de dépenses qu'annoncé."
   },
   {
    "id": "G-OK",
@@ -2318,6 +2368,86 @@
  ],
  "news": [
   {
+   "id": "n20261031-1",
+   "date": "2026-10-30",
+   "code": "US",
+   "chamber": "House",
+   "text": "Cook moves 12 House races toward Democrats. Colorado 5, Pennsylvania 1 and South Carolina 1 become Toss-ups. Pennsylvania 8 and Ohio 9 move to Lean D.",
+   "text_fr": "Cook déplace 12 courses de la Chambre vers les démocrates. Colorado 5, Pennsylvanie 1 et Caroline du Sud 1 passent Indécis. Pennsylvanie 8 et Ohio 9 passent Penche D.",
+   "source": "Cook Political Report via Yahoo News",
+   "url": "https://www.yahoo.com/news/politics/articles/cook-political-report-shifts-12-131100855.html"
+  },
+  {
+   "id": "n20261031-2",
+   "date": "2026-10-30",
+   "code": "KS",
+   "chamber": "Senate",
+   "text": "Two new polls show Hamilton ahead of Marshall. Emerson has him up 4 points. The Washington Post and Schar School have him up 9.",
+   "text_fr": "Deux nouveaux sondages donnent Hamilton devant Marshall. Emerson lui accorde 4 points d'avance. Le Washington Post et la Schar School lui en donnent 9.",
+   "source": "Emerson College Polling",
+   "url": "https://emersoncollegepolling.com/october-2026-kansas-poll-hamilton-maintains-edge-over-marshall/"
+  },
+  {
+   "id": "n20261031-3",
+   "date": "2026-10-30",
+   "code": "US",
+   "chamber": "Senate",
+   "text": "The Decision Desk HQ model gives Democrats a 62% chance in the Senate and 82% in the House. It puts a Democratic sweep at 60%.",
+   "text_fr": "Le modèle de Decision Desk HQ donne aux démocrates 62 % de chances au Sénat et 82 % à la Chambre. Il estime un doublé démocrate à 60 %.",
+   "source": "Decision Desk HQ",
+   "url": "https://votes.decisiondeskhq.com/forecast/2026"
+  },
+  {
+   "id": "n20261031-4",
+   "date": "2026-10-30",
+   "code": "TX",
+   "chamber": "Senate",
+   "text": "A Quantus Insights poll shows Paxton ahead of Talarico by about one point. The gap is within the margin of error.",
+   "text_fr": "Un sondage Quantus Insights donne Paxton devant Talarico d'environ un point. L'écart reste dans la marge d'erreur.",
+   "source": "FOX 7 Austin",
+   "url": "https://www.fox7austin.com/news/paxton-slips-past-talarico-latest-poll-senate-race-enters-final-days"
+  },
+  {
+   "id": "n20261031-5",
+   "date": "2026-10-30",
+   "code": "NV",
+   "chamber": "Governor",
+   "text": "A Noble Predictive poll shows Lombardo and Ford tied at 47%. Democrats lead the other statewide races in the same survey.",
+   "text_fr": "Un sondage Noble Predictive montre Lombardo et Ford à égalité à 47 %. Les démocrates mènent les autres courses de l'État dans la même enquête.",
+   "source": "Noble Predictive Insights",
+   "url": "https://www.noblepredictiveinsights.com/post/nevada-poll-of-record-lombardo-ford-deadlocked-at-47"
+  },
+  {
+   "id": "n20261031-6",
+   "date": "2026-10-30",
+   "code": "AK",
+   "chamber": "Senate",
+   "text": "An Alaska Survey Research poll shows Peltola ahead 51 to 49. A state probe into a second candidate named Dan Sullivan continues.",
+   "text_fr": "Un sondage Alaska Survey Research donne Peltola en tête à 51 contre 49. Une enquête de l'État sur un second candidat nommé Dan Sullivan se poursuit.",
+   "source": "Political Wire",
+   "url": "https://politicalwire.com/2026/10/30/peltola-leads-sullivan-in-alaska-senate-race-3/"
+  },
+  {
+   "id": "n20261031-7",
+   "date": "2026-10-30",
+   "code": "KS",
+   "chamber": "Governor",
+   "text": "An Emerson poll shows Masterson ahead of Holscher, 50 to 46, in the open race for governor.",
+   "text_fr": "Un sondage Emerson donne Masterson devant Holscher, 50 contre 46, dans la course ouverte au poste de gouverneur.",
+   "source": "Emerson College Polling",
+   "url": "https://emersoncollegepolling.com/october-2026-kansas-poll-hamilton-maintains-edge-over-marshall/"
+  },
+  {
+   "id": "n20261031-8",
+   "date": "2026-10-30",
+   "code": "OH",
+   "chamber": "Governor",
+   "text": "Ramaswamy ended the ad featuring Acton's estranged mother. AdImpact data show about $1 million spent, not the $4 million announced.",
+   "text_fr": "Ramaswamy a arrêté la publicité montrant la mère d'Acton, avec qui elle est brouillée. Selon AdImpact, environ 1 million de dollars a été dépensé, et non les 4 millions annoncés.",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/"
+  },
+  {
    "id": "n20261030-1",
    "date": "2026-10-29",
    "code": "US",
@@ -2636,86 +2766,6 @@
    "source": "The Hill",
    "url": "https://thehill.com/homenews/campaign/6169489-cook-political-report-shifts-ohio/",
    "text_fr": "Cook a fait passer la course d'Indécis à Penche D après la publicité de Ramaswamy sur la mère d'Acton."
-  },
-  {
-   "id": "n09",
-   "date": "2026-10-23",
-   "code": "TX",
-   "chamber": "Senate",
-   "text": "Inside Elections moved Texas to Toss-up.",
-   "source": "270toWin",
-   "url": "https://www.270towin.com/2026-senate-election/inside-elections-2026-senate-ratings",
-   "text_fr": "Inside Elections a classé le Texas Indécis."
-  },
-  {
-   "id": "n10",
-   "date": "2026-10-23",
-   "code": "US",
-   "chamber": "House",
-   "text": "Cook shifted 19 House seats toward Democrats, who are now favored in the 218 seats needed for a majority.",
-   "source": "Mediaite",
-   "url": "https://www.mediaite.com/politics/ohio-gov-race-moves-from-toss-up-to-lean-d-after-ramaswamy-ad-backlash-cook-political-report/",
-   "text_fr": "Cook a déplacé 19 sièges de la Chambre vers les démocrates, désormais favoris dans les 218 sièges nécessaires à la majorité."
-  },
-  {
-   "id": "n11",
-   "date": "2026-10-22",
-   "code": "US",
-   "chamber": "Senate",
-   "text": "A Cook poll shows Democratic Senate candidates leading in Iowa, Ohio and Texas.",
-   "source": "Cook Political Report",
-   "url": "https://www.cookpolitical.com/analysis/senate/senate-overview/senate-majority-squarely-democrats-sights-kansas-moves-toss-two",
-   "text_fr": "Un sondage Cook montre les candidats démocrates au Sénat en tête dans l'Iowa, l'Ohio et le Texas."
-  },
-  {
-   "id": "n12",
-   "date": "2026-10-22",
-   "code": "IA",
-   "chamber": "Senate",
-   "text": "InsiderAdvantage poll: Hinson 47, Turek 45.",
-   "source": "NBC News",
-   "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls",
-   "text_fr": "Sondage InsiderAdvantage : Hinson 47, Turek 45."
-  },
-  {
-   "id": "n13",
-   "date": "2026-10-22",
-   "code": "MI",
-   "chamber": "Senate",
-   "text": "InsiderAdvantage poll: El-Sayed 47, Rogers 46.",
-   "source": "NBC News",
-   "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls",
-   "text_fr": "Sondage InsiderAdvantage : El-Sayed 47, Rogers 46."
-  },
-  {
-   "id": "n14",
-   "date": "2026-10-21",
-   "code": "KS",
-   "chamber": "Senate",
-   "text": "Marshall and Hamilton met for their debate. Trump attacked Hamilton on Truth Social.",
-   "source": "Axios",
-   "url": "https://www.axios.com/local/kansas-city/2026/10/15/kansas-senate-voter-guide-axios",
-   "text_fr": "Marshall et Hamilton ont débattu. Trump a attaqué Hamilton sur Truth Social."
-  },
-  {
-   "id": "n15",
-   "date": "2026-10-20",
-   "code": "MN",
-   "chamber": "Senate",
-   "text": "Cook moved Minnesota from Likely D to Lean D.",
-   "source": "The Hill",
-   "url": "https://thehill.com/homenews/campaign/6160752-cook-political-report-moves-races/",
-   "text_fr": "Cook a fait passer le Minnesota de Probable D à Penche D."
-  },
-  {
-   "id": "n16",
-   "date": "2026-10-20",
-   "code": "SC",
-   "chamber": "Senate",
-   "text": "Cook moved South Carolina from Likely R to Lean R in the Graham-Andrews race.",
-   "source": "The Hill",
-   "url": "https://thehill.com/homenews/campaign/6160752-cook-political-report-moves-races/",
-   "text_fr": "Cook a fait passer la Caroline du Sud de Probable R à Penche R dans la course Graham-Andrews."
   }
  ],
  "forecasts": [
@@ -2723,18 +2773,18 @@
    "id": "ddhq-house",
    "forecaster": "Decision Desk HQ",
    "chamber": "House",
-   "dem_prob": 0.8,
-   "dem_seats": 238,
-   "date": "2026-10-29",
+   "dem_prob": 0.82,
+   "dem_seats": 239,
+   "date": "2026-10-30",
    "url": "https://votes.decisiondeskhq.com/forecast/2026"
   },
   {
    "id": "kalshi-house",
    "forecaster": "Kalshi",
    "chamber": "House",
-   "dem_prob": 0.91,
+   "dem_prob": 0.92,
    "dem_seats": null,
-   "date": "2026-10-27",
+   "date": "2026-10-30",
    "url": "https://kalshi.com/category/elections/midterms"
   },
   {
@@ -2750,16 +2800,16 @@
    "id": "ddhq-senate",
    "forecaster": "Decision Desk HQ",
    "chamber": "Senate",
-   "dem_prob": 0.6,
+   "dem_prob": 0.62,
    "dem_seats": 52,
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "url": "https://votes.decisiondeskhq.com/forecast/2026"
   },
   {
    "id": "kalshi-senate",
    "forecaster": "Kalshi",
    "chamber": "Senate",
-   "dem_prob": 0.67,
+   "dem_prob": 0.69,
    "dem_seats": null,
    "date": "2026-10-30",
    "url": "https://kalshi.com/markets/controls/senate-winner/controls-2026"
@@ -3077,17 +3127,17 @@
   "scenarios": [
    {
     "name": "Democrats win both chambers",
-    "label": "About 55% in DDHQ and Poliwave",
+    "label": "About 60% in DDHQ",
     "text": "Democrats can block nominees and treaties and attach conditions to spending bills, including on tariffs and Ukraine. Laws still need the president's signature."
    },
    {
     "name": "Democratic House, Republican Senate",
-    "label": "About 23 to 24%",
+    "label": "About 21%",
     "text": "Split Congress. Big new legislation stalls. Budget fights and investigations intensify. Nominations still pass the Senate. Trade policy stays mostly with the White House."
    },
    {
     "name": "Republicans keep both chambers",
-    "label": "About 11 to 19%",
+    "label": "About 7 to 17%",
     "text": "Unified government continues. The administration keeps a clear path for nominations and its legislative agenda through 2028."
    }
   ],
@@ -3101,7 +3151,7 @@
     "url": "https://www.ubs.com/us/en/wealth-management/insights/article.3745319.html"
    }
   ],
-  "scenario_note": "Combined-outcome odds from Decision Desk HQ and Poliwave, Oct. 25. Poliwave also gives about 10% to a Senate decided by independents.",
+  "scenario_note": "Combined-outcome odds from Decision Desk HQ, Oct. 30. Prediction markets put a Republican sweep near 7%.",
   "fr": {
    "intro": "Les élections de mi-mandat décident qui contrôle le Congrès pendant les deux dernières années du mandat de Donald Trump. Le Congrès ne dirige pas la politique étrangère, mais il vote le budget, confirme les nominations, ratifie les traités et enquête sur l'exécutif. Les analystes divergent sur l'effet d'un changement de majorité sur la politique envers l'Europe.",
    "levers": [
@@ -3125,35 +3175,35 @@
    "scenarios": [
     {
      "name": "Les démocrates gagnent les deux chambres",
-     "label": "Environ 55 % selon DDHQ et Poliwave",
+     "label": "Environ 60 % selon DDHQ",
      "text": "Les démocrates peuvent bloquer nominations et traités et poser des conditions aux lois de dépenses, y compris sur les droits de douane et l'Ukraine. Les lois exigent toujours la signature du président."
     },
     {
      "name": "Chambre démocrate, Sénat républicain",
-     "label": "Environ 23 à 24 %",
+     "label": "Environ 21 %",
      "text": "Congrès divisé. Les grandes lois nouvelles bloquent. Les bras de fer budgétaires et les enquêtes s'intensifient. Les nominations passent toujours au Sénat. La politique commerciale reste surtout entre les mains de la Maison Blanche."
     },
     {
      "name": "Les républicains gardent les deux chambres",
-     "label": "Environ 11 à 19 %",
+     "label": "Environ 7 à 17 %",
      "text": "Le gouvernement unifié continue. L'administration garde la voie libre pour ses nominations et son programme législatif jusqu'en 2028."
     }
    ],
-   "scenario_note": "Probabilités combinées de Decision Desk HQ et Poliwave au 25 octobre. Poliwave donne aussi environ 10 % à un Sénat arbitré par des indépendants."
+   "scenario_note": "Probabilités combinées de Decision Desk HQ au 30 octobre. Les marchés de paris placent un doublé républicain vers 7 %."
   }
  },
  "house_summary": {
   "source": "Cook Political Report",
-  "date": "2026-10-23",
+  "date": "2026-10-30",
   "url": "https://www.cookpolitical.com/ratings/house-race-ratings",
   "counts": {
    "Solid D": 186,
    "Likely D": 18,
-   "Lean D": 16,
-   "Toss-up": 17,
+   "Lean D": 18,
+   "Toss-up": 18,
    "Lean R": 17,
-   "Likely R": 13,
-   "Solid R": 168
+   "Likely R": 14,
+   "Solid R": 164
   }
  },
  "house_districts": [
@@ -3191,17 +3241,6 @@
    "result": null
   },
   {
-   "id": "OH-09",
-   "state": "OH",
-   "name": "Ohio 9",
-   "rating": "Toss-up",
-   "party": "D",
-   "holder": "Marcy Kaptur",
-   "open": false,
-   "vacant": false,
-   "result": null
-  },
-  {
    "id": "TX-35",
    "state": "TX",
    "name": "Texas 35",
@@ -3219,6 +3258,17 @@
    "rating": "Toss-up",
    "party": "R",
    "holder": "David Valadao",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "CO-05",
+   "state": "CO",
+   "name": "Colorado 5",
+   "rating": "Toss-up",
+   "party": "R",
+   "holder": "Jeff Crank",
    "open": false,
    "vacant": false,
    "result": null
@@ -3312,13 +3362,24 @@
    "result": null
   },
   {
-   "id": "PA-08",
+   "id": "PA-01",
    "state": "PA",
-   "name": "Pennsylvania 8",
+   "name": "Pennsylvania 1",
    "rating": "Toss-up",
    "party": "R",
-   "holder": "Rob Bresnahan",
+   "holder": "Brian Fitzpatrick",
    "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "SC-01",
+   "state": "SC",
+   "name": "South Carolina 1",
+   "rating": "Toss-up",
+   "party": "R",
+   "holder": "Nancy Mace",
+   "open": true,
    "vacant": false,
    "result": null
   },
@@ -3455,12 +3516,34 @@
    "result": null
   },
   {
+   "id": "OH-09",
+   "state": "OH",
+   "name": "Ohio 9",
+   "rating": "Lean D",
+   "party": "D",
+   "holder": "Marcy Kaptur",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
    "id": "PA-07",
    "state": "PA",
    "name": "Pennsylvania 7",
    "rating": "Lean D",
    "party": "R",
    "holder": "Ryan Mackenzie",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "PA-08",
+   "state": "PA",
+   "name": "Pennsylvania 8",
+   "rating": "Lean D",
+   "party": "R",
+   "holder": "Rob Bresnahan",
    "open": false,
    "vacant": false,
    "result": null
@@ -3565,12 +3648,23 @@
    "result": null
   },
   {
-   "id": "CO-05",
-   "state": "CO",
-   "name": "Colorado 5",
+   "id": "FL-07",
+   "state": "FL",
+   "name": "Florida 7",
    "rating": "Lean R",
    "party": "R",
-   "holder": "Jeff Crank",
+   "holder": "Cory Mills",
+   "open": true,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "FL-09",
+   "state": "FL",
+   "name": "Florida 9",
+   "rating": "Lean R",
+   "party": "D",
+   "holder": "Darren Soto",
    "open": false,
    "vacant": false,
    "result": null
@@ -3593,6 +3687,17 @@
    "rating": "Lean R",
    "party": "R",
    "holder": "María Elvira Salazar",
+   "open": false,
+   "vacant": false,
+   "result": null
+  },
+  {
+   "id": "IN-05",
+   "state": "IN",
+   "name": "Indiana 5",
+   "rating": "Lean R",
+   "party": "R",
+   "holder": "Victoria Spartz",
    "open": false,
    "vacant": false,
    "result": null
@@ -3660,28 +3765,6 @@
    "party": "R",
    "holder": "Mike Carey",
    "open": false,
-   "vacant": false,
-   "result": null
-  },
-  {
-   "id": "PA-01",
-   "state": "PA",
-   "name": "Pennsylvania 1",
-   "rating": "Lean R",
-   "party": "R",
-   "holder": "Brian Fitzpatrick",
-   "open": false,
-   "vacant": false,
-   "result": null
-  },
-  {
-   "id": "SC-01",
-   "state": "SC",
-   "name": "South Carolina 1",
-   "rating": "Lean R",
-   "party": "R",
-   "holder": "Nancy Mace",
-   "open": true,
    "vacant": false,
    "result": null
   },
