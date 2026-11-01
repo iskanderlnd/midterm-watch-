@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:00:00Z",
+ "updated": "2026-11-01T07:00:00Z",
  "election_date": "2026-11-03",
  "not_up": {
   "Senate": {
@@ -163,16 +163,16 @@
    "code": "FL",
    "state": "Florida (special)",
    "chamber": "Senate",
-   "rating": "Solid R",
+   "rating": "Likely R",
    "held": "R",
    "dem": "Angie Nixon",
    "rep": "Ashley Moody (inc.)",
    "other": "",
    "poll": "Moody 50, Nixon 44 (NYT/Siena)",
    "poll_date": "2026-10-28",
-   "change": "",
-   "change_date": "",
-   "note": "",
+   "change": "Cook: Solid R → Likely R",
+   "change_date": "2026-10-30",
+   "note": "Cook moved the race to Likely R on Oct. 30. Moody still leads in recent polls.",
    "polls": [
     {
      "date": "2026-10-19",
@@ -204,8 +204,13 @@
     {
      "date": "2026-09-30",
      "rating": "Solid R"
+    },
+    {
+     "date": "2026-11-01",
+     "rating": "Likely R"
     }
-   ]
+   ],
+   "note_fr": "Cook a classé la course Probable R le 30 octobre. Moody reste en tête dans les derniers sondages."
   },
   {
    "id": "S-GA",
@@ -731,22 +736,28 @@
    "code": "NE",
    "state": "Nebraska",
    "chamber": "Senate",
-   "rating": "Likely R",
+   "rating": "Lean R",
    "held": "R",
    "dem": "",
    "rep": "Pete Ricketts (inc.)",
    "other": "Dan Osborn (Ind.)",
-   "poll": "Osborn 48, Ricketts 47 (YouGov)",
-   "poll_date": "2026-10-06",
-   "change": "",
-   "change_date": "",
-   "note": "An NPA (R) poll on Oct. 12 shows Ricketts ahead.",
+   "poll": "Ricketts 49, Osborn 43 (NYT/Siena)",
+   "poll_date": "2026-10-31",
+   "change": "Cook: Likely R → Lean R",
+   "change_date": "2026-10-30",
+   "note": "Cook moved the race to Lean R on Oct. 30. The final Times/Siena poll still has Ricketts up 6.",
    "polls": [
     {
      "date": "2026-10-06",
      "pollster": "YouGov (Osborn vs. Ricketts)",
      "dem": 48,
      "rep": 47
+    },
+    {
+     "date": "2026-10-31",
+     "pollster": "NYT/Siena (Osborn vs. Ricketts)",
+     "dem": 43,
+     "rep": 49
     }
    ],
    "result": null,
@@ -754,9 +765,13 @@
     {
      "date": "2026-09-30",
      "rating": "Likely R"
+    },
+    {
+     "date": "2026-11-01",
+     "rating": "Lean R"
     }
    ],
-   "note_fr": "Un sondage NPA (R) du 12 octobre place Ricketts en tête."
+   "note_fr": "Cook a classé la course Penche R le 30 octobre. Le dernier sondage Times/Siena donne toujours Ricketts 6 points devant."
   },
   {
    "id": "S-NH",
@@ -934,7 +949,7 @@
    "poll_date": "2026-10-28",
    "change": "",
    "change_date": "",
-   "note": "Trump held his third Ohio rally of the month in Chillicothe on Oct. 28.",
+   "note": "Inside Elections moved the race to Tilt D on Oct. 31. Trump held his third Ohio rally of the month on Oct. 28.",
    "polls": [
     {
      "date": "2026-10-16",
@@ -986,7 +1001,7 @@
      "rating": "Toss-up"
     }
    ],
-   "note_fr": "Trump a tenu son troisième meeting du mois dans l'Ohio, à Chillicothe, le 28 octobre."
+   "note_fr": "Inside Elections a classé la course Penche légèrement D le 31 octobre. Trump a tenu son troisième meeting du mois dans l'Ohio le 28 octobre."
   },
   {
    "id": "S-OK",
@@ -1184,7 +1199,7 @@
    "poll_date": "2026-10-28",
    "change": "Inside Elections: Tilt R → Toss-up",
    "change_date": "2026-10-23",
-   "note": "Open seat and the most expensive race of the cycle. A Quantus poll shows Paxton narrowly ahead, while CNN has Talarico up 6.",
+   "note": "Open seat and the most expensive race of the cycle. Inside Elections moved it to Tilt D on Oct. 31. Polls show a near tie.",
    "polls": [
     {
      "date": "2026-10-21",
@@ -1242,7 +1257,7 @@
      "rating": "Toss-up"
     }
    ],
-   "note_fr": "Siège ouvert et course la plus chère du cycle. Un sondage Quantus donne Paxton de justesse en tête. CNN place Talarico 6 points devant."
+   "note_fr": "Siège ouvert et course la plus chère du cycle. Inside Elections l'a classé Penche légèrement D le 31 octobre. Les sondages montrent une quasi-égalité."
   },
   {
    "id": "S-VA",
@@ -1383,16 +1398,16 @@
    "code": "AZ",
    "state": "Arizona",
    "chamber": "Governor",
-   "rating": "Lean D",
+   "rating": "Likely D",
    "held": "D",
    "dem": "Katie Hobbs (inc.)",
    "rep": "Andy Biggs",
    "other": "",
    "poll": "Hobbs 52, Biggs 39 (HighGround)",
    "poll_date": "2026-10-27",
-   "change": "",
-   "change_date": "",
-   "note": "",
+   "change": "Cook: Lean D → Likely D",
+   "change_date": "2026-10-29",
+   "note": "Cook moved the race to Likely D on Oct. 29. Hobbs leads Biggs by double digits in recent polling.",
    "polls": [
     {
      "date": "2026-10-27",
@@ -1406,8 +1421,13 @@
     {
      "date": "2026-09-30",
      "rating": "Lean D"
+    },
+    {
+     "date": "2026-11-01",
+     "rating": "Likely D"
     }
-   ]
+   ],
+   "note_fr": "Cook a classé la course Probable D le 29 octobre. Hobbs devance Biggs de plus de 10 points dans les derniers sondages."
   },
   {
    "id": "G-AR",
@@ -2307,16 +2327,16 @@
    "code": "WI",
    "state": "Wisconsin",
    "chamber": "Governor",
-   "rating": "Toss-up",
+   "rating": "Lean D",
    "held": "D",
    "dem": "David Crowley",
    "rep": "Tom Tiffany",
    "other": "",
    "poll": "Crowley 51, Tiffany 44 (Marquette)",
    "poll_date": "2026-10-28",
-   "change": "",
-   "change_date": "",
-   "note": "Open seat. Tony Evers is retiring. Crowley leads by 7 in the final Marquette poll.",
+   "change": "Cook: Toss-up → Lean D",
+   "change_date": "2026-10-29",
+   "note": "Open seat. Tony Evers is retiring. Cook moved the race to Lean D after Crowley led by 7 in the final Marquette poll.",
    "polls": [
     {
      "date": "2026-09-30",
@@ -2336,9 +2356,13 @@
     {
      "date": "2026-09-30",
      "rating": "Toss-up"
+    },
+    {
+     "date": "2026-11-01",
+     "rating": "Lean D"
     }
    ],
-   "note_fr": "Siège ouvert. Tony Evers prend sa retraite. Crowley mène de 7 points dans le dernier sondage Marquette."
+   "note_fr": "Siège ouvert. Tony Evers prend sa retraite. Cook a classé la course Penche D après le dernier sondage Marquette, qui donne Crowley 7 points devant."
   },
   {
    "id": "G-WY",
@@ -2367,6 +2391,86 @@
   }
  ],
  "news": [
+  {
+   "id": "n20261101-1",
+   "date": "2026-10-30",
+   "code": "US",
+   "chamber": "Senate",
+   "text": "Cook moves two Senate races toward Democrats. Nebraska shifts to Lean R and Florida to Likely R.",
+   "text_fr": "Cook déplace deux courses au Sénat vers les démocrates. Le Nebraska passe Penche R et la Floride Probable R.",
+   "source": "The Cook Political Report",
+   "url": "https://thecookpoliticalreport.substack.com/p/two-senate-and-a-dozen-house-moves"
+  },
+  {
+   "id": "n20261101-2",
+   "date": "2026-10-31",
+   "code": "US",
+   "chamber": "Senate",
+   "text": "Inside Elections publishes its final ratings. Ohio and Texas move to Tilt D. Iowa and Kansas become Toss-ups. 63 of 64 changes favor Democrats.",
+   "text_fr": "Inside Elections publie ses classements finaux. L'Ohio et le Texas passent Penche légèrement D. L'Iowa et le Kansas deviennent Indécis. 63 des 64 changements favorisent les démocrates.",
+   "source": "Roll Call",
+   "url": "https://rollcall.com/2026/10/31/midterm-elections-race-rating-changes/"
+  },
+  {
+   "id": "n20261101-3",
+   "date": "2026-10-29",
+   "code": "US",
+   "chamber": "Governor",
+   "text": "Cook moves Wisconsin governor to Lean D and Arizona to Likely D in its final governor ratings.",
+   "text_fr": "Cook classe le poste de gouverneur du Wisconsin Penche D et celui de l'Arizona Probable D dans ses classements finaux.",
+   "source": "Newsweek",
+   "url": "https://www.newsweek.com/forecast-shifts-14-races-towards-democrats-in-final-days-before-midterms-12640820"
+  },
+  {
+   "id": "n20261101-4",
+   "date": "2026-10-31",
+   "code": "NE",
+   "chamber": "Senate",
+   "text": "A Times/Siena poll shows Ricketts ahead of independent Dan Osborn, 49 to 43.",
+   "text_fr": "Un sondage Times/Siena donne Ricketts devant l'indépendant Dan Osborn, 49 contre 43.",
+   "source": "Political Wire",
+   "url": "https://politicalwire.com/2026/10/31/ricketts-leads-osborn-in-nebraska-senate-race-2/"
+  },
+  {
+   "id": "n20261101-5",
+   "date": "2026-10-30",
+   "code": "US",
+   "chamber": "House",
+   "text": "About 44.8 million Americans have already voted, according to the University of Florida Election Lab. Trump will hold rallies in Iowa and Kansas on Sunday.",
+   "text_fr": "Environ 44,8 millions d'Américains ont déjà voté, selon l'Election Lab de l'université de Floride. Trump tiendra des meetings dans l'Iowa et le Kansas dimanche.",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/"
+  },
+  {
+   "id": "n20261101-6",
+   "date": "2026-10-29",
+   "code": "TX",
+   "chamber": "Senate",
+   "text": "A Texas Southern University poll of 2,000 likely voters shows Talarico ahead of Paxton, 49 to 47.",
+   "text_fr": "Un sondage de la Texas Southern University auprès de 2 000 électeurs probables donne Talarico devant Paxton, 49 contre 47.",
+   "source": "Yahoo News",
+   "url": "https://www.yahoo.com/news/politics/articles/texas-senate-poll-shows-challenge-170037506.html"
+  },
+  {
+   "id": "n20261101-7",
+   "date": "2026-10-30",
+   "code": "MI",
+   "chamber": "Senate",
+   "text": "El-Sayed's campaign asked former rival Haley Stevens to stay away from his events. The feud casts doubt on a joint Detroit event on Sunday.",
+   "text_fr": "La campagne d'El-Sayed a demandé à son ancienne rivale Haley Stevens de rester à l'écart de ses événements. Cette querelle jette le doute sur un événement commun prévu dimanche à Detroit.",
+   "source": "Fox News",
+   "url": "https://www.foxnews.com/live-news/3-days-to-go-candidates-fan-out-across-battlegrounds-as-midterms-hit-final-weekend-october-31"
+  },
+  {
+   "id": "n20261101-8",
+   "date": "2026-11-01",
+   "code": "US",
+   "chamber": "Senate",
+   "text": "Kalshi traders give Democrats a 72% chance to win the Senate and 94% for the House.",
+   "text_fr": "Les parieurs de Kalshi donnent aux démocrates 72 % de chances de gagner le Sénat et 94 % pour la Chambre.",
+   "source": "Kalshi",
+   "url": "https://kalshi.com/markets/controls/senate-winner/controls-2026"
+  },
   {
    "id": "n20261031-1",
    "date": "2026-10-30",
@@ -2686,86 +2790,6 @@
    "source": "Fox News",
    "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-el-sayed-california-alaska-october-26",
    "text_fr": "Plus de 27 millions d'Américains avaient voté par anticipation lundi matin. Le Texas arrive en tête avec plus de 4,3 millions de bulletins."
-  },
-  {
-   "id": "n01",
-   "date": "2026-10-25",
-   "code": "MI",
-   "chamber": "Senate",
-   "text": "Trump rallied in Port Huron for Mike Rogers. Obama campaigned in the state for Democrats.",
-   "source": "Fox News",
-   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-obama-michigan-alaska-october-25",
-   "text_fr": "Trump a tenu un meeting à Port Huron pour Mike Rogers. Obama a fait campagne dans l'État pour les démocrates."
-  },
-  {
-   "id": "n02",
-   "date": "2026-10-25",
-   "code": "MI",
-   "chamber": "Senate",
-   "text": "Trump attacked El-Sayed over his faith and name. El-Sayed hit back.",
-   "source": "CNN",
-   "url": "https://www.cnn.com/2026/10/25/politics/live-news/midterm-election-congress",
-   "text_fr": "Trump a attaqué El-Sayed sur sa religion et son nom. El-Sayed a répliqué."
-  },
-  {
-   "id": "n03",
-   "date": "2026-10-25",
-   "code": "AK",
-   "chamber": "Senate",
-   "text": "The Justice Department went to court over the two candidates named Dan Sullivan and wants certification blocked if the incumbent loses.",
-   "source": "NBC Meet the Press",
-   "url": "https://www.nbcnews.com/meet-the-press/transcripts/meet-press-october-25-2026-rcna605531",
-   "text_fr": "Le ministère de la Justice a saisi la justice au sujet des deux candidats nommés Dan Sullivan et veut bloquer la certification si le sortant perd."
-  },
-  {
-   "id": "n04",
-   "date": "2026-10-25",
-   "code": "ME",
-   "chamber": "Senate",
-   "text": "Trafalgar poll: Jackson 47, Collins 47. Fox News had it 49-49 on Oct. 23.",
-   "source": "RealClearPolling",
-   "url": "https://www.realclearpolling.com/latest-polls/senate",
-   "text_fr": "Sondage Trafalgar : Jackson 47, Collins 47. Fox News donnait 49-49 le 23 octobre."
-  },
-  {
-   "id": "n05",
-   "date": "2026-10-25",
-   "code": "IA",
-   "chamber": "Senate",
-   "text": "Turek says tariffs and the Iran war hit Iowa hardest. Hinson distanced herself from Trump on Russia and Iran.",
-   "source": "CNN",
-   "url": "https://www.cnn.com/2026/10/25/politics/live-news/midterm-election-congress",
-   "text_fr": "Turek affirme que les droits de douane et la guerre en Iran frappent l'Iowa plus que tout autre État. Hinson a pris ses distances avec Trump sur la Russie et l'Iran."
-  },
-  {
-   "id": "n06",
-   "date": "2026-10-25",
-   "code": "TX",
-   "chamber": "Senate",
-   "text": "Another member of the Bush family endorsed Talarico over Paxton.",
-   "source": "Fox News",
-   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-obama-michigan-alaska-october-25",
-   "text_fr": "Un autre membre de la famille Bush a soutenu Talarico contre Paxton."
-  },
-  {
-   "id": "n07",
-   "date": "2026-10-24",
-   "code": "TX",
-   "chamber": "Senate",
-   "text": "Rasmussen poll: Talarico 45, Paxton 45.",
-   "source": "RealClearPolling",
-   "url": "https://www.realclearpolling.com/latest-polls/senate",
-   "text_fr": "Sondage Rasmussen : Talarico 45, Paxton 45."
-  },
-  {
-   "id": "n08",
-   "date": "2026-10-23",
-   "code": "OH",
-   "chamber": "Governor",
-   "text": "Cook moved the race from Toss-up to Lean D after Ramaswamy's ad featuring Acton's mother.",
-   "source": "The Hill",
-   "url": "https://thehill.com/homenews/campaign/6169489-cook-political-report-shifts-ohio/",
-   "text_fr": "Cook a fait passer la course d'Indécis à Penche D après la publicité de Ramaswamy sur la mère d'Acton."
   }
  ],
  "forecasts": [
@@ -2782,9 +2806,9 @@
    "id": "kalshi-house",
    "forecaster": "Kalshi",
    "chamber": "House",
-   "dem_prob": 0.92,
+   "dem_prob": 0.94,
    "dem_seats": null,
-   "date": "2026-10-30",
+   "date": "2026-11-01",
    "url": "https://kalshi.com/category/elections/midterms"
   },
   {
@@ -2809,9 +2833,9 @@
    "id": "kalshi-senate",
    "forecaster": "Kalshi",
    "chamber": "Senate",
-   "dem_prob": 0.69,
+   "dem_prob": 0.72,
    "dem_seats": null,
-   "date": "2026-10-30",
+   "date": "2026-11-01",
    "url": "https://kalshi.com/markets/controls/senate-winner/controls-2026"
   },
   {
@@ -3963,7 +3987,7 @@
     "Michigan: Democrats defend an open seat, Toss-up.",
     "Iowa and Kansas: Republican seats rated Toss-up.",
     "Nebraska: independent Dan Osborn against Ricketts.",
-    "Wisconsin governor, Toss-up.",
+    "Wisconsin governor, Lean D.",
     "House: New York 17, Michigan 4, 7 and 10, Iowa 2, Texas 15 and 35."
    ],
    "watch_fr": [
@@ -3971,7 +3995,7 @@
     "Michigan : les démocrates défendent un siège ouvert, Indécis.",
     "Iowa et Kansas : sièges républicains classés Indécis.",
     "Nebraska : l'indépendant Dan Osborn contre Ricketts.",
-    "Gouverneur du Wisconsin, Indécis.",
+    "Gouverneur du Wisconsin, Penche D.",
     "Chambre : New York 17, Michigan 4, 7 et 10, Iowa 2, Texas 15 et 35."
    ],
    "signal": "The decisive hour for the Senate. Texas reports early votes first, so the first leads can shift. Michigan and Wisconsin count absentee ballots late into the night.",
