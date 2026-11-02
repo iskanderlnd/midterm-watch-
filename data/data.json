@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T07:00:00Z",
+ "updated": "2026-11-02T06:33:00Z",
  "election_date": "2026-11-03",
  "not_up": {
   "Senate": {
@@ -56,7 +56,7 @@
    "poll_date": "2026-10-30",
    "change": "Sabato: Toss-up → Lean D",
    "change_date": "2026-10-06",
-   "note": "Governor Dunleavy ordered a state probe into a second candidate named Dan Sullivan. Peltola denies any role.",
+   "note": "A federal judge dismissed a Justice Department bid to delay certification over a second candidate named Dan Sullivan. The department could appeal.",
    "polls": [
     {
      "date": "2026-10-15",
@@ -84,7 +84,7 @@
      "rating": "Toss-up"
     }
    ],
-   "note_fr": "Le gouverneur Dunleavy a ouvert une enquête sur un second candidat nommé Dan Sullivan. Peltola nie tout rôle."
+   "note_fr": "Une juge fédérale a rejeté la demande du ministère de la Justice de retarder la certification à cause d'un second candidat nommé Dan Sullivan. Le ministère peut faire appel."
   },
   {
    "id": "S-AR",
@@ -308,8 +308,8 @@
    "dem": "Josh Turek",
    "rep": "Ashley Hinson",
    "other": "",
-   "poll": "Hinson 47, Turek 45 (InsiderAdvantage)",
-   "poll_date": "2026-10-22",
+   "poll": "Turek 50, Hinson 49 (YouGov)",
+   "poll_date": "2026-11-01",
    "change": "",
    "change_date": "",
    "note": "Open seat after Joni Ernst's retirement. Marist has Turek up 3.",
@@ -349,6 +349,12 @@
      "pollster": "InsiderAdvantage",
      "dem": 45,
      "rep": 47
+    },
+    {
+     "date": "2026-11-01",
+     "pollster": "YouGov",
+     "dem": 50,
+     "rep": 49
     }
    ],
    "result": null,
@@ -370,8 +376,8 @@
    "dem": "Adam Hamilton",
    "rep": "Roger Marshall (inc.)",
    "other": "",
-   "poll": "Hamilton 49, Marshall 45 (Emerson)",
-   "poll_date": "2026-10-28",
+   "poll": "Hamilton 50, Marshall 49 (YouGov)",
+   "poll_date": "2026-11-01",
    "change": "Cook: Lean R → Toss-up",
    "change_date": "2026-10-06",
    "note": "Emerson and Washington Post polls both show Hamilton ahead. Kansas has not elected a Democratic senator since 1932.",
@@ -405,6 +411,12 @@
      "pollster": "CNN/SSRS",
      "dem": 49,
      "rep": 45
+    },
+    {
+     "date": "2026-11-01",
+     "pollster": "YouGov",
+     "dem": 50,
+     "rep": 49
     }
    ],
    "result": null,
@@ -479,8 +491,8 @@
    "dem": "Troy Jackson",
    "rep": "Susan Collins (inc.)",
    "other": "",
-   "poll": "Jackson 49, Collins 45 (CNN/SSRS)",
-   "poll_date": "2026-10-29",
+   "poll": "Jackson 52, Collins 47 (YouGov)",
+   "poll_date": "2026-11-01",
    "change": "",
    "change_date": "",
    "note": "A CNN poll released Oct. 29 gives Jackson a 4-point lead. Recent polls range from a tie to a 4-point Jackson edge.",
@@ -520,6 +532,12 @@
      "pollster": "CNN/SSRS",
      "dem": 49,
      "rep": 45
+    },
+    {
+     "date": "2026-11-01",
+     "pollster": "YouGov",
+     "dem": 52,
+     "rep": 47
     }
    ],
    "result": null,
@@ -565,11 +583,11 @@
    "dem": "Abdul El-Sayed",
    "rep": "Mike Rogers",
    "other": "",
-   "poll": "El-Sayed 49, Rogers 42 (CNN/SSRS)",
-   "poll_date": "2026-10-29",
+   "poll": "El-Sayed 51, Rogers 47 (YouGov)",
+   "poll_date": "2026-11-01",
    "change": "",
    "change_date": "",
-   "note": "Open seat after Gary Peters' retirement. Trump and Obama both rallied here on Oct. 25.",
+   "note": "Haley Stevens, who lost the Democratic primary, endorsed Republican Mike Rogers on Nov. 1. Her congressional staff resigned in protest.",
    "polls": [
     {
      "date": "2026-10-16",
@@ -612,6 +630,12 @@
      "pollster": "CNN/SSRS",
      "dem": 49,
      "rep": 42
+    },
+    {
+     "date": "2026-11-01",
+     "pollster": "YouGov",
+     "dem": 51,
+     "rep": 47
     }
    ],
    "result": null,
@@ -621,7 +645,7 @@
      "rating": "Toss-up"
     }
    ],
-   "note_fr": "Siège ouvert après le départ de Gary Peters. Trump et Obama y ont fait campagne le 25 octobre."
+   "note_fr": "Haley Stevens, battue à la primaire démocrate, a soutenu le républicain Mike Rogers le 1er novembre. Son équipe parlementaire a démissionné en signe de protestation."
   },
   {
    "id": "S-MN",
@@ -741,11 +765,11 @@
    "dem": "",
    "rep": "Pete Ricketts (inc.)",
    "other": "Dan Osborn (Ind.)",
-   "poll": "Ricketts 49, Osborn 43 (NYT/Siena)",
-   "poll_date": "2026-10-31",
+   "poll": "Ricketts 49, Osborn 49 (YouGov)",
+   "poll_date": "2026-11-01",
    "change": "Cook: Likely R → Lean R",
    "change_date": "2026-10-30",
-   "note": "Cook moved the race to Lean R on Oct. 30. The final Times/Siena poll still has Ricketts up 6.",
+   "note": "Cook moved the race to Lean R on Oct. 30. A YouGov poll released Nov. 1 shows a 49 to 49 tie.",
    "polls": [
     {
      "date": "2026-10-06",
@@ -757,6 +781,12 @@
      "date": "2026-10-31",
      "pollster": "NYT/Siena (Osborn vs. Ricketts)",
      "dem": 43,
+     "rep": 49
+    },
+    {
+     "date": "2026-11-01",
+     "pollster": "YouGov (Osborn vs. Ricketts)",
+     "dem": 49,
      "rep": 49
     }
    ],
@@ -771,7 +801,7 @@
      "rating": "Lean R"
     }
    ],
-   "note_fr": "Cook a classé la course Penche R le 30 octobre. Le dernier sondage Times/Siena donne toujours Ricketts 6 points devant."
+   "note_fr": "Cook a classé la course Penche R le 30 octobre. Un sondage YouGov publié le 1er novembre montre une égalité à 49 contre 49."
   },
   {
    "id": "S-NH",
@@ -879,8 +909,8 @@
    "dem": "Roy Cooper",
    "rep": "Michael Whatley",
    "other": "",
-   "poll": "Cooper 54, Whatley 40 (High Point)",
-   "poll_date": "2026-10-28",
+   "poll": "Cooper 55, Whatley 44 (YouGov)",
+   "poll_date": "2026-11-01",
    "change": "Cook: Lean D → Likely D",
    "change_date": "2026-10-06",
    "note": "Open seat after Thom Tillis' retirement.",
@@ -920,6 +950,12 @@
      "pollster": "High Point",
      "dem": 54,
      "rep": 40
+    },
+    {
+     "date": "2026-11-01",
+     "pollster": "YouGov",
+     "dem": 55,
+     "rep": 44
     }
    ],
    "result": null,
@@ -945,8 +981,8 @@
    "dem": "Sherrod Brown",
    "rep": "Jon Husted (inc.)",
    "other": "",
-   "poll": "Brown 47, Husted 44 (Suffolk)",
-   "poll_date": "2026-10-28",
+   "poll": "Brown 50, Husted 48 (YouGov)",
+   "poll_date": "2026-11-01",
    "change": "",
    "change_date": "",
    "note": "Inside Elections moved the race to Tilt D on Oct. 31. Trump held his third Ohio rally of the month on Oct. 28.",
@@ -992,6 +1028,12 @@
      "pollster": "Suffolk",
      "dem": 47,
      "rep": 44
+    },
+    {
+     "date": "2026-11-01",
+     "pollster": "YouGov",
+     "dem": 50,
+     "rep": 48
     }
    ],
    "result": null,
@@ -1195,18 +1237,12 @@
    "dem": "James Talarico",
    "rep": "Ken Paxton",
    "other": "",
-   "poll": "Paxton 49, Talarico 48 (Quantus Insights)",
-   "poll_date": "2026-10-28",
+   "poll": "Talarico 51, Paxton 47 (YouGov)",
+   "poll_date": "2026-11-01",
    "change": "Inside Elections: Tilt R → Toss-up",
    "change_date": "2026-10-23",
-   "note": "Open seat and the most expensive race of the cycle. Inside Elections moved it to Tilt D on Oct. 31. Polls show a near tie.",
+   "note": "A YouGov poll released Nov. 1 shows Talarico up 4 points. Other recent polls show a closer race.",
    "polls": [
-    {
-     "date": "2026-10-21",
-     "pollster": "Cook Political Report",
-     "dem": 49,
-     "rep": 44
-    },
     {
      "date": "2026-10-22",
      "pollster": "Fox News",
@@ -1248,6 +1284,12 @@
      "pollster": "CNN/SSRS",
      "dem": 49,
      "rep": 43
+    },
+    {
+     "date": "2026-11-01",
+     "pollster": "YouGov",
+     "dem": 51,
+     "rep": 47
     }
    ],
    "result": null,
@@ -1257,7 +1299,7 @@
      "rating": "Toss-up"
     }
    ],
-   "note_fr": "Siège ouvert et course la plus chère du cycle. Inside Elections l'a classé Penche légèrement D le 31 octobre. Les sondages montrent une quasi-égalité."
+   "note_fr": "Un sondage YouGov publié le 1er novembre donne Talarico 4 points devant. D'autres sondages récents montrent une course plus serrée."
   },
   {
    "id": "S-VA",
@@ -1670,12 +1712,19 @@
    "dem": "",
    "rep": "",
    "other": "",
-   "poll": "",
-   "poll_date": "",
+   "poll": "Sand 53, Lahn 46 (YouGov)",
+   "poll_date": "2026-11-01",
    "change": "",
    "change_date": "",
    "note": "Open seat",
-   "polls": [],
+   "polls": [
+    {
+     "date": "2026-11-01",
+     "pollster": "YouGov",
+     "dem": 53,
+     "rep": 46
+    }
+   ],
    "result": null,
    "history": [
     {
@@ -1731,8 +1780,8 @@
    "dem": "",
    "rep": "",
    "other": "",
-   "poll": "Pingree 44, Charles 44 (Marist)",
-   "poll_date": "2026-10-27",
+   "poll": "Pingree 53, Charles 45 (YouGov)",
+   "poll_date": "2026-11-01",
    "change": "",
    "change_date": "",
    "note": "Open seat. A Marist poll released Oct. 27 shows a 44-44 tie. Independent Rick Bennett gets 6%.",
@@ -1748,6 +1797,12 @@
      "pollster": "Marist",
      "dem": 44,
      "rep": 44
+    },
+    {
+     "date": "2026-11-01",
+     "pollster": "YouGov",
+     "dem": 53,
+     "rep": 45
     }
    ],
    "result": null,
@@ -1817,8 +1872,8 @@
    "dem": "Jocelyn Benson",
    "rep": "John James",
    "other": "",
-   "poll": "Benson 53, James 41 (Michigan State/YouGov)",
-   "poll_date": "2026-10-26",
+   "poll": "Benson 52, James 46 (YouGov)",
+   "poll_date": "2026-11-01",
    "change": "",
    "change_date": "",
    "note": "Open seat. Gretchen Whitmer is term-limited.",
@@ -1828,6 +1883,12 @@
      "pollster": "Michigan State/YouGov",
      "dem": 53,
      "rep": 41
+    },
+    {
+     "date": "2026-11-01",
+     "pollster": "YouGov",
+     "dem": 52,
+     "rep": 46
     }
    ],
    "result": null,
@@ -2032,8 +2093,8 @@
    "dem": "Amy Acton",
    "rep": "Vivek Ramaswamy",
    "other": "",
-   "poll": "Acton 48, Ramaswamy 44 (Suffolk)",
-   "poll_date": "2026-10-28",
+   "poll": "Acton 52, Ramaswamy 46 (YouGov)",
+   "poll_date": "2026-11-01",
    "change": "Cook: Toss-up → Lean D",
    "change_date": "2026-10-23",
    "note": "Ramaswamy pulled his ad featuring Acton's estranged mother. Ad data show far less spending than his campaign announced.",
@@ -2043,6 +2104,12 @@
      "pollster": "Suffolk",
      "dem": 48,
      "rep": 44
+    },
+    {
+     "date": "2026-11-01",
+     "pollster": "YouGov",
+     "dem": 52,
+     "rep": 46
     }
    ],
    "result": null,
@@ -2263,8 +2330,8 @@
    "dem": "Gina Hinojosa",
    "rep": "Greg Abbott (inc.)",
    "other": "",
-   "poll": "Abbott 48, Hinojosa 46 (Univision/YouGov)",
-   "poll_date": "2026-10-27",
+   "poll": "Abbott 50, Hinojosa 49 (YouGov)",
+   "poll_date": "2026-11-01",
    "change": "Cook: Likely R → Lean R",
    "change_date": "2026-10-01",
    "note": "",
@@ -2280,6 +2347,12 @@
      "pollster": "Univision/YouGov",
      "dem": 46,
      "rep": 48
+    },
+    {
+     "date": "2026-11-01",
+     "pollster": "YouGov",
+     "dem": 49,
+     "rep": 50
     }
    ],
    "result": null,
@@ -2391,6 +2464,66 @@
   }
  ],
  "news": [
+  {
+   "id": "n20261102-1",
+   "date": "2026-11-01",
+   "code": "MI",
+   "chamber": "Senate",
+   "text": "Democrat Haley Stevens endorsed Republican Mike Rogers over Abdul El-Sayed, who beat her in the primary. Her congressional staff then resigned.",
+   "text_fr": "La démocrate Haley Stevens a soutenu le républicain Mike Rogers contre Abdul El-Sayed, qui l'avait battue à la primaire. Son équipe parlementaire a ensuite démissionné.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html"
+  },
+  {
+   "id": "n20261102-2",
+   "date": "2026-11-01",
+   "code": "US",
+   "chamber": "Senate",
+   "text": "A YouGov series of final polls shows Democrats ahead in Texas, Maine, Michigan, Ohio, Iowa and Kansas. Nebraska is tied at 49.",
+   "text_fr": "Une série de derniers sondages YouGov place les démocrates en tête au Texas, dans le Maine, le Michigan, l'Ohio, l'Iowa et le Kansas. Le Nebraska est à égalité à 49.",
+   "source": "Political Wire",
+   "url": "https://politicalwire.com/2026/11/01/dead-heat-for-senate-in-nebraska/"
+  },
+  {
+   "id": "n20261102-3",
+   "date": "2026-11-01",
+   "code": "AK",
+   "chamber": "Senate",
+   "text": "Judge Sharon Gleason dismissed a Justice Department suit to delay certification if Sen. Dan Sullivan loses. She said the request was not feasible.",
+   "text_fr": "La juge Sharon Gleason a rejeté une plainte du ministère de la Justice visant à retarder la certification si le sénateur Dan Sullivan perd. Elle a jugé la demande irréalisable.",
+   "source": "Roll Call",
+   "url": "https://rollcall.com/2026/11/01/alaska-senate-vote-certification-dan-sullivan/"
+  },
+  {
+   "id": "n20261102-4",
+   "date": "2026-11-01",
+   "code": "TX",
+   "chamber": "Governor",
+   "text": "YouGov finds Abbott ahead of Hinojosa by just one point, 50 to 49. The same poll shows Talarico leading Paxton, 51 to 47.",
+   "text_fr": "YouGov donne Abbott devant Hinojosa d'un seul point, 50 contre 49. Le même sondage place Talarico devant Paxton, 51 contre 47.",
+   "source": "Yahoo News",
+   "url": "https://www.yahoo.com/news/politics/articles/texas-poll-shows-talarico-leading-212759395.html"
+  },
+  {
+   "id": "n20261102-5",
+   "date": "2026-11-02",
+   "code": "US",
+   "chamber": "House",
+   "text": "The Decision Desk HQ model now gives Democrats an 84% chance in the House and 64% in the Senate. It puts a Democratic sweep at 62%.",
+   "text_fr": "Le modèle de Decision Desk HQ donne désormais aux démocrates 84 % de chances à la Chambre et 64 % au Sénat. Il estime un doublé démocrate à 62 %.",
+   "source": "Decision Desk HQ",
+   "url": "https://votes.decisiondeskhq.com/forecast/2026"
+  },
+  {
+   "id": "n20261102-6",
+   "date": "2026-11-01",
+   "code": "US",
+   "chamber": "Senate",
+   "text": "Kalshi traders give Democrats a 71% chance in the Senate and 93% in the House. A Democratic sweep stands at a record 70%.",
+   "text_fr": "Les parieurs de Kalshi donnent aux démocrates 71 % de chances au Sénat et 93 % à la Chambre. Un doublé démocrate atteint un record de 70 %.",
+   "source": "Kalshi News",
+   "url": "https://news.kalshi.com/p/democrats-odds-of-sweeping-congress-jump-to-record-70"
+  },
   {
    "id": "n20261101-1",
    "date": "2026-10-30",
@@ -2730,66 +2863,6 @@
    "source": "Fox News",
    "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-texas-comey-october-27",
    "text_fr": "Trump a tenu des meetings pour Ken Paxton à Corpus Christi et Lubbock. Plus de 30 millions d'Américains ont déjà voté."
-  },
-  {
-   "id": "n20261027-1",
-   "date": "2026-10-26",
-   "code": "MS",
-   "chamber": "Senate",
-   "text": "Trump rallied in Corinth for Sen. Cindy Hyde-Smith. Democrat Scott Colom is pressing her in a deep-red state.",
-   "source": "Fox News",
-   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-el-sayed-california-alaska-october-26",
-   "text_fr": "Trump a tenu un meeting à Corinth pour la sénatrice Cindy Hyde-Smith. Le démocrate Scott Colom la met sous pression dans un État très républicain."
-  },
-  {
-   "id": "n20261027-2",
-   "date": "2026-10-26",
-   "code": "SC",
-   "chamber": "Senate",
-   "text": "A Targoz poll for the SC Policy Council puts Graham at 47 and Andrews at 46. Two former governors endorsed Andrews.",
-   "source": "Fox Carolina",
-   "url": "https://www.foxcarolina.com/2026/10/26/new-poll-shows-neck-and-neck-senate-race-double-digit-lead-governor-sc-midterms/",
-   "text_fr": "Un sondage Targoz pour le SC Policy Council donne Graham à 47 et Andrews à 46. Deux anciens gouverneurs soutiennent Andrews."
-  },
-  {
-   "id": "n20261027-3",
-   "date": "2026-10-26",
-   "code": "MI",
-   "chamber": "Senate",
-   "text": "A Michigan State/YouGov poll shows El-Sayed up 2 on Rogers. Benson leads James by 12 for governor.",
-   "source": "RealClearPolling",
-   "url": "https://www.realclearpolling.com/latest-polls",
-   "text_fr": "Un sondage Michigan State/YouGov donne El-Sayed devant Rogers de 2 points. Pour le poste de gouverneur, Benson devance James de 12 points."
-  },
-  {
-   "id": "n20261027-4",
-   "date": "2026-10-26",
-   "code": "NC",
-   "chamber": "Senate",
-   "text": "Quantus Insights finds Cooper ahead of Whatley by 8 points.",
-   "source": "RealClearPolling",
-   "url": "https://www.realclearpolling.com/latest-polls",
-   "text_fr": "Quantus Insights place Cooper devant Whatley de 8 points."
-  },
-  {
-   "id": "n20261027-5",
-   "date": "2026-10-26",
-   "code": "OH",
-   "chamber": "Senate",
-   "text": "John Legend rallied in Dayton for Sherrod Brown and Amy Acton. Ramaswamy kept up his attacks on Acton.",
-   "source": "Fox News",
-   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-el-sayed-california-alaska-october-26",
-   "text_fr": "John Legend a fait campagne à Dayton pour Sherrod Brown et Amy Acton. Ramaswamy a poursuivi ses attaques contre Acton."
-  },
-  {
-   "id": "n20261027-6",
-   "date": "2026-10-26",
-   "code": "US",
-   "chamber": "House",
-   "text": "More than 27 million Americans had voted early by Monday morning. Texas led with over 4.3 million ballots.",
-   "source": "Fox News",
-   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-el-sayed-california-alaska-october-26",
-   "text_fr": "Plus de 27 millions d'Américains avaient voté par anticipation lundi matin. Le Texas arrive en tête avec plus de 4,3 millions de bulletins."
   }
  ],
  "forecasts": [
@@ -2797,16 +2870,16 @@
    "id": "ddhq-house",
    "forecaster": "Decision Desk HQ",
    "chamber": "House",
-   "dem_prob": 0.82,
-   "dem_seats": 239,
-   "date": "2026-10-30",
+   "dem_prob": 0.84,
+   "dem_seats": 241,
+   "date": "2026-11-02",
    "url": "https://votes.decisiondeskhq.com/forecast/2026"
   },
   {
    "id": "kalshi-house",
    "forecaster": "Kalshi",
    "chamber": "House",
-   "dem_prob": 0.94,
+   "dem_prob": 0.93,
    "dem_seats": null,
    "date": "2026-11-01",
    "url": "https://kalshi.com/category/elections/midterms"
@@ -2824,16 +2897,16 @@
    "id": "ddhq-senate",
    "forecaster": "Decision Desk HQ",
    "chamber": "Senate",
-   "dem_prob": 0.62,
+   "dem_prob": 0.64,
    "dem_seats": 52,
-   "date": "2026-10-30",
+   "date": "2026-11-02",
    "url": "https://votes.decisiondeskhq.com/forecast/2026"
   },
   {
    "id": "kalshi-senate",
    "forecaster": "Kalshi",
    "chamber": "Senate",
-   "dem_prob": 0.72,
+   "dem_prob": 0.71,
    "dem_seats": null,
    "date": "2026-11-01",
    "url": "https://kalshi.com/markets/controls/senate-winner/controls-2026"
@@ -3151,7 +3224,7 @@
   "scenarios": [
    {
     "name": "Democrats win both chambers",
-    "label": "About 60% in DDHQ",
+    "label": "About 62% in DDHQ",
     "text": "Democrats can block nominees and treaties and attach conditions to spending bills, including on tariffs and Ukraine. Laws still need the president's signature."
    },
    {
@@ -3161,7 +3234,7 @@
    },
    {
     "name": "Republicans keep both chambers",
-    "label": "About 7 to 17%",
+    "label": "About 6 to 15%",
     "text": "Unified government continues. The administration keeps a clear path for nominations and its legislative agenda through 2028."
    }
   ],
@@ -3175,7 +3248,7 @@
     "url": "https://www.ubs.com/us/en/wealth-management/insights/article.3745319.html"
    }
   ],
-  "scenario_note": "Combined-outcome odds from Decision Desk HQ, Oct. 30. Prediction markets put a Republican sweep near 7%.",
+  "scenario_note": "Combined-outcome odds from Decision Desk HQ, Nov. 2. Prediction markets put a Democratic sweep near 70% and a Republican sweep near 6%.",
   "fr": {
    "intro": "Les élections de mi-mandat décident qui contrôle le Congrès pendant les deux dernières années du mandat de Donald Trump. Le Congrès ne dirige pas la politique étrangère, mais il vote le budget, confirme les nominations, ratifie les traités et enquête sur l'exécutif. Les analystes divergent sur l'effet d'un changement de majorité sur la politique envers l'Europe.",
    "levers": [
@@ -3199,7 +3272,7 @@
    "scenarios": [
     {
      "name": "Les démocrates gagnent les deux chambres",
-     "label": "Environ 60 % selon DDHQ",
+     "label": "Environ 62 % selon DDHQ",
      "text": "Les démocrates peuvent bloquer nominations et traités et poser des conditions aux lois de dépenses, y compris sur les droits de douane et l'Ukraine. Les lois exigent toujours la signature du président."
     },
     {
@@ -3209,11 +3282,11 @@
     },
     {
      "name": "Les républicains gardent les deux chambres",
-     "label": "Environ 7 à 17 %",
+     "label": "Environ 6 à 15 %",
      "text": "Le gouvernement unifié continue. L'administration garde la voie libre pour ses nominations et son programme législatif jusqu'en 2028."
     }
    ],
-   "scenario_note": "Probabilités combinées de Decision Desk HQ au 30 octobre. Les marchés de paris placent un doublé républicain vers 7 %."
+   "scenario_note": "Probabilités combinées de Decision Desk HQ au 2 novembre. Les marchés de paris placent un doublé démocrate vers 70 % et un doublé républicain vers 6 %."
   }
  },
  "house_summary": {
