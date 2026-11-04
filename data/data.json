@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T06:09:34Z",
+ "updated": "2026-11-04T06:32:36Z",
  "election_date": "2026-11-03",
  "not_up": {
   "Senate": {
@@ -56,7 +56,7 @@
    "poll_date": "2026-11-01",
    "change": "Sabato: Toss-up → Lean D",
    "change_date": "2026-10-06",
-   "note": "A judge dismissed a Justice Department bid to delay certification over a second candidate named Dan Sullivan. The department has appealed.",
+   "note": "Peltola led Sullivan 54 to 43 with about 11% of precincts in. If no one tops 50%, a ranked-choice count follows on Nov. 18.",
    "polls": [
     {
      "date": "2026-10-15",
@@ -83,14 +83,20 @@
      "rep": 46
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": false,
+    "dem_pct": 54.1,
+    "rep_pct": 42.8,
+    "reporting": 11
+   },
    "history": [
     {
      "date": "2026-09-30",
      "rating": "Toss-up"
     }
    ],
-   "note_fr": "Une juge a rejeté une demande du ministère de la Justice visant à retarder la certification, liée à un second candidat nommé Dan Sullivan. Le ministère a fait appel."
+   "note_fr": "Peltola menait face à Sullivan 54 contre 43 avec environ 11 % des bureaux dépouillés. Si personne ne dépasse 50 %, un décompte par vote préférentiel aura lieu le 18 novembre."
   },
   {
    "id": "S-AR",
@@ -325,7 +331,13 @@
    "change_date": "",
    "note": "Open seat",
    "polls": [],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -869,7 +881,7 @@
    "poll_date": "2026-11-01",
    "change": "Cook: Likely R → Lean R",
    "change_date": "2026-10-30",
-   "note": "Cook moved the race to Lean R on Oct. 30. A YouGov poll released Nov. 1 shows a 49 to 49 tie.",
+   "note": "Ricketts led Osborn in a tight count. The race was not called.",
    "polls": [
     {
      "date": "2026-10-06",
@@ -890,7 +902,13 @@
      "rep": 49
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "R",
+    "called": false,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -901,7 +919,7 @@
      "rating": "Lean R"
     }
    ],
-   "note_fr": "Cook a classé la course Penche R le 30 octobre. Un sondage YouGov publié le 1er novembre montre une égalité à 49 contre 49."
+   "note_fr": "Ricketts devançait Osborn dans un dépouillement serré. La course n'est pas tranchée."
   },
   {
    "id": "S-NH",
@@ -1555,7 +1573,7 @@
    "poll_date": "2026-11-01",
    "change": "Cook: Toss-up → Lean D",
    "change_date": "2026-10-13",
-   "note": "Open seat. Ranked-choice voting. Sen. Lisa Murkowski endorsed Democrat Kreiss-Tomkins on Oct. 28.",
+   "note": "Kreiss-Tomkins led with 55% of first choices with about 11% of precincts in. Republican Bernadette Wilson had 28%.",
    "polls": [
     {
      "date": "2026-10-27",
@@ -1570,7 +1588,13 @@
      "rep": 46
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": false,
+    "dem_pct": 55,
+    "rep_pct": 28,
+    "reporting": 11
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -1581,7 +1605,7 @@
      "rating": "Lean D"
     }
    ],
-   "note_fr": "Siège ouvert. Vote préférentiel. La sénatrice Lisa Murkowski a soutenu le démocrate Kreiss-Tomkins le 28 octobre."
+   "note_fr": "Kreiss-Tomkins menait avec 55 % des premiers choix, environ 11 % des bureaux dépouillés. La républicaine Bernadette Wilson obtenait 28 %."
   },
   {
    "id": "G-AZ",
@@ -2178,9 +2202,15 @@
    "poll_date": "",
    "change": "Cook: Likely R → Lean R",
    "change_date": "2026-10-27",
-   "note": "Gov. Jim Pillen faces Democrat Lynne Walz. Cook moved the race to Lean R on Oct. 27.",
+   "note": "Gov. Jim Pillen took the lead over Lynne Walz as votes came in.",
    "polls": [],
-   "result": null,
+   "result": {
+    "winner": "R",
+    "called": false,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -2195,7 +2225,7 @@
      "rating": "Lean R"
     }
    ],
-   "note_fr": "Le gouverneur Jim Pillen affronte la démocrate Lynne Walz. Cook a classé la course Penche R le 27 octobre."
+   "note_fr": "Le gouverneur Jim Pillen a pris la tête face à Lynne Walz au fil du dépouillement."
   },
   {
    "id": "G-NV",
@@ -2425,15 +2455,22 @@
    "poll_date": "",
    "change": "",
    "change_date": "",
-   "note": "",
+   "note": "Gov. Tina Kotek declared victory. The race was not yet called.",
    "polls": [],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": false,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
      "rating": "Lean D"
     }
-   ]
+   ],
+   "note_fr": "La gouverneure Tina Kotek a revendiqué la victoire. La course n'est pas encore tranchée."
   },
   {
    "id": "G-PA",
@@ -2745,6 +2782,86 @@
   }
  ],
  "news": [
+  {
+   "id": "n20261104-1",
+   "date": "2026-11-04",
+   "code": "US",
+   "chamber": "House",
+   "text": "Democrats flipped several Republican House seats. Wins in New York, Pennsylvania, Arizona, Iowa and New Jersey helped secure the majority.",
+   "text_fr": "Les démocrates ont pris plusieurs sièges républicains à la Chambre. Des victoires à New York, en Pennsylvanie, en Arizona, en Iowa et dans le New Jersey ont assuré la majorité.",
+   "source": "Times Union",
+   "url": "https://www.timesunion.com/capitol/article/lawler-s-loss-contributes-democrats-taking-back-22506663.php"
+  },
+  {
+   "id": "n20261104-2",
+   "date": "2026-11-04",
+   "code": "NY",
+   "chamber": "House",
+   "text": "Mike Lawler conceded to Democrat Cait Conley in New York's 17th District. The seat flips to Democrats.",
+   "text_fr": "Mike Lawler a reconnu sa défaite face à la démocrate Cait Conley dans la 17e circonscription de New York. Le siège bascule chez les démocrates.",
+   "source": "The Hill",
+   "url": "https://thehill.com/homenews/campaign/6186171-lawley-concedes-new-york-house-race/"
+  },
+  {
+   "id": "n20261104-3",
+   "date": "2026-11-04",
+   "code": "PA",
+   "chamber": "House",
+   "text": "Democrats won four key Pennsylvania seats. Bob Harvie beat Brian Fitzpatrick and Janelle Stelson beat Scott Perry.",
+   "text_fr": "Les démocrates ont gagné quatre sièges clés en Pennsylvanie. Bob Harvie a battu Brian Fitzpatrick et Janelle Stelson a battu Scott Perry.",
+   "source": "WHYY",
+   "url": "https://whyy.org/articles/election-2026-pennsylvania-congress-winners/"
+  },
+  {
+   "id": "n20261104-4",
+   "date": "2026-11-04",
+   "code": "AK",
+   "chamber": "Senate",
+   "text": "Mary Peltola took an early lead over Sen. Dan Sullivan. A ranked-choice count on Nov. 18 decides the race if no one tops 50%.",
+   "text_fr": "Mary Peltola a pris une avance précoce sur le sénateur Dan Sullivan. Un décompte préférentiel le 18 novembre tranchera si personne ne dépasse 50 %.",
+   "source": "Alaska Public Media",
+   "url": "https://alaskapublic.org/news/politics/elections/2026-11-03/peltola-takes-early-lead-in-alaskas-u-s-senate-race"
+  },
+  {
+   "id": "n20261104-5",
+   "date": "2026-11-04",
+   "code": "MI",
+   "chamber": "Senate",
+   "text": "The Michigan Senate race between Abdul El-Sayed and Mike Rogers stayed too close to call early Wednesday.",
+   "text_fr": "La course au Sénat du Michigan entre Abdul El-Sayed et Mike Rogers restait trop serrée pour être tranchée mercredi matin.",
+   "source": "WWJ News Radio",
+   "url": "https://www.audacy.com/wwjnewsradio/news/local/michigan-senate-race-too-close-to-call"
+  },
+  {
+   "id": "n20261104-6",
+   "date": "2026-11-04",
+   "code": "NE",
+   "chamber": "Senate",
+   "text": "Sen. Pete Ricketts led independent Dan Osborn in a tight Nebraska count.",
+   "text_fr": "Le sénateur Pete Ricketts devançait l'indépendant Dan Osborn dans un dépouillement serré au Nebraska.",
+   "source": "Nebraska Public Media",
+   "url": "https://nebraskapublicmedia.org/en/news/news-articles/here-are-the-results-from-nebraskas-us-senate-race/"
+  },
+  {
+   "id": "n20261104-7",
+   "date": "2026-11-04",
+   "code": "IA",
+   "chamber": "House",
+   "text": "Democrat Christina Bohannan unseated Rep. Mariannette Miller-Meeks in Iowa's 1st District.",
+   "text_fr": "La démocrate Christina Bohannan a battu la représentante Mariannette Miller-Meeks dans la 1re circonscription de l'Iowa.",
+   "source": "The Hill",
+   "url": "https://thehill.com/homenews/campaign/6189867-bohannan-unseats-miller-meeks/"
+  },
+  {
+   "id": "n20261104-8",
+   "date": "2026-11-04",
+   "code": "OR",
+   "chamber": "Governor",
+   "text": "Gov. Tina Kotek declared victory in Oregon. The race was not yet called.",
+   "text_fr": "La gouverneure Tina Kotek a revendiqué la victoire en Oregon. La course n'est pas encore tranchée.",
+   "source": "KATU",
+   "url": "https://katu.com/news/politics/election-results-tina-kotek-christine-drazan-oregon-governor"
+  },
   {
    "id": "n2026110406-1",
    "date": "2026-11-04",
@@ -3064,186 +3181,6 @@
    "text_fr": "Inside Elections publie ses classements finaux. L'Ohio et le Texas passent Penche légèrement D. L'Iowa et le Kansas deviennent Indécis. 63 des 64 changements favorisent les démocrates.",
    "source": "Roll Call",
    "url": "https://rollcall.com/2026/10/31/midterm-elections-race-rating-changes/"
-  },
-  {
-   "id": "n20261101-3",
-   "date": "2026-10-29",
-   "code": "US",
-   "chamber": "Governor",
-   "text": "Cook moves Wisconsin governor to Lean D and Arizona to Likely D in its final governor ratings.",
-   "text_fr": "Cook classe le poste de gouverneur du Wisconsin Penche D et celui de l'Arizona Probable D dans ses classements finaux.",
-   "source": "Newsweek",
-   "url": "https://www.newsweek.com/forecast-shifts-14-races-towards-democrats-in-final-days-before-midterms-12640820"
-  },
-  {
-   "id": "n20261101-4",
-   "date": "2026-10-31",
-   "code": "NE",
-   "chamber": "Senate",
-   "text": "A Times/Siena poll shows Ricketts ahead of independent Dan Osborn, 49 to 43.",
-   "text_fr": "Un sondage Times/Siena donne Ricketts devant l'indépendant Dan Osborn, 49 contre 43.",
-   "source": "Political Wire",
-   "url": "https://politicalwire.com/2026/10/31/ricketts-leads-osborn-in-nebraska-senate-race-2/"
-  },
-  {
-   "id": "n20261101-5",
-   "date": "2026-10-30",
-   "code": "US",
-   "chamber": "House",
-   "text": "About 44.8 million Americans have already voted, according to the University of Florida Election Lab. Trump will hold rallies in Iowa and Kansas on Sunday.",
-   "text_fr": "Environ 44,8 millions d'Américains ont déjà voté, selon l'Election Lab de l'université de Floride. Trump tiendra des meetings dans l'Iowa et le Kansas dimanche.",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/"
-  },
-  {
-   "id": "n20261101-6",
-   "date": "2026-10-29",
-   "code": "TX",
-   "chamber": "Senate",
-   "text": "A Texas Southern University poll of 2,000 likely voters shows Talarico ahead of Paxton, 49 to 47.",
-   "text_fr": "Un sondage de la Texas Southern University auprès de 2 000 électeurs probables donne Talarico devant Paxton, 49 contre 47.",
-   "source": "Yahoo News",
-   "url": "https://www.yahoo.com/news/politics/articles/texas-senate-poll-shows-challenge-170037506.html"
-  },
-  {
-   "id": "n20261101-7",
-   "date": "2026-10-30",
-   "code": "MI",
-   "chamber": "Senate",
-   "text": "El-Sayed's campaign asked former rival Haley Stevens to stay away from his events. The feud casts doubt on a joint Detroit event on Sunday.",
-   "text_fr": "La campagne d'El-Sayed a demandé à son ancienne rivale Haley Stevens de rester à l'écart de ses événements. Cette querelle jette le doute sur un événement commun prévu dimanche à Detroit.",
-   "source": "Fox News",
-   "url": "https://www.foxnews.com/live-news/3-days-to-go-candidates-fan-out-across-battlegrounds-as-midterms-hit-final-weekend-october-31"
-  },
-  {
-   "id": "n20261101-8",
-   "date": "2026-11-01",
-   "code": "US",
-   "chamber": "Senate",
-   "text": "Kalshi traders give Democrats a 72% chance to win the Senate and 94% for the House.",
-   "text_fr": "Les parieurs de Kalshi donnent aux démocrates 72 % de chances de gagner le Sénat et 94 % pour la Chambre.",
-   "source": "Kalshi",
-   "url": "https://kalshi.com/markets/controls/senate-winner/controls-2026"
-  },
-  {
-   "id": "n20261031-1",
-   "date": "2026-10-30",
-   "code": "US",
-   "chamber": "House",
-   "text": "Cook moves 12 House races toward Democrats. Colorado 5, Pennsylvania 1 and South Carolina 1 become Toss-ups. Pennsylvania 8 and Ohio 9 move to Lean D.",
-   "text_fr": "Cook déplace 12 courses de la Chambre vers les démocrates. Colorado 5, Pennsylvanie 1 et Caroline du Sud 1 passent Indécis. Pennsylvanie 8 et Ohio 9 passent Penche D.",
-   "source": "Cook Political Report via Yahoo News",
-   "url": "https://www.yahoo.com/news/politics/articles/cook-political-report-shifts-12-131100855.html"
-  },
-  {
-   "id": "n20261031-2",
-   "date": "2026-10-30",
-   "code": "KS",
-   "chamber": "Senate",
-   "text": "Two new polls show Hamilton ahead of Marshall. Emerson has him up 4 points. The Washington Post and Schar School have him up 9.",
-   "text_fr": "Deux nouveaux sondages donnent Hamilton devant Marshall. Emerson lui accorde 4 points d'avance. Le Washington Post et la Schar School lui en donnent 9.",
-   "source": "Emerson College Polling",
-   "url": "https://emersoncollegepolling.com/october-2026-kansas-poll-hamilton-maintains-edge-over-marshall/"
-  },
-  {
-   "id": "n20261031-3",
-   "date": "2026-10-30",
-   "code": "US",
-   "chamber": "Senate",
-   "text": "The Decision Desk HQ model gives Democrats a 62% chance in the Senate and 82% in the House. It puts a Democratic sweep at 60%.",
-   "text_fr": "Le modèle de Decision Desk HQ donne aux démocrates 62 % de chances au Sénat et 82 % à la Chambre. Il estime un doublé démocrate à 60 %.",
-   "source": "Decision Desk HQ",
-   "url": "https://votes.decisiondeskhq.com/forecast/2026"
-  },
-  {
-   "id": "n20261031-4",
-   "date": "2026-10-30",
-   "code": "TX",
-   "chamber": "Senate",
-   "text": "A Quantus Insights poll shows Paxton ahead of Talarico by about one point. The gap is within the margin of error.",
-   "text_fr": "Un sondage Quantus Insights donne Paxton devant Talarico d'environ un point. L'écart reste dans la marge d'erreur.",
-   "source": "FOX 7 Austin",
-   "url": "https://www.fox7austin.com/news/paxton-slips-past-talarico-latest-poll-senate-race-enters-final-days"
-  },
-  {
-   "id": "n20261031-5",
-   "date": "2026-10-30",
-   "code": "NV",
-   "chamber": "Governor",
-   "text": "A Noble Predictive poll shows Lombardo and Ford tied at 47%. Democrats lead the other statewide races in the same survey.",
-   "text_fr": "Un sondage Noble Predictive montre Lombardo et Ford à égalité à 47 %. Les démocrates mènent les autres courses de l'État dans la même enquête.",
-   "source": "Noble Predictive Insights",
-   "url": "https://www.noblepredictiveinsights.com/post/nevada-poll-of-record-lombardo-ford-deadlocked-at-47"
-  },
-  {
-   "id": "n20261031-6",
-   "date": "2026-10-30",
-   "code": "AK",
-   "chamber": "Senate",
-   "text": "An Alaska Survey Research poll shows Peltola ahead 51 to 49. A state probe into a second candidate named Dan Sullivan continues.",
-   "text_fr": "Un sondage Alaska Survey Research donne Peltola en tête à 51 contre 49. Une enquête de l'État sur un second candidat nommé Dan Sullivan se poursuit.",
-   "source": "Political Wire",
-   "url": "https://politicalwire.com/2026/10/30/peltola-leads-sullivan-in-alaska-senate-race-3/"
-  },
-  {
-   "id": "n20261031-7",
-   "date": "2026-10-30",
-   "code": "KS",
-   "chamber": "Governor",
-   "text": "An Emerson poll shows Masterson ahead of Holscher, 50 to 46, in the open race for governor.",
-   "text_fr": "Un sondage Emerson donne Masterson devant Holscher, 50 contre 46, dans la course ouverte au poste de gouverneur.",
-   "source": "Emerson College Polling",
-   "url": "https://emersoncollegepolling.com/october-2026-kansas-poll-hamilton-maintains-edge-over-marshall/"
-  },
-  {
-   "id": "n20261031-8",
-   "date": "2026-10-30",
-   "code": "OH",
-   "chamber": "Governor",
-   "text": "Ramaswamy ended the ad featuring Acton's estranged mother. AdImpact data show about $1 million spent, not the $4 million announced.",
-   "text_fr": "Ramaswamy a arrêté la publicité montrant la mère d'Acton, avec qui elle est brouillée. Selon AdImpact, environ 1 million de dollars a été dépensé, et non les 4 millions annoncés.",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/"
-  },
-  {
-   "id": "n20261030-1",
-   "date": "2026-10-29",
-   "code": "US",
-   "chamber": "Senate",
-   "text": "New CNN polls show Democrats ahead in four GOP-targeted races. El-Sayed leads by 7 in Michigan and Talarico by 6 in Texas. Jackson and Hamilton lead by 4 in Maine and Kansas.",
-   "text_fr": "De nouveaux sondages CNN placent les démocrates en tête dans quatre courses clés. El-Sayed mène de 7 points au Michigan et Talarico de 6 au Texas. Jackson et Hamilton mènent de 4 points dans le Maine et au Kansas.",
-   "source": "CNN",
-   "url": "https://www.cnn.com/2026/10/29/politics/cnn-polls-michigan-maine-texas-kansas-senate-races-midterms-vis"
-  },
-  {
-   "id": "n20261030-2",
-   "date": "2026-10-29",
-   "code": "US",
-   "chamber": "Senate",
-   "text": "The Decision Desk HQ forecast now gives Democrats a 60% chance to win the Senate, with 52 seats projected. Their House odds stand at 80%.",
-   "text_fr": "Le modèle de Decision Desk HQ donne désormais 60 % de chances aux démocrates de gagner le Sénat, avec 52 sièges projetés. Leurs chances à la Chambre atteignent 80 %.",
-   "source": "Decision Desk HQ",
-   "url": "https://votes.decisiondeskhq.com/forecast/2026"
-  },
-  {
-   "id": "n20261030-3",
-   "date": "2026-10-29",
-   "code": "SC",
-   "chamber": "Senate",
-   "text": "Trump held a rally in Rock Hill to boost Sen. Graham. Recent polls show the race against Annie Andrews tightening.",
-   "text_fr": "Trump a tenu un meeting à Rock Hill pour soutenir la sénatrice Graham. Les derniers sondages montrent une course serrée face à Annie Andrews.",
-   "source": "South Carolina Public Radio",
-   "url": "https://www.southcarolinapublicradio.org/sc-news/2026-10-29/in-rock-hill-trump-will-urge-voters-to-back-darline-graham-as-senate-race-polls-tighten"
-  },
-  {
-   "id": "n20261030-4",
-   "date": "2026-10-28",
-   "code": "AK",
-   "chamber": "Senate",
-   "text": "Trump called for Mary Peltola to be charged and pulled from the race. A report said Democratic allies recruited a second Dan Sullivan. Peltola's campaign denies involvement.",
-   "text_fr": "Trump a demandé que Mary Peltola soit poursuivie et retirée de la course. Selon un article, des alliés démocrates ont recruté un second Dan Sullivan. La campagne de Peltola nie toute implication.",
-   "source": "Alaska Beacon",
-   "url": "https://alaskabeacon.com/2026/10/28/trump-calls-for-peltola-to-be-criminally-charged-removed-from-alaskas-u-s-senate-race/"
   }
  ],
  "forecasts": [
@@ -3605,17 +3542,17 @@
   "scenarios": [
    {
     "name": "Democrats win both chambers",
-    "label": "About 63% in DDHQ",
+    "label": "Projected outcome",
     "text": "Democrats can block nominees and treaties and attach conditions to spending bills, including on tariffs and Ukraine. Laws still need the president's signature."
    },
    {
     "name": "Democratic House, Republican Senate",
-    "label": "About 21%",
+    "label": "Ruled out",
     "text": "Split Congress. Big new legislation stalls. Budget fights and investigations intensify. Nominations still pass the Senate. Trade policy stays mostly with the White House."
    },
    {
     "name": "Republicans keep both chambers",
-    "label": "About 6 to 15%",
+    "label": "Ruled out",
     "text": "Unified government continues. The administration keeps a clear path for nominations and its legislative agenda through 2028."
    }
   ],
@@ -3629,7 +3566,7 @@
     "url": "https://www.ubs.com/us/en/wealth-management/insights/article.3745319.html"
    }
   ],
-  "scenario_note": "Combined-outcome odds from Decision Desk HQ, Nov. 2. Prediction markets give Democrats about 74% for the Senate and 94% for the House.",
+  "scenario_note": "Major networks project that Democrats win both the House and the Senate. Some races are still being counted.",
   "fr": {
    "intro": "Les élections de mi-mandat décident qui contrôle le Congrès pendant les deux dernières années du mandat de Donald Trump. Le Congrès ne dirige pas la politique étrangère, mais il vote le budget, confirme les nominations, ratifie les traités et enquête sur l'exécutif. Les analystes divergent sur l'effet d'un changement de majorité sur la politique envers l'Europe.",
    "levers": [
@@ -3653,21 +3590,21 @@
    "scenarios": [
     {
      "name": "Les démocrates gagnent les deux chambres",
-     "label": "Environ 63 % selon DDHQ",
+     "label": "Résultat projeté",
      "text": "Les démocrates peuvent bloquer nominations et traités et poser des conditions aux lois de dépenses, y compris sur les droits de douane et l'Ukraine. Les lois exigent toujours la signature du président."
     },
     {
      "name": "Chambre démocrate, Sénat républicain",
-     "label": "Environ 21 %",
+     "label": "Exclu",
      "text": "Congrès divisé. Les grandes lois nouvelles bloquent. Les bras de fer budgétaires et les enquêtes s'intensifient. Les nominations passent toujours au Sénat. La politique commerciale reste surtout entre les mains de la Maison Blanche."
     },
     {
      "name": "Les républicains gardent les deux chambres",
-     "label": "Environ 6 à 15 %",
+     "label": "Exclu",
      "text": "Le gouvernement unifié continue. L'administration garde la voie libre pour ses nominations et son programme législatif jusqu'en 2028."
     }
    ],
-   "scenario_note": "Probabilités combinées de Decision Desk HQ au 2 novembre. Les marchés de paris donnent aux démocrates environ 74 % pour le Sénat et 94 % pour la Chambre."
+   "scenario_note": "Les grandes chaînes projettent une victoire démocrate à la Chambre et au Sénat. Le dépouillement continue dans certaines courses."
   }
  },
  "house_summary": {
@@ -3826,7 +3763,10 @@
    "holder": "Mike Lawler",
    "open": false,
    "vacant": false,
-   "result": null
+   "result": {
+    "winner": "D",
+    "called": true
+   }
   },
   {
    "id": "OH-07",
@@ -3848,7 +3788,10 @@
    "holder": "Brian Fitzpatrick",
    "open": false,
    "vacant": false,
-   "result": null
+   "result": {
+    "winner": "D",
+    "called": true
+   }
   },
   {
    "id": "SC-01",
@@ -3892,7 +3835,10 @@
    "holder": "David Schweikert",
    "open": true,
    "vacant": false,
-   "result": null
+   "result": {
+    "winner": "D",
+    "called": false
+   }
   },
   {
    "id": "AZ-06",
@@ -3903,7 +3849,10 @@
    "holder": "Juan Ciscomani",
    "open": false,
    "vacant": false,
-   "result": null
+   "result": {
+    "winner": "D",
+    "called": true
+   }
   },
   {
    "id": "CA-48",
@@ -3950,7 +3899,10 @@
    "holder": "Mariannette Miller-Meeks",
    "open": false,
    "vacant": false,
-   "result": null
+   "result": {
+    "winner": "D",
+    "called": true
+   }
   },
   {
    "id": "IA-03",
@@ -3974,7 +3926,7 @@
    "vacant": false,
    "result": {
     "winner": "D",
-    "called": false
+    "called": true
    }
   },
   {
@@ -3986,7 +3938,10 @@
    "holder": "Tom Kean Jr.",
    "open": false,
    "vacant": false,
-   "result": null
+   "result": {
+    "winner": "D",
+    "called": true
+   }
   },
   {
    "id": "NM-02",
@@ -4019,7 +3974,10 @@
    "holder": "Ryan Mackenzie",
    "open": false,
    "vacant": false,
-   "result": null
+   "result": {
+    "winner": "D",
+    "called": true
+   }
   },
   {
    "id": "PA-08",
@@ -4030,7 +3988,10 @@
    "holder": "Rob Bresnahan",
    "open": false,
    "vacant": false,
-   "result": null
+   "result": {
+    "winner": "D",
+    "called": true
+   }
   },
   {
    "id": "PA-10",
@@ -4041,7 +4002,10 @@
    "holder": "Scott Perry",
    "open": false,
    "vacant": false,
-   "result": null
+   "result": {
+    "winner": "D",
+    "called": true
+   }
   },
   {
    "id": "TX-34",
