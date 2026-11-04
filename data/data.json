@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T08:09:46Z",
+  "updated": "2026-11-04T09:26:34Z",
   "election_date": "2026-11-03",
   "not_up": {
     "Senate": {
@@ -84,11 +84,11 @@
         }
       ],
       "result": {
-        "winner": "D",
+        "winner": "R",
         "called": false,
-        "dem_pct": 48.1,
-        "rep_pct": 48.0,
-        "reporting": 27
+        "dem_pct": 47.4,
+        "rep_pct": 48.6,
+        "reporting": 70
       },
       "history": [
         {
@@ -2788,6 +2788,16 @@
     }
   ],
   "news": [
+    {
+      "id": "n2026110409-2",
+      "date": "2026-11-04",
+      "code": "AK",
+      "chamber": "Senate",
+      "text": "Alaska Senate race is still uncalled. Republican Dan Sullivan now leads Mary Peltola by about one point with roughly 70% of precincts in.",
+      "text_fr": "La course au Sénat en Alaska n'est pas tranchée. Le républicain Dan Sullivan devance désormais Mary Peltola d'environ un point. Près de 70 % des bureaux ont été dépouillés.",
+      "source": "Alaska Public Media",
+      "url": "https://alaskapublic.org/news/politics/elections/2026-11-03/peltola-takes-early-lead-in-alaskas-u-s-senate-race"
+    },
     {
       "id": "n2026110409-1",
       "date": "2026-11-04",
