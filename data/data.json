@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T08:07:40Z",
+  "updated": "2026-11-04T08:09:46Z",
   "election_date": "2026-11-03",
   "not_up": {
     "Senate": {
@@ -1987,9 +1987,9 @@
       "result": {
         "winner": "D",
         "called": false,
-        "dem_pct": null,
-        "rep_pct": null,
-        "reporting": null
+        "dem_pct": 50.3,
+        "rep_pct": 49.7,
+        "reporting": 97
       },
       "history": [
         {
@@ -2788,6 +2788,16 @@
     }
   ],
   "news": [
+    {
+      "id": "n2026110409-1",
+      "date": "2026-11-04",
+      "code": "KS",
+      "chamber": "Governor",
+      "text": "Kansas governor race is still uncalled. Democrat Cindy Holscher leads Ty Masterson by about 6,000 votes with nearly all precincts counted.",
+      "text_fr": "L'élection du gouverneur du Kansas n'est toujours pas tranchée. La démocrate Cindy Holscher devance Ty Masterson d'environ 6 000 voix. Presque tous les bureaux ont été dépouillés.",
+      "source": "Johnson County Post",
+      "url": "https://johnsoncountypost.com/2026/11/04/kansas-governor-holscher-masterson-results-300827/"
+    },
     {
       "id": "n2026110408-1",
       "date": "2026-11-04",
