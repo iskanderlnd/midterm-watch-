@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T04:10:36Z",
+ "updated": "2026-11-04T06:09:34Z",
  "election_date": "2026-11-03",
  "not_up": {
   "Senate": {
@@ -295,7 +295,13 @@
    "change_date": "",
    "note": "",
    "polls": [],
-   "result": null,
+   "result": {
+    "winner": "R",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -393,7 +399,13 @@
      "rep": 46
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -461,7 +473,13 @@
      "rep": 44
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -594,7 +612,13 @@
      "rep": 45
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -758,7 +782,13 @@
      "rep": 40
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -1118,7 +1148,13 @@
      "rep": 44
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -1570,7 +1606,13 @@
      "rep": 39
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -1623,7 +1665,13 @@
    "change_date": "",
    "note": "Open seat",
    "polls": [],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -2070,7 +2118,13 @@
      "rep": 39
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -2229,7 +2283,13 @@
    "change_date": "",
    "note": "Open seat",
    "polls": [],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -2566,7 +2626,7 @@
    ],
    "result": {
     "winner": "D",
-    "called": false,
+    "called": true,
     "dem_pct": null,
     "rep_pct": null,
     "reporting": null
@@ -2685,6 +2745,56 @@
   }
  ],
  "news": [
+  {
+   "id": "n2026110406-1",
+   "date": "2026-11-04",
+   "code": "ME",
+   "chamber": "Senate",
+   "text": "Democrat Troy Jackson won in Maine. Susan Collins conceded the race.",
+   "text_fr": "Le démocrate Troy Jackson gagne dans le Maine. Susan Collins reconnaît sa défaite.",
+   "source": "Axios",
+   "url": "https://www.axios.com/2026/11/04/maine-senate-results-collins-jackson"
+  },
+  {
+   "id": "n2026110406-2",
+   "date": "2026-11-04",
+   "code": "MN",
+   "chamber": "Senate",
+   "text": "Democrat Peggy Flanagan is projected to win in Minnesota over Michele Tafoya.",
+   "text_fr": "La démocrate Peggy Flanagan est donnée gagnante dans le Minnesota face à Michele Tafoya.",
+   "source": "The Hill",
+   "url": "https://thehill.com/homenews/campaign/6175415-peggy-flanagan-minnesota-senate/"
+  },
+  {
+   "id": "n2026110406-3",
+   "date": "2026-11-04",
+   "code": "IA",
+   "chamber": "Senate",
+   "text": "Democrat Josh Turek flipped the Iowa seat. Democrats now control the Senate.",
+   "text_fr": "Le démocrate Josh Turek fait basculer le siège de l'Iowa. Les démocrates contrôlent désormais le Sénat.",
+   "source": "Forbes",
+   "url": "https://www.forbes.com/sites/saradorn/2026/11/03/midterm-election-results-live-updates-democrats-win-senate-in-stunning-rout/"
+  },
+  {
+   "id": "n2026110406-4",
+   "date": "2026-11-04",
+   "code": "AZ",
+   "chamber": "Governor",
+   "text": "Decision Desk HQ projects Katie Hobbs wins a second term in Arizona.",
+   "text_fr": "Decision Desk HQ donne Katie Hobbs réélue en Arizona.",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/democrat-hobbs-wins-arizona-governor-race-ddhq-projects"
+  },
+  {
+   "id": "n2026110406-5",
+   "date": "2026-11-04",
+   "code": "MI",
+   "chamber": "Governor",
+   "text": "Democrat Jocelyn Benson won the Michigan race to succeed Gretchen Whitmer.",
+   "text_fr": "La démocrate Jocelyn Benson remporte le Michigan et succède à Gretchen Whitmer.",
+   "source": "The Hill",
+   "url": "https://thehill.com/homenews/campaign/6185520-benson-wins-michigan-governor-election/"
+  },
   {
    "id": "n2026110404-1",
    "date": "2026-11-04",
@@ -3134,56 +3244,6 @@
    "text_fr": "Trump a demandé que Mary Peltola soit poursuivie et retirée de la course. Selon un article, des alliés démocrates ont recruté un second Dan Sullivan. La campagne de Peltola nie toute implication.",
    "source": "Alaska Beacon",
    "url": "https://alaskabeacon.com/2026/10/28/trump-calls-for-peltola-to-be-criminally-charged-removed-from-alaskas-u-s-senate-race/"
-  },
-  {
-   "id": "n20261030-5",
-   "date": "2026-10-28",
-   "code": "NH",
-   "chamber": "Senate",
-   "text": "Chris Pappas and John E. Sununu met for a debate. They clashed over Social Security, tariffs and the Iran war.",
-   "text_fr": "Chris Pappas et John E. Sununu se sont affrontés lors d'un débat. Ils se sont opposés sur la Sécurité sociale, les droits de douane et la guerre en Iran.",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/"
-  },
-  {
-   "id": "n20261030-6",
-   "date": "2026-10-28",
-   "code": "OH",
-   "chamber": "Senate",
-   "text": "Trump rallied in Ohio for Sen. Jon Husted and Vivek Ramaswamy. He asked supporters to vote as if he were on the ballot.",
-   "text_fr": "Trump a fait campagne dans l'Ohio pour le sénateur Jon Husted et Vivek Ramaswamy. Il a demandé à ses partisans de voter comme s'il était candidat.",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/"
-  },
-  {
-   "id": "n20261029-1",
-   "date": "2026-10-28",
-   "code": "US",
-   "chamber": "Senate",
-   "text": "New Times/Siena polls show a 48 to 48 tie in South Carolina. Flanagan leads by 14 in Minnesota. Moody leads by 6 in Florida.",
-   "text_fr": "De nouveaux sondages Times/Siena montrent une égalité à 48 en Caroline du Sud. Flanagan mène de 14 points au Minnesota. Moody mène de 6 points en Floride.",
-   "source": "Siena Research Institute",
-   "url": "https://sri.siena.edu/2026/10/28/nytimes-siena-poll-of-likely-voters-florida-minnesota-and-south-carolina/"
-  },
-  {
-   "id": "n20261029-2",
-   "date": "2026-10-28",
-   "code": "WI",
-   "chamber": "Governor",
-   "text": "The final Marquette poll gives Democrat David Crowley 51 and Republican Tom Tiffany 44 among likely voters.",
-   "text_fr": "Le dernier sondage Marquette donne 51 au démocrate David Crowley et 44 au républicain Tom Tiffany chez les électeurs probables.",
-   "source": "Marquette Law School Poll",
-   "url": "https://law.marquette.edu/poll/2026/10/28/mlsp92-press-release/"
-  },
-  {
-   "id": "n20261029-3",
-   "date": "2026-10-28",
-   "code": "OH",
-   "chamber": "Senate",
-   "text": "A Suffolk poll puts Sherrod Brown ahead of Jon Husted, 47 to 44. Amy Acton leads Vivek Ramaswamy 48 to 44 for governor.",
-   "text_fr": "Un sondage Suffolk place Sherrod Brown devant Jon Husted, 47 contre 44. Amy Acton devance Vivek Ramaswamy 48 contre 44 pour le poste de gouverneur.",
-   "source": "Suffolk University",
-   "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_28_2026_ohio_press_release.pdf"
   }
  ],
  "forecasts": [
@@ -3876,7 +3936,10 @@
    "holder": "Jared Moskowitz",
    "open": false,
    "vacant": false,
-   "result": null
+   "result": {
+    "winner": "D",
+    "called": false
+   }
   },
   {
    "id": "IA-01",
@@ -3909,7 +3972,10 @@
    "holder": "Chuck Edwards",
    "open": true,
    "vacant": false,
-   "result": null
+   "result": {
+    "winner": "D",
+    "called": false
+   }
   },
   {
    "id": "NJ-07",
