@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T06:50:00Z",
+ "updated": "2026-11-04T02:10:49Z",
  "election_date": "2026-11-03",
  "not_up": {
   "Senate": {
@@ -156,7 +156,13 @@
    "change_date": "",
    "note": "",
    "polls": [],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -205,7 +211,13 @@
      "rep": 50
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "R",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -253,7 +265,13 @@
      "rep": 46
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -595,7 +613,13 @@
    "change_date": "",
    "note": "",
    "polls": [],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -668,7 +692,13 @@
      "rep": 42
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": false,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -872,7 +902,13 @@
      "rep": 41
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -992,7 +1028,13 @@
      "rep": 44
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -1326,7 +1368,13 @@
      "rep": 43
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": false,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -1351,7 +1399,13 @@
    "change_date": "",
    "note": "",
    "polls": [],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -1632,7 +1686,13 @@
      "rep": 48
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "R",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -1668,7 +1728,13 @@
      "rep": 49
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": false,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -1741,7 +1807,13 @@
    "change_date": "",
    "note": "",
    "polls": [],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -1895,7 +1967,13 @@
    "change_date": "",
    "note": "",
    "polls": [],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -1919,7 +1997,13 @@
    "change_date": "",
    "note": "",
    "polls": [],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -2146,7 +2230,13 @@
    "change_date": "",
    "note": "",
    "polls": [],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": false,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -2278,7 +2368,13 @@
      "rep": 36
     }
    ],
-   "result": null,
+   "result": {
+    "winner": "D",
+    "called": true,
+    "dem_pct": null,
+    "rep_pct": null,
+    "reporting": null
+   },
    "history": [
     {
      "date": "2026-09-30",
@@ -2547,6 +2643,56 @@
   }
  ],
  "news": [
+  {
+   "id": "n2026110402-1",
+   "date": "2026-11-04",
+   "code": "NC",
+   "chamber": "Senate",
+   "text": "Democrat Roy Cooper won the North Carolina Senate race, the AP projects. It is the first Democratic flip of the night.",
+   "text_fr": "Le démocrate Roy Cooper remporte la course sénatoriale en Caroline du Nord, selon l'AP. C'est le premier gain démocrate de la soirée.",
+   "source": "WBTV / AP",
+   "url": "https://www.wbtv.com/2026/11/04/roy-cooper-wins-2026-us-senate-race-north-carolina-ap-projects/"
+  },
+  {
+   "id": "n2026110402-2",
+   "date": "2026-11-04",
+   "code": "NH",
+   "chamber": "Senate",
+   "text": "Democrat Chris Pappas beat John E. Sununu in New Hampshire, the AP projects. Sununu reportedly conceded.",
+   "text_fr": "Le démocrate Chris Pappas bat John E. Sununu dans le New Hampshire, selon l'AP. Sununu aurait reconnu sa défaite.",
+   "source": "WCAX / AP",
+   "url": "https://www.wcax.com/2026/11/04/pappas-defeats-sununu-keeps-nh-senate-seat-democratic/"
+  },
+  {
+   "id": "n2026110402-3",
+   "date": "2026-11-04",
+   "code": "GA",
+   "chamber": "Senate",
+   "text": "Senator Jon Ossoff won a second term in Georgia, the AP projects. He defeated Republican Mike Collins.",
+   "text_fr": "Le sénateur Jon Ossoff obtient un second mandat en Géorgie, selon l'AP. Il bat le républicain Mike Collins.",
+   "source": "Fox 5 Atlanta / AP",
+   "url": "https://www.fox5atlanta.com/news/george-us-senate-jon-ossoff-mike-collins"
+  },
+  {
+   "id": "n2026110402-4",
+   "date": "2026-11-04",
+   "code": "FL",
+   "chamber": "Senate",
+   "text": "Republican Ashley Moody kept her Florida Senate seat, the AP projects. Byron Donalds also won the governor race.",
+   "text_fr": "La républicaine Ashley Moody conserve son siège de sénatrice en Floride, selon l'AP. Byron Donalds remporte aussi le poste de gouverneur.",
+   "source": "Suncoast News / AP",
+   "url": "https://www.mysuncoast.com/2026/11/04/republican-ashley-moody-wins-reelection-us-senate-florida/"
+  },
+  {
+   "id": "n2026110402-5",
+   "date": "2026-11-04",
+   "code": "PA",
+   "chamber": "Governor",
+   "text": "Democratic governors Josh Shapiro, JB Pritzker, Wes Moore and Maura Healey all won new terms, the AP projects.",
+   "text_fr": "Les gouverneurs démocrates Josh Shapiro, JB Pritzker, Wes Moore et Maura Healey sont réélus, selon l'AP.",
+   "source": "Bloomberg / AP",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/democrat-shapiro-wins-pennsylvania-governor-race-ap-projects"
+  },
   {
    "id": "n20261103-1",
    "date": "2026-11-02",
@@ -4208,5 +4354,9 @@
    "signal": "Alaska uses ranked-choice voting and can take two weeks to finish counting. A Senate decided by one seat could wait for Alaska.",
    "signal_fr": "L'Alaska utilise le vote préférentiel et peut mettre deux semaines à finir le décompte. Un Sénat joué à un siège pourrait attendre l'Alaska."
   }
- ]
+ ],
+ "results_source": {
+  "name": "Associated Press race calls",
+  "url": "https://apnews.com/projects/election-results-2026/"
+ }
 }
